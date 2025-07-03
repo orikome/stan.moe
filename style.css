@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: 
+        radial-gradient(ellipse at center, #1a1a2e 0%, #0a0a18 100%),
+        repeating-linear-gradient(
+            0deg,
+            rgba(18, 18, 40, 0.8),
+            rgba(18, 18, 40, 0.8) 1px,
+            transparent 1px,
+            transparent 4px
+        );
+    background-blend-mode: multiply;
+    color: #f8f8ff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+.domain-container {
+    position: relative;
+    margin-bottom: -1.5rem;
+}
+
+.domain {
+    font-size: 5.5rem;
+    font-weight: 300;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #f8f8ff 0%, #e6e6fa 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 25px rgba(255, 105, 180, 0.15);
+    position: relative;
+    font-family: 'SF Pro Display', -apple-system, sans-serif;
+    animation: glow 3s ease-in-out infinite alternate;
+}
+
+.domain-heart {
+    color: #ff69b4;
+    position: absolute;
+    top: -0.7rem;
+    right: -0.7rem;
+    font-size: 1.5rem;
+    animation: float 3s ease-in-out infinite;
+    filter: drop-shadow(0 0 5px rgba(255, 105, 180, 0.7));
+}
+
+.tagline {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #c0c0ff;
+    margin-top: 1.5rem;
+    max-width: 500px;
+    line-height: 1.6;
+    text-shadow: 0 0 10px rgba(192, 192, 255, 0.3);
+}
+
+.kawaii-elements {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.kawaii-element {
+    position: absolute;
+    font-size: 1.8rem;
+    opacity: 0.4;
+    animation: float 6s ease-in-out infinite;
+    text-shadow: 0 0 15px rgba(255, 105, 180, 0.5);
+    filter: blur(0.5px);
+}
+
+.kawaii-element:nth-child(1) { top: 15%; left: 10%; animation-delay: 0s; color: #ff69b4; }
+.kawaii-element:nth-child(2) { top: 25%; right: 15%; animation-delay: 1s; color: #ffb6c1; }
+.kawaii-element:nth-child(3) { bottom: 20%; left: 20%; animation-delay: 2s; color: #e6e6fa; }
+.kawaii-element:nth-child(4) { bottom: 30%; right: 10%; animation-delay: 3s; color: #d8bfd8; }
+.kawaii-element:nth-child(5) { top: 40%; left: 30%; animation-delay: 4s; color: #ffc0cb; }
+
+.footer {
+    position: absolute;
+    bottom: 2rem;
+    width: 100%;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #a0a0c0;
+    z-index: 3;
+}
+
+.footer .disclaimer {
+    font-size: 0.75em;
+    opacity: 0.5;
+    display: block;
+    margin-top: 0.3em;
+}
+
+/* Animations */
+@keyframes float {
+    0%, 100% { transform: translateY(0) rotate(0deg); }
+    50% { transform: translateY(-15px) rotate(5deg); }
+}
+
+@keyframes glow {
+    0% { text-shadow: 0 0 25px rgba(255, 105, 180, 0.15); }
+    100% { text-shadow: 0 0 35px rgba(255, 182, 193, 0.4), 0 0 50px rgba(255, 105, 180, 0.2); }
+}
+
+.sparkle {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: #ff69b4;
+    border-radius: 50%;
+    animation: sparkle 2s infinite;
+    opacity: 0;
+    box-shadow: 0 0 10px #ff69b4;
+}
+
+@keyframes sparkle {
+    0% { opacity: 0; transform: scale(0); }
+    50% { opacity: 1; transform: scale(1.2); }
+    100% { opacity: 0; transform: scale(0); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .domain {
+        font-size: 4rem;
+    }
+    .tagline {
+        font-size: 1.1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .domain {
+        font-size: 3rem;
+    }
+    .domain-heart {
+        font-size: 1.2rem;
+        top: -0.5rem;
+        right: -0.5rem;
+    }
+}
+
+/* Added subtle glow effect on hover */
+.domain-container:hover .domain {
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+.domain-container:hover .domain-heart {
+    animation: float 1.5s ease-in-out infinite;
+    filter: drop-shadow(0 0 10px rgba(255, 105, 180, 0.9));
+}
+
+a,
+a:link,
+a:visited {
+    color: pink !important;
+    text-decoration: none !important;
+}
