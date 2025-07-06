@@ -51,6 +51,8 @@ body {
     position: relative;
     font-family: 'SF Pro Display', -apple-system, sans-serif;
     animation: glow 3s ease-in-out infinite alternate;
+    pointer-events: none;
+    user-select: none;
 }
 
 .domain-heart {
@@ -61,6 +63,8 @@ body {
     font-size: 1.5rem;
     animation: float 3s ease-in-out infinite;
     filter: drop-shadow(0 0 5px rgba(255, 105, 180, 0.7));
+    pointer-events: none;
+    user-select: none;
 }
 
 .tagline {
@@ -71,6 +75,8 @@ body {
     max-width: 500px;
     line-height: 1.6;
     text-shadow: 0 0 10px rgba(192, 192, 255, 0.3);
+    pointer-events: none;
+    user-select: none;
 }
 
 .kawaii-elements {
@@ -114,6 +120,8 @@ body {
     opacity: 0.5;
     display: block;
     margin-top: 0.3em;
+    pointer-events: none;
+    user-select: none;
 }
 
 /* Animations */
