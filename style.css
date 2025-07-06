@@ -59,16 +59,30 @@ body {
     font-size: 5.5rem;
     font-weight: 300;
     letter-spacing: -0.03em;
-    background: linear-gradient(135deg, var(--text-primary) 0%, var(--text-secondary) 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 25px rgba(255, 126, 182, var(--glow-intensity));
     position: relative;
     font-family: 'SF Pro Display', -apple-system, sans-serif;
     animation: glow var(--animation-speed) ease-in-out infinite alternate;
     pointer-events: none;
     user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.domain-stan {
+    background: linear-gradient(135deg, #a09eff 0%, #8e7dff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 25px rgba(130, 118, 255, var(--glow-intensity));
+}
+
+.domain-moe {
+    background: linear-gradient(135deg, #ff8ecf 0%, #ffb0e0 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 25px rgba(255, 126, 182, var(--glow-intensity));
 }
 
 .domain-heart {
