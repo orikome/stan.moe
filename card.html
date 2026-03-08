@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stan Card Generator — stan.moe</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="card.css" />
+    <link rel="icon" type="image/png" href="favicon.ico" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Free stan card generator — create a beautiful shareable fan card showing what you stan. Download as PNG instantly. No sign-up needed."
+    />
+    <meta
+      name="keywords"
+      content="stan card, stan card generator, fan card maker, photocard generator, fandom card, kpop photocard, anime card, make stan card, free fan card, stan moe"
+    />
+    <meta name="author" content="orikome" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://stan.moe/card.html" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Stan Card Generator — stan.moe" />
+    <meta
+      property="og:description"
+      content="Make a free shareable stan card. Add your handle, your fandom, an optional photo — download as PNG instantly."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://stan.moe/card.html" />
+    <meta property="og:image" content="https://stan.moe/android-chrome-512x512.png" />
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="stan.moe" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Stan Card Generator — stan.moe" />
+    <meta
+      name="twitter:description"
+      content="Make a free shareable stan card. Add your handle, your fandom, an optional photo — download as PNG instantly."
+    />
+    <meta name="twitter:image" content="https://stan.moe/android-chrome-512x512.png" />
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Stan Card Generator",
+        "url": "https://stan.moe/card.html",
+        "description": "Free stan card generator. Create a beautiful shareable fan card showing what you stan. Download as PNG instantly.",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Any",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "stan.moe",
+          "url": "https://stan.moe/"
+        }
+      }
+    </script>
+  </head>
+  <body class="generator-page">
+    <div class="kawaii-elements">
+      <div class="kawaii-element">✿</div>
+      <div class="kawaii-element">♡</div>
+      <div class="kawaii-element">★</div>
+      <div class="kawaii-element">✧</div>
+      <div class="kawaii-element">✦</div>
+    </div>
+
+    <div class="page-header">
+      <a href="/" class="back-link">← stan.moe</a>
+      <h2>stan card generator</h2>
+      <p>make your card. share your stan.</p>
+    </div>
+
+    <div class="generator-layout">
+      <div class="form-panel">
+        <div class="form-group">
+          <label for="handle">your handle</label>
+          <input
+            id="handle"
+            type="text"
+            placeholder="@yourname"
+            maxlength="32"
+            autocomplete="off"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="fandom">you stan</label>
+          <input
+            id="fandom"
+            type="text"
+            placeholder="Hatsune Miku"
+            maxlength="40"
+            autocomplete="off"
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="quote"
+            >your vibe <span class="optional">optional</span></label
+          >
+          <textarea
+            id="quote"
+            placeholder="a short quote or bio..."
+            maxlength="80"
+            rows="2"
+          ></textarea>
+        </div>
+
+        <div class="form-group">
+          <label>your photo <span class="optional">optional</span></label>
+          <div class="avatar-upload" id="avatar-drop">
+            <input type="file" id="avatar-file" accept="image/*" />
+            <img id="avatar-preview" alt="avatar preview" />
+            <div class="avatar-upload-label">
+              ♡ drop image or click to upload
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>card theme</label>
+          <div class="theme-picker">
+            <button class="theme-btn active" data-theme="pink">moe pink</button>
+            <button class="theme-btn" data-theme="blue">night blue</button>
+            <button class="theme-btn" data-theme="green">forest</button>
+          </div>
+        </div>
+
+        <button id="download-btn" class="download-btn">download card ↓</button>
+      </div>
+
+      <div class="preview-panel">
+        <canvas id="card-canvas" width="400" height="600"></canvas>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>
+        made by
+        <a href="https://github.com/orikome" target="_blank">orikome</a>
+        <br /><span class="disclaimer"
+          >Twemoji © Twitter, used under CC-BY 4.0</span
+        >
+      </p>
+    </div>
+
+    <script src="card.js"></script>
+  </body>
+</html>
