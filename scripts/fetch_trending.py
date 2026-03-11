@@ -77,9 +77,22 @@ def fetch_trending() -> list[dict]:
     return results
 
 
+def load_existing_anime() -> list[dict]:
+    try:
+        with open(OUTPUT_PATH, encoding="utf-8") as f:
+            return json.load(f).get("anime", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
 def main() -> None:
     print("Fetching trending anime from AniList API...")
     anime = fetch_trending()
+
+    existing = load_existing_anime()
+    if existing == anime:
+        print("No changes in trending data — skipping write.")
+        return
 
     output = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
