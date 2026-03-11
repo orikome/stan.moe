@@ -48,3 +48,51 @@ document.querySelector('.domain-container').addEventListener('mouseover', functi
         }, i * 100);
     }
 });
+
+// Fetch and render trending anime strip
+async function loadTrending() {
+    const strip = document.getElementById('trending-strip');
+    if (!strip) return;
+    try {
+        const res = await fetch('data/trending.json');
+        if (!res.ok) return;
+        const { anime } = await res.json();
+        if (!Array.isArray(anime) || !anime.length) return;
+
+        anime.forEach((a, i) => {
+            const card = document.createElement('a');
+            card.className = 'trending-card';
+
+            // Only allow actual AniList URLs — no open redirects
+            if (typeof a.url === 'string' && a.url.startsWith('https://anilist.co/')) {
+                card.href = a.url;
+                card.target = '_blank';
+                card.rel = 'noopener noreferrer';
+            }
+
+            const rank = document.createElement('span');
+            rank.className = 'trending-rank';
+            rank.textContent = `#${i + 1}`;
+
+            const title = document.createElement('span');
+            title.className = 'trending-title';
+            title.textContent = String(a.title ?? '').slice(0, 120);
+
+            card.appendChild(rank);
+            card.appendChild(title);
+
+            if (a.score != null && isFinite(Number(a.score))) {
+                const score = document.createElement('span');
+                score.className = 'trending-score';
+                score.textContent = `★ ${Number(a.score).toFixed(1)}`;
+                card.appendChild(score);
+            }
+
+            strip.appendChild(card);
+        });
+    } catch (_) {
+        // silently fail — trending is non-critical
+    }
+}
+
+loadTrending();

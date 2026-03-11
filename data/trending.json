@@ -1,0 +1,55 @@
+{
+  "updated_at": "2026-03-11T15:48:36Z",
+  "anime": [
+    {
+      "id": 21,
+      "title": "ONE PIECE",
+      "score": 8.8,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/21"
+    },
+    {
+      "id": 172463,
+      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+      "score": 8.4,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "url": "https://anilist.co/anime/172463"
+    },
+    {
+      "id": 182255,
+      "title": "Frieren: Beyond Journey’s End Season 2",
+      "score": 8.9,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "url": "https://anilist.co/anime/182255"
+    },
+    {
+      "id": 166613,
+      "title": "Hell’s Paradise Season 2",
+      "score": 8.1,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/166613"
+    },
+    {
+      "id": 167152,
+      "title": "Sentenced to Be a Hero",
+      "score": 7.9,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "url": "https://anilist.co/anime/167152"
+    }
+  ]
+}
