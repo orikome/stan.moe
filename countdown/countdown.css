@@ -1,0 +1,356 @@
+/* Countdown pages — shared by listing and individual show pages */
+
+body.countdown-page {
+    overflow-x: hidden;
+    overflow-y: auto;
+    min-height: 100vh;
+}
+
+/* Page header */
+.countdown-page .page-header {
+    text-align: center;
+    padding: 2rem 2rem 1rem;
+    position: relative;
+    z-index: 2;
+}
+
+.countdown-page .back-link {
+    display: inline-block;
+    font-size: 0.8rem;
+    color: var(--accent-tertiary) !important;
+    opacity: 0.7;
+    margin-bottom: 0.75rem;
+    transition: opacity 0.3s ease;
+    text-shadow: none !important;
+}
+
+.countdown-page .back-link:hover {
+    opacity: 1;
+    color: var(--accent-primary) !important;
+}
+
+.countdown-page .page-header h2 {
+    font-size: 1.6rem;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+    background: linear-gradient(135deg, #a09eff 0%, #ff8ecf 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.countdown-page .page-header p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    opacity: 0.7;
+    margin-top: 0.3rem;
+}
+
+/* ─── Listing grid ─── */
+
+.countdown-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+    position: relative;
+    z-index: 2;
+}
+
+.countdown-card {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(135deg, rgba(191, 170, 255, 0.07) 0%, rgba(255, 142, 207, 0.07) 100%);
+    border: 1px solid rgba(255, 142, 207, 0.18);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.countdown-card:hover {
+    border-color: rgba(255, 142, 207, 0.5);
+    background: linear-gradient(135deg, rgba(191, 170, 255, 0.14) 0%, rgba(255, 142, 207, 0.14) 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 24px rgba(255, 142, 207, 0.12);
+}
+
+.card-cover {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+}
+
+.card-body {
+    padding: 0.85rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1;
+}
+
+.card-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    line-height: 1.3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.card-episode {
+    font-size: 0.7rem;
+    color: var(--accent-tertiary);
+    background: rgba(191, 170, 255, 0.1);
+    border: 1px solid rgba(191, 170, 255, 0.2);
+    border-radius: 50px;
+    padding: 0.15rem 0.5rem;
+    white-space: nowrap;
+}
+
+.card-genre {
+    font-size: 0.65rem;
+    color: var(--text-secondary);
+    opacity: 0.6;
+}
+
+.card-score {
+    font-size: 0.7rem;
+    color: var(--accent-primary);
+    margin-left: auto;
+    white-space: nowrap;
+}
+
+/* ─── Timer (shared between listing cards and detail page) ─── */
+
+.timer {
+    display: flex;
+    gap: 0.4rem;
+    justify-content: center;
+    margin-top: auto;
+    padding-top: 0.5rem;
+}
+
+.timer-segment {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(191, 170, 255, 0.15);
+    border-radius: 8px;
+    padding: 0.35rem 0.45rem;
+    text-align: center;
+    min-width: 42px;
+    flex: 1;
+}
+
+.timer-value {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--accent-primary);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.2;
+}
+
+.timer-label {
+    font-size: 0.55rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-secondary);
+    opacity: 0.5;
+}
+
+.timer-aired {
+    font-size: 0.85rem;
+    color: var(--accent-secondary);
+    text-align: center;
+    padding: 0.6rem 0;
+    opacity: 0.7;
+}
+
+/* ─── Show detail page ─── */
+
+.show-detail {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+    position: relative;
+    z-index: 2;
+}
+
+.show-banner {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+    opacity: 0.7;
+}
+
+.show-header {
+    display: flex;
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
+    align-items: flex-start;
+}
+
+.show-cover {
+    width: 120px;
+    min-width: 120px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.show-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.show-title {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--text-primary);
+    line-height: 1.3;
+    margin-bottom: 0.3rem;
+}
+
+.show-title-romaji {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    opacity: 0.5;
+    margin-bottom: 0.6rem;
+}
+
+.show-tags {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.show-tag {
+    font-size: 0.65rem;
+    color: var(--accent-tertiary);
+    background: rgba(191, 170, 255, 0.1);
+    border: 1px solid rgba(191, 170, 255, 0.2);
+    border-radius: 50px;
+    padding: 0.15rem 0.5rem;
+}
+
+/* Large timer for detail page */
+.show-detail .timer {
+    margin: 1.5rem 0;
+}
+
+.show-detail .timer-segment {
+    padding: 0.6rem 0.5rem;
+    min-width: 64px;
+}
+
+.show-detail .timer-value {
+    font-size: 1.8rem;
+}
+
+.show-detail .timer-label {
+    font-size: 0.65rem;
+}
+
+.show-episode-info {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+}
+
+.show-anilist-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1.25rem;
+    background: linear-gradient(135deg, rgba(191, 170, 255, 0.12) 0%, rgba(255, 142, 207, 0.12) 100%);
+    border: 1px solid rgba(255, 142, 207, 0.35);
+    border-radius: 50px;
+    font-size: 0.85rem;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
+    text-shadow: none !important;
+}
+
+.show-anilist-link:hover {
+    background: linear-gradient(135deg, rgba(191, 170, 255, 0.22) 0%, rgba(255, 142, 207, 0.22) 100%);
+    border-color: var(--accent-primary);
+    transform: translateY(-1px);
+}
+
+/* ─── Footer ─── */
+
+.countdown-page .footer {
+    position: relative;
+    padding: 2rem;
+}
+
+/* ─── Responsive ─── */
+
+@media (max-width: 768px) {
+    .countdown-grid {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1rem;
+        padding: 0 1rem 3rem;
+    }
+
+    .show-detail .timer-value {
+        font-size: 1.4rem;
+    }
+
+    .show-detail .timer-segment {
+        min-width: 52px;
+    }
+}
+
+@media (max-width: 480px) {
+    .countdown-grid {
+        grid-template-columns: 1fr;
+        padding: 0 1rem 3rem;
+    }
+
+    .card-cover {
+        height: 130px;
+    }
+
+    .show-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .show-cover {
+        width: 100px;
+        min-width: 100px;
+    }
+
+    .show-tags {
+        justify-content: center;
+    }
+
+    .show-banner {
+        height: 140px;
+        border-radius: 8px;
+    }
+
+    .show-detail .timer-value {
+        font-size: 1.2rem;
+    }
+
+    .show-detail .timer-segment {
+        min-width: 44px;
+        padding: 0.4rem 0.3rem;
+    }
+}

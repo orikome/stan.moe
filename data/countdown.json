@@ -1,0 +1,515 @@
+{
+  "updated_at": "2026-03-19T00:46:12Z",
+  "shows": [
+    {
+      "slug": "sentenced-to-be-a-hero",
+      "anilistId": 167152,
+      "title": "Sentenced to Be a Hero",
+      "titleRomaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-u0cBZkqDowHP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
+      "siteUrl": "https://anilist.co/anime/167152",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 79,
+      "nextEpisode": 11,
+      "airingAt": 1773927000
+    },
+    {
+      "slug": "chained-soldier-season-2",
+      "anilistId": 176276,
+      "title": "Chained Soldier Season 2",
+      "titleRomaji": "Mato Seihei no Slave 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176276-rtF8mYd2OWw2.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176276-ES97CHqKSrLg.jpg",
+      "siteUrl": "https://anilist.co/anime/176276",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 73,
+      "nextEpisode": 11,
+      "airingAt": 1773928800
+    },
+    {
+      "slug": "the-invisible-man-and-his-soon-to-be-wife",
+      "anilistId": 185039,
+      "title": "The Invisible Man and His Soon-to-Be Wife",
+      "titleRomaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185039-rVofxrbEyaL9.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185039-Lh6EIwvvwGaL.jpg",
+      "siteUrl": "https://anilist.co/anime/185039",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 72,
+      "nextEpisode": 11,
+      "airingAt": 1773930600
+    },
+    {
+      "slug": "the-holy-grail-of-eris",
+      "anilistId": 183270,
+      "title": "The Holy Grail of Eris",
+      "titleRomaji": "Eris no Seihai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183270-CmZikKu34WPd.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg",
+      "siteUrl": "https://anilist.co/anime/183270",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 66,
+      "nextEpisode": 11,
+      "airingAt": 1773932160
+    },
+    {
+      "slug": "jujutsu-kaisen-season-3-the-culling-game-part-1",
+      "anilistId": 172463,
+      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+      "titleRomaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
+      "siteUrl": "https://anilist.co/anime/172463",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 84,
+      "nextEpisode": 11,
+      "airingAt": 1773933960
+    },
+    {
+      "slug": "roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-",
+      "anilistId": 191718,
+      "title": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+      "titleRomaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191718-FeR6bnlkqF0J.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
+      "siteUrl": "https://anilist.co/anime/191718",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 62,
+      "nextEpisode": 11,
+      "airingAt": 1773934200
+    },
+    {
+      "slug": "pok-mon-horizons-the-series",
+      "anilistId": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "titleRomaji": "Pocket Monsters (2023)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+      "siteUrl": "https://anilist.co/anime/158871",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 132,
+      "airingAt": 1774000500
+    },
+    {
+      "slug": "frieren-beyond-journey-s-end-season-2",
+      "anilistId": 182255,
+      "title": "Frieren: Beyond Journey’s End Season 2",
+      "titleRomaji": "Sousou no Frieren 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
+      "siteUrl": "https://anilist.co/anime/182255",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 10,
+      "averageScore": 89,
+      "nextEpisode": 9,
+      "airingAt": 1774015200
+    },
+    {
+      "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
+      "anilistId": 185262,
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+      "titleRomaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-95wbx3Y9hCwm.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg",
+      "siteUrl": "https://anilist.co/anime/185262",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 11,
+      "airingAt": 1774024500
+    },
+    {
+      "slug": "fire-force-season-3-part-2",
+      "anilistId": 179062,
+      "title": "Fire Force Season 3 Part 2",
+      "titleRomaji": "Enen no Shouboutai: San no Shou Part 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+      "siteUrl": "https://anilist.co/anime/179062",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 79,
+      "nextEpisode": 11,
+      "airingAt": 1774025580
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1327,
+      "airingAt": 1774078200
+    },
+    {
+      "slug": "case-closed",
+      "anilistId": 235,
+      "title": "Case Closed",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1194,
+      "airingAt": 1774083600
+    },
+    {
+      "slug": "trigun-stargaze",
+      "anilistId": 163144,
+      "title": "TRIGUN STARGAZE",
+      "titleRomaji": "TRIGUN STARGAZE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
+      "siteUrl": "https://anilist.co/anime/163144",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 70,
+      "nextEpisode": 11,
+      "airingAt": 1774101600
+    },
+    {
+      "slug": "fate-strange-fake",
+      "anilistId": 166617,
+      "title": "Fate/strange Fake",
+      "titleRomaji": "Fate/strange Fake",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+      "siteUrl": "https://anilist.co/anime/166617",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 83,
+      "nextEpisode": 12,
+      "airingAt": 1774103400
+    },
+    {
+      "slug": "dead-account",
+      "anilistId": 187901,
+      "title": "Dead Account",
+      "titleRomaji": "Dead Account",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
+      "siteUrl": "https://anilist.co/anime/187901",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 61,
+      "nextEpisode": 11,
+      "airingAt": 1774103400
+    },
+    {
+      "slug": "to-your-eternity-season-3",
+      "anilistId": 162669,
+      "title": "To Your Eternity Season 3",
+      "titleRomaji": "Fumetsu no Anata e Season 3",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
+      "siteUrl": "https://anilist.co/anime/162669",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 22,
+      "averageScore": 75,
+      "nextEpisode": 20,
+      "airingAt": 1774104300
+    },
+    {
+      "slug": "tojima-wants-to-be-a-kamen-rider",
+      "anilistId": 187464,
+      "title": "Tojima Wants to Be a Kamen Rider",
+      "titleRomaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-JRW0ASx02H83.jpg",
+      "siteUrl": "https://anilist.co/anime/187464",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 73,
+      "nextEpisode": 24,
+      "airingAt": 1774107000
+    },
+    {
+      "slug": "in-the-clear-moonlit-dusk",
+      "anilistId": 192507,
+      "title": "In the Clear Moonlit Dusk",
+      "titleRomaji": "Uruwashi no Yoi no Tsuki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
+      "siteUrl": "https://anilist.co/anime/192507",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 72,
+      "nextEpisode": 11,
+      "airingAt": 1774164600
+    },
+    {
+      "slug": "you-and-i-are-polar-opposites",
+      "anilistId": 184951,
+      "title": "You and I Are Polar Opposites",
+      "titleRomaji": "Seihantai na Kimi to Boku",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
+      "siteUrl": "https://anilist.co/anime/184951",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 81,
+      "nextEpisode": 11,
+      "airingAt": 1774166400
+    },
+    {
+      "slug": "hell-s-paradise-season-2",
+      "anilistId": 166613,
+      "title": "Hell’s Paradise Season 2",
+      "titleRomaji": "Jigokuraku 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166613-drS86exJlIjG.jpg",
+      "siteUrl": "https://anilist.co/anime/166613",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 81,
+      "nextEpisode": 11,
+      "airingAt": 1774190640
+    },
+    {
+      "slug": "journal-with-witch",
+      "anilistId": 177385,
+      "title": "Journal with Witch",
+      "titleRomaji": "Ikoku Nikki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177385-TBpvkGdF28R7.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
+      "siteUrl": "https://anilist.co/anime/177385",
+      "genres": [
+        "Drama",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 85,
+      "nextEpisode": 12,
+      "airingAt": 1774191600
+    },
+    {
+      "slug": "my-hero-academia-vigilantes-season-2",
+      "anilistId": 195322,
+      "title": "My Hero Academia: Vigilantes Season 2",
+      "titleRomaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+      "siteUrl": "https://anilist.co/anime/195322",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 72,
+      "nextEpisode": 12,
+      "airingAt": 1774270800
+    },
+    {
+      "slug": "golden-kamuy-final-season",
+      "anilistId": 166521,
+      "title": "Golden Kamuy Final Season",
+      "titleRomaji": "Golden Kamuy: Saishuushou",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-f79xGOVNAnBp.jpg",
+      "siteUrl": "https://anilist.co/anime/166521",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 80,
+      "nextEpisode": 12,
+      "airingAt": 1774274400
+    },
+    {
+      "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
+      "anilistId": 195515,
+      "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+      "titleRomaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
+      "siteUrl": "https://anilist.co/anime/195515",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 60,
+      "nextEpisode": 12,
+      "airingAt": 1774360800
+    },
+    {
+      "slug": "tune-in-to-the-midnight-heart",
+      "anilistId": 187942,
+      "title": "Tune In to the Midnight Heart",
+      "titleRomaji": "Mayonaka Heart Tune",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/187942",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 70,
+      "nextEpisode": 12,
+      "airingAt": 1774360800
+    },
+    {
+      "slug": "isekai-office-worker-the-other-world-s-books-depend-on-the-b",
+      "anilistId": 183661,
+      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "titleRomaji": "Isekai no Sata wa Shachiku Shidai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183661-goNHY3WDK3j3.jpg",
+      "siteUrl": "https://anilist.co/anime/183661",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 66,
+      "nextEpisode": 12,
+      "airingAt": 1774360800
+    },
+    {
+      "slug": "the-darwin-incident",
+      "anilistId": 177679,
+      "title": "The Darwin Incident",
+      "titleRomaji": "Darwin Jihen",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
+      "siteUrl": "https://anilist.co/anime/177679",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 64,
+      "nextEpisode": 12,
+      "airingAt": 1774364400
+    },
+    {
+      "slug": "oshi-no-ko-season-3",
+      "anilistId": 182587,
+      "title": "【OSHI NO KO】Season 3",
+      "titleRomaji": "[Oshi no Ko] 3rd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182587-SLNmuinewbUF.jpg",
+      "siteUrl": "https://anilist.co/anime/182587",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": 11,
+      "averageScore": 84,
+      "nextEpisode": 11,
+      "airingAt": 1774447200
+    },
+    {
+      "slug": "chitose-is-in-the-ramune-bottle",
+      "anilistId": 180082,
+      "title": "Chitose Is in the Ramune Bottle",
+      "titleRomaji": "Chitose-kun wa Ramune Bin no Naka",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-IZAlf06G2VVm.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180082-EoMpR2lHsD73.jpg",
+      "siteUrl": "https://anilist.co/anime/180082",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 70,
+      "nextEpisode": 11,
+      "airingAt": 1774881000
+    },
+    {
+      "slug": "one-piece",
+      "anilistId": 21,
+      "title": "ONE PIECE",
+      "titleRomaji": "ONE PIECE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+      "siteUrl": "https://anilist.co/anime/21",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 87,
+      "nextEpisode": 1156,
+      "airingAt": 1775398560
+    }
+  ]
+}

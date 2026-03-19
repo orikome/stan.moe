@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anime Episode Countdown &mdash; Next Episode Air Dates | stan.moe</title>
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="countdown.css" />
+    <link rel="icon" type="image/png" href="../favicon.ico" />
+    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+    <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Live countdown timers for upcoming anime episodes. See when the next episode of your favorite anime airs. Updated automatically every 3 hours."
+    />
+    <meta
+      name="keywords"
+      content="anime countdown, next episode, anime schedule, episode release date, anime timer, when does anime air, anime episode countdown"
+    />
+    <meta name="author" content="orikome" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://stan.moe/countdown/" />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Anime Episode Countdown — stan.moe"
+    />
+    <meta
+      property="og:description"
+      content="Live countdown timers for upcoming anime episodes. See when the next episode airs."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://stan.moe/countdown/" />
+    <meta
+      property="og:image"
+      content="https://stan.moe/android-chrome-512x512.png"
+    />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="stan.moe" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary" />
+    <meta
+      name="twitter:title"
+      content="Anime Episode Countdown — stan.moe"
+    />
+    <meta
+      name="twitter:description"
+      content="Live countdown timers for upcoming anime episodes. See when the next episode airs."
+    />
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Anime Episode Countdown",
+        "description": "Live countdown timers for upcoming anime episodes.",
+        "url": "https://stan.moe/countdown/",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "stan.moe",
+          "url": "https://stan.moe/"
+        }
+      }
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-5CB9DW9ES5"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-5CB9DW9ES5");
+    </script>
+  </head>
+  <body class="countdown-page countdown-listing">
+    <div class="kawaii-elements">
+      <div class="kawaii-element">✿</div>
+      <div class="kawaii-element">♡</div>
+      <div class="kawaii-element">★</div>
+      <div class="kawaii-element">✧</div>
+      <div class="kawaii-element">✦</div>
+    </div>
+
+    <div class="page-header">
+      <a href="/" class="back-link">&larr; stan.moe</a>
+      <h2>anime countdown</h2>
+      <p>live timers for upcoming episodes</p>
+    </div>
+
+    <main class="countdown-grid" id="countdown-grid">
+      <!-- JS populates show cards here -->
+    </main>
+
+    <div class="footer">
+      <p>
+        made by
+        <a href="https://github.com/orikome" target="_blank">orikome</a>
+        <br /><span class="disclaimer">Data from AniList API</span>
+      </p>
+    </div>
+
+    <script src="countdown.js"></script>
+  </body>
+</html>
