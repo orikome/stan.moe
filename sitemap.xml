@@ -149,12 +149,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/wash-it-all-away.html</loc>
-    <lastmod>2026-03-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/golden-kamuy-final-season.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>daily</changefreq>
@@ -168,6 +162,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/tune-in-to-the-midnight-heart.html</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/isekai-office-worker-the-other-world-s-books-depend-on-the-b.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

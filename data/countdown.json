@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T09:44:12Z",
+  "updated_at": "2026-03-19T12:45:40Z",
   "shows": [
     {
       "slug": "sentenced-to-be-a-hero",
@@ -376,23 +376,6 @@
       "airingAt": 1774270800
     },
     {
-      "slug": "wash-it-all-away",
-      "anilistId": 194028,
-      "title": "Wash It All Away",
-      "titleRomaji": "Kirei ni Shitemoraemasu ka.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg",
-      "siteUrl": "https://anilist.co/anime/194028",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 65,
-      "nextEpisode": 12,
-      "airingAt": 1774270800
-    },
-    {
       "slug": "golden-kamuy-final-season",
       "anilistId": 166521,
       "title": "Golden Kamuy Final Season",
@@ -440,6 +423,23 @@
       ],
       "totalEpisodes": 12,
       "averageScore": 70,
+      "nextEpisode": 12,
+      "airingAt": 1774360800
+    },
+    {
+      "slug": "isekai-office-worker-the-other-world-s-books-depend-on-the-b",
+      "anilistId": 183661,
+      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "titleRomaji": "Isekai no Sata wa Shachiku Shidai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183661-goNHY3WDK3j3.jpg",
+      "siteUrl": "https://anilist.co/anime/183661",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 66,
       "nextEpisode": 12,
       "airingAt": 1774360800
     },
