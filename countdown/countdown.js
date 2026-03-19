@@ -110,21 +110,34 @@
           "</span>";
       }
 
-      var genreText = s.genres && s.genres.length ? s.genres.join(", ") : "";
+      var genreText = s.genres && s.genres.length ? s.genres.join(" \u00b7 ") : "";
       var genreHtml = genreText
         ? '<span class="card-genre">' + escapeHTML(genreText) + "</span>"
         : "";
 
-      var coverHtml = s.coverImage
-        ? '<img class="card-cover" src="' + escapeHTML(s.coverImage) + '" alt="' + escapeHTML(s.title) + '" loading="lazy" />'
-        : "";
+      // Cover with overlay fade and episode badge
+      var coverHtml = "";
+      if (s.coverImage) {
+        coverHtml =
+          '<div class="card-cover-wrap">' +
+            '<img class="card-cover" src="' + escapeHTML(s.coverImage) + '" alt="' + escapeHTML(s.title) + '" loading="lazy" />' +
+            '<div class="card-cover-fade"></div>' +
+            '<div class="card-episode-badge">' + escapeHTML(epText) + '</div>' +
+          '</div>';
+      }
+
+      // Romaji subtitle
+      var romajiHtml = "";
+      if (s.titleRomaji && s.titleRomaji !== s.title) {
+        romajiHtml = '<div class="card-title-romaji">' + escapeHTML(s.titleRomaji) + '</div>';
+      }
 
       card.innerHTML =
         coverHtml +
         '<div class="card-body">' +
           '<div class="card-title">' + escapeHTML(s.title) + "</div>" +
+          romajiHtml +
           '<div class="card-meta">' +
-            '<span class="card-episode">' + escapeHTML(epText) + "</span>" +
             genreHtml +
             scoreHtml +
           "</div>" +
@@ -141,9 +154,14 @@
     var detail = document.getElementById("show-detail");
     if (!detail) return;
 
-    var bannerHtml = show.bannerImage
-      ? '<img class="show-banner" src="' + escapeHTML(show.bannerImage) + '" alt="" />'
-      : "";
+    var bannerHtml = "";
+    if (show.bannerImage) {
+      bannerHtml =
+        '<div class="show-banner-wrap">' +
+          '<img class="show-banner" src="' + escapeHTML(show.bannerImage) + '" alt="" />' +
+          '<div class="show-banner-fade"></div>' +
+        '</div>';
+    }
 
     var coverHtml = show.coverImage
       ? '<img class="show-cover" src="' + escapeHTML(show.coverImage) + '" alt="' + escapeHTML(show.title) + '" />'
@@ -154,27 +172,26 @@
       : "";
 
     var tagsHtml = "";
+    var tags = [];
     if (show.genres && show.genres.length) {
-      tagsHtml = '<div class="show-tags">';
       for (var i = 0; i < show.genres.length; i++) {
-        tagsHtml += '<span class="show-tag">' + escapeHTML(show.genres[i]) + "</span>";
+        tags.push('<span class="show-tag">' + escapeHTML(show.genres[i]) + "</span>");
       }
-      if (show.averageScore != null) {
-        tagsHtml +=
-          '<span class="show-tag">\u2605 ' +
-          (show.averageScore / 10).toFixed(1) +
-          "</span>";
-      }
-      tagsHtml += "</div>";
+    }
+    if (show.averageScore != null) {
+      tags.push('<span class="show-tag">\u2605 ' + (show.averageScore / 10).toFixed(1) + "</span>");
+    }
+    if (tags.length) {
+      tagsHtml = '<div class="show-tags">' + tags.join("") + "</div>";
     }
 
     var epText = "Episode " + show.nextEpisode;
     if (show.totalEpisodes) epText += " of " + show.totalEpisodes;
 
-    var anilistHtml = "";
+    var linksHtml = "";
     if (isValidAnilistUrl(show.siteUrl)) {
-      anilistHtml =
-        '<div style="text-align:center">' +
+      linksHtml =
+        '<div class="show-links">' +
         '<a class="show-anilist-link" href="' + escapeHTML(show.siteUrl) + '" target="_blank" rel="noopener noreferrer">' +
         "View on AniList &rarr;" +
         "</a></div>";
@@ -192,15 +209,14 @@
       "</div>" +
       '<div class="show-episode-info">' + escapeHTML(epText) + "</div>" +
       createTimerHTML(show.airingAt) +
-      anilistHtml;
+      linksHtml;
   }
 
   // ── Load data ──
 
   async function loadCountdown() {
     try {
-      var base = isShowPage ? ".." : "..";
-      var res = await fetch(base + "/data/countdown.json");
+      var res = await fetch("../data/countdown.json");
       if (!res.ok) return;
       var data = await res.json();
       var shows = data.shows;
