@@ -1,91 +1,6 @@
 {
-  "updated_at": "2026-03-21T12:44:27Z",
+  "updated_at": "2026-03-21T15:38:12Z",
   "shows": [
-    {
-      "slug": "trigun-stargaze",
-      "anilistId": 163144,
-      "title": "TRIGUN STARGAZE",
-      "titleRomaji": "TRIGUN STARGAZE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
-      "siteUrl": "https://anilist.co/anime/163144",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 69,
-      "nextEpisode": 11,
-      "airingAt": 1774101600
-    },
-    {
-      "slug": "fate-strange-fake",
-      "anilistId": 166617,
-      "title": "Fate/strange Fake",
-      "titleRomaji": "Fate/strange Fake",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
-      "siteUrl": "https://anilist.co/anime/166617",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 83,
-      "nextEpisode": 12,
-      "airingAt": 1774103400
-    },
-    {
-      "slug": "dead-account",
-      "anilistId": 187901,
-      "title": "Dead Account",
-      "titleRomaji": "Dead Account",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
-      "siteUrl": "https://anilist.co/anime/187901",
-      "genres": [
-        "Action",
-        "Supernatural"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 61,
-      "nextEpisode": 11,
-      "airingAt": 1774103400
-    },
-    {
-      "slug": "to-your-eternity-season-3",
-      "anilistId": 162669,
-      "title": "To Your Eternity Season 3",
-      "titleRomaji": "Fumetsu no Anata e Season 3",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
-      "siteUrl": "https://anilist.co/anime/162669",
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "totalEpisodes": 22,
-      "averageScore": 75,
-      "nextEpisode": 20,
-      "airingAt": 1774104300
-    },
-    {
-      "slug": "tojima-wants-to-be-a-kamen-rider",
-      "anilistId": 187464,
-      "title": "Tojima Wants to Be a Kamen Rider",
-      "titleRomaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187464-NJtK3VC54vPm.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-JRW0ASx02H83.jpg",
-      "siteUrl": "https://anilist.co/anime/187464",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 73,
-      "nextEpisode": 24,
-      "airingAt": 1774107000
-    },
     {
       "slug": "in-the-clear-moonlit-dusk",
       "anilistId": 192507,
@@ -168,6 +83,23 @@
       ],
       "totalEpisodes": 13,
       "averageScore": 72,
+      "nextEpisode": 12,
+      "airingAt": 1774270800
+    },
+    {
+      "slug": "wash-it-all-away",
+      "anilistId": 194028,
+      "title": "Wash It All Away",
+      "titleRomaji": "Kirei ni Shitemoraemasu ka.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg",
+      "siteUrl": "https://anilist.co/anime/194028",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 65,
       "nextEpisode": 12,
       "airingAt": 1774270800
     },
@@ -459,6 +391,74 @@
       "averageScore": 81,
       "nextEpisode": 1195,
       "airingAt": 1774688400
+    },
+    {
+      "slug": "trigun-stargaze",
+      "anilistId": 163144,
+      "title": "TRIGUN STARGAZE",
+      "titleRomaji": "TRIGUN STARGAZE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
+      "siteUrl": "https://anilist.co/anime/163144",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 69,
+      "nextEpisode": 12,
+      "airingAt": 1774706400
+    },
+    {
+      "slug": "fate-strange-fake",
+      "anilistId": 166617,
+      "title": "Fate/strange Fake",
+      "titleRomaji": "Fate/strange Fake",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+      "siteUrl": "https://anilist.co/anime/166617",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 83,
+      "nextEpisode": 13,
+      "airingAt": 1774708200
+    },
+    {
+      "slug": "dead-account",
+      "anilistId": 187901,
+      "title": "Dead Account",
+      "titleRomaji": "Dead Account",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
+      "siteUrl": "https://anilist.co/anime/187901",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 61,
+      "nextEpisode": 12,
+      "airingAt": 1774708200
+    },
+    {
+      "slug": "to-your-eternity-season-3",
+      "anilistId": 162669,
+      "title": "To Your Eternity Season 3",
+      "titleRomaji": "Fumetsu no Anata e Season 3",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
+      "siteUrl": "https://anilist.co/anime/162669",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 22,
+      "averageScore": 75,
+      "nextEpisode": 21,
+      "airingAt": 1774709100
     },
     {
       "slug": "chitose-is-in-the-ramune-bottle",

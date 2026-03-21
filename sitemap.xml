@@ -17,36 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/trigun-stargaze.html</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/fate-strange-fake.html</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/dead-account.html</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/to-your-eternity-season-3.html</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/tojima-wants-to-be-a-kamen-rider.html</loc>
-    <lastmod>2026-03-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/in-the-clear-moonlit-dusk.html</loc>
     <lastmod>2026-03-21</lastmod>
     <changefreq>daily</changefreq>
@@ -72,6 +42,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/my-hero-academia-vigilantes-season-2.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/wash-it-all-away.html</loc>
     <lastmod>2026-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -174,6 +150,30 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/case-closed.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/trigun-stargaze.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/fate-strange-fake.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/dead-account.html</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/to-your-eternity-season-3.html</loc>
     <lastmod>2026-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
