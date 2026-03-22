@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-03-21T15:38:12Z",
+  "updated_at": "2026-03-22T09:42:18Z",
   "shows": [
-    {
-      "slug": "in-the-clear-moonlit-dusk",
-      "anilistId": 192507,
-      "title": "In the Clear Moonlit Dusk",
-      "titleRomaji": "Uruwashi no Yoi no Tsuki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
-      "siteUrl": "https://anilist.co/anime/192507",
-      "genres": [
-        "Romance",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 72,
-      "nextEpisode": 11,
-      "airingAt": 1774164600
-    },
-    {
-      "slug": "you-and-i-are-polar-opposites",
-      "anilistId": 184951,
-      "title": "You and I Are Polar Opposites",
-      "titleRomaji": "Seihantai na Kimi to Boku",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
-      "siteUrl": "https://anilist.co/anime/184951",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 81,
-      "nextEpisode": 11,
-      "airingAt": 1774166400
-    },
     {
       "slug": "hell-s-paradise-season-2",
       "anilistId": 166613,
@@ -143,7 +109,7 @@
       "title": "Tune In to the Midnight Heart",
       "titleRomaji": "Mayonaka Heart Tune",
       "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-      "bannerImage": "",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg",
       "siteUrl": "https://anilist.co/anime/187942",
       "genres": [
         "Comedy",
@@ -459,6 +425,40 @@
       "averageScore": 75,
       "nextEpisode": 21,
       "airingAt": 1774709100
+    },
+    {
+      "slug": "in-the-clear-moonlit-dusk",
+      "anilistId": 192507,
+      "title": "In the Clear Moonlit Dusk",
+      "titleRomaji": "Uruwashi no Yoi no Tsuki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192507-SCmImUlUnpAD.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
+      "siteUrl": "https://anilist.co/anime/192507",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 72,
+      "nextEpisode": 12,
+      "airingAt": 1774769400
+    },
+    {
+      "slug": "you-and-i-are-polar-opposites",
+      "anilistId": 184951,
+      "title": "You and I Are Polar Opposites",
+      "titleRomaji": "Seihantai na Kimi to Boku",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184951-s8Lg2muPBhdX.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
+      "siteUrl": "https://anilist.co/anime/184951",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 81,
+      "nextEpisode": 12,
+      "airingAt": 1774771200
     },
     {
       "slug": "chitose-is-in-the-ramune-bottle",
