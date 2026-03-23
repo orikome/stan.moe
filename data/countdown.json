@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-03-23T12:45:49Z",
+  "updated_at": "2026-03-23T15:47:32Z",
   "shows": [
-    {
-      "slug": "my-hero-academia-vigilantes-season-2",
-      "anilistId": 195322,
-      "title": "My Hero Academia: Vigilantes Season 2",
-      "titleRomaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
-      "siteUrl": "https://anilist.co/anime/195322",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 72,
-      "nextEpisode": 12,
-      "airingAt": 1774270800
-    },
-    {
-      "slug": "wash-it-all-away",
-      "anilistId": 194028,
-      "title": "Wash It All Away",
-      "titleRomaji": "Kirei ni Shitemoraemasu ka.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194028-14qoZ1HN4b2j.jpg",
-      "siteUrl": "https://anilist.co/anime/194028",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 65,
-      "nextEpisode": 12,
-      "airingAt": 1774270800
-    },
-    {
-      "slug": "golden-kamuy-final-season",
-      "anilistId": 166521,
-      "title": "Golden Kamuy Final Season",
-      "titleRomaji": "Golden Kamuy: Saishuushou",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-f79xGOVNAnBp.jpg",
-      "siteUrl": "https://anilist.co/anime/166521",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 80,
-      "nextEpisode": 12,
-      "airingAt": 1774274400
-    },
     {
       "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
       "anilistId": 195515,
@@ -427,6 +376,23 @@
       "airingAt": 1774771200
     },
     {
+      "slug": "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingd",
+      "anilistId": 195518,
+      "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+      "titleRomaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195518-XXcYHi6tXM6v.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195518-IpfwJgnWa6nD.jpg",
+      "siteUrl": "https://anilist.co/anime/195518",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 57,
+      "nextEpisode": 12,
+      "airingAt": 1774792800
+    },
+    {
       "slug": "hell-s-paradise-season-2",
       "anilistId": 166613,
       "title": "Hell’s Paradise Season 2",
@@ -459,6 +425,40 @@
       "averageScore": 85,
       "nextEpisode": 13,
       "airingAt": 1774796400
+    },
+    {
+      "slug": "my-hero-academia-vigilantes-season-2",
+      "anilistId": 195322,
+      "title": "My Hero Academia: Vigilantes Season 2",
+      "titleRomaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195322-hqBf19mBtM5K.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+      "siteUrl": "https://anilist.co/anime/195322",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 72,
+      "nextEpisode": 13,
+      "airingAt": 1774875600
+    },
+    {
+      "slug": "golden-kamuy-final-season",
+      "anilistId": 166521,
+      "title": "Golden Kamuy Final Season",
+      "titleRomaji": "Golden Kamuy: Saishuushou",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-PNf7tRAlJJI6.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-f79xGOVNAnBp.jpg",
+      "siteUrl": "https://anilist.co/anime/166521",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 80,
+      "nextEpisode": 13,
+      "airingAt": 1774879200
     },
     {
       "slug": "chitose-is-in-the-ramune-bottle",
