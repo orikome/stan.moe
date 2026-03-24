@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-03-24T12:46:21Z",
+  "updated_at": "2026-03-24T15:49:22Z",
   "shows": [
-    {
-      "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
-      "anilistId": 195515,
-      "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-      "titleRomaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
-      "siteUrl": "https://anilist.co/anime/195515",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 60,
-      "nextEpisode": 12,
-      "airingAt": 1774360800
-    },
-    {
-      "slug": "tune-in-to-the-midnight-heart",
-      "anilistId": 187942,
-      "title": "Tune In to the Midnight Heart",
-      "titleRomaji": "Mayonaka Heart Tune",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187942-c2cZvunJGfiE.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg",
-      "siteUrl": "https://anilist.co/anime/187942",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 70,
-      "nextEpisode": 12,
-      "airingAt": 1774360800
-    },
-    {
-      "slug": "isekai-office-worker-the-other-world-s-books-depend-on-the-b",
-      "anilistId": 183661,
-      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "titleRomaji": "Isekai no Sata wa Shachiku Shidai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-3muPFi4LtHmK.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183661-goNHY3WDK3j3.jpg",
-      "siteUrl": "https://anilist.co/anime/183661",
-      "genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 66,
-      "nextEpisode": 12,
-      "airingAt": 1774360800
-    },
-    {
-      "slug": "the-darwin-incident",
-      "anilistId": 177679,
-      "title": "The Darwin Incident",
-      "titleRomaji": "Darwin Jihen",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
-      "siteUrl": "https://anilist.co/anime/177679",
-      "genres": [
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 64,
-      "nextEpisode": 12,
-      "airingAt": 1774364400
-    },
     {
       "slug": "oshi-no-ko-season-3",
       "anilistId": 182587,
@@ -274,6 +206,23 @@
       "airingAt": 1774688400
     },
     {
+      "slug": "reincarnated-as-a-dragon-hatchling",
+      "anilistId": 187941,
+      "title": "Reincarnated as a Dragon Hatchling",
+      "titleRomaji": "Tensei Shitara Dragon no Tamago Datta",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-ykmc8WRedPpw.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg",
+      "siteUrl": "https://anilist.co/anime/187941",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 61,
+      "nextEpisode": 12,
+      "airingAt": 1774701000
+    },
+    {
       "slug": "trigun-stargaze",
       "anilistId": 163144,
       "title": "TRIGUN STARGAZE",
@@ -376,6 +325,23 @@
       "airingAt": 1774771200
     },
     {
+      "slug": "kaya-chan-isn-t-scary",
+      "anilistId": 183660,
+      "title": "Kaya-chan Isn't Scary",
+      "titleRomaji": "Kaya-chan wa Kowakunai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183660-B6o9cMfSfScX.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183660-RmcBY27wn8A4.jpg",
+      "siteUrl": "https://anilist.co/anime/183660",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 69,
+      "nextEpisode": 12,
+      "airingAt": 1774773000
+    },
+    {
       "slug": "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingd",
       "anilistId": 195518,
       "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
@@ -476,6 +442,40 @@
       "averageScore": 70,
       "nextEpisode": 11,
       "airingAt": 1774881000
+    },
+    {
+      "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
+      "anilistId": 195515,
+      "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+      "titleRomaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
+      "siteUrl": "https://anilist.co/anime/195515",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 60,
+      "nextEpisode": 13,
+      "airingAt": 1774965600
+    },
+    {
+      "slug": "the-darwin-incident",
+      "anilistId": 177679,
+      "title": "The Darwin Incident",
+      "titleRomaji": "Darwin Jihen",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
+      "siteUrl": "https://anilist.co/anime/177679",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 64,
+      "nextEpisode": 13,
+      "airingAt": 1774969200
     },
     {
       "slug": "one-piece",
