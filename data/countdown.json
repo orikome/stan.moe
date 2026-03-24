@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T15:47:32Z",
+  "updated_at": "2026-03-24T09:46:01Z",
   "shows": [
     {
       "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
@@ -14,7 +14,7 @@
         "Comedy"
       ],
       "totalEpisodes": 13,
-      "averageScore": 61,
+      "averageScore": 60,
       "nextEpisode": 12,
       "airingAt": 1774360800
     },
@@ -149,7 +149,7 @@
         "Drama",
         "Fantasy"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 66,
       "nextEpisode": 12,
       "airingAt": 1774536960
