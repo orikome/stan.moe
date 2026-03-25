@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-03-24T15:49:22Z",
+  "updated_at": "2026-03-25T15:50:49Z",
   "shows": [
-    {
-      "slug": "oshi-no-ko-season-3",
-      "anilistId": 182587,
-      "title": "【OSHI NO KO】Season 3",
-      "titleRomaji": "[Oshi no Ko] 3rd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182587-SLNmuinewbUF.jpg",
-      "siteUrl": "https://anilist.co/anime/182587",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "totalEpisodes": 11,
-      "averageScore": 84,
-      "nextEpisode": 11,
-      "airingAt": 1774447200
-    },
     {
       "slug": "sentenced-to-be-a-hero",
       "anilistId": 167152,
@@ -136,6 +119,22 @@
       "averageScore": 89,
       "nextEpisode": 10,
       "airingAt": 1774620000
+    },
+    {
+      "slug": "dark-moon-the-blood-altar",
+      "anilistId": 181443,
+      "title": "DARK MOON: THE BLOOD ALTAR",
+      "titleRomaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181443-Df41Nlf7xjgI.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
+      "siteUrl": "https://anilist.co/anime/181443",
+      "genres": [
+        "Supernatural"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 62,
+      "nextEpisode": 12,
+      "airingAt": 1774623600
     },
     {
       "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
