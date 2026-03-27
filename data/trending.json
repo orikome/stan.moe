@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T16:29:12Z",
+  "updated_at": "2026-03-27T16:21:15Z",
   "anime": [
     {
       "id": 21,
@@ -10,16 +10,6 @@
         "Adventure"
       ],
       "url": "https://anilist.co/anime/21"
-    },
-    {
-      "id": 182255,
-      "title": "Frieren: Beyond Journey’s End Season 2",
-      "score": 8.9,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "url": "https://anilist.co/anime/182255"
     },
     {
       "id": 166613,
@@ -50,6 +40,16 @@
         "Drama"
       ],
       "url": "https://anilist.co/anime/179062"
+    },
+    {
+      "id": 166617,
+      "title": "Fate/strange Fake",
+      "score": 8.3,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/166617"
     }
   ]
 }
