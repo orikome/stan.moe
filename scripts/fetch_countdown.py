@@ -1,13 +1,11 @@
 """
 Fetches currently-airing anime with next episode air times from the AniList
-GraphQL API, writes data/countdown.json, generates a static HTML page per
-show under countdown/, and updates sitemap.xml.
+GraphQL API, writes data/countdown.json and updates sitemap.xml.
 
 AniList API is free and requires no authentication.
 Runs every 3 hours via GitHub Actions.
 """
 
-import html
 import json
 import os
 import re
@@ -19,7 +17,6 @@ import requests
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.join(SCRIPT_DIR, "..")
 OUTPUT_PATH = os.path.join(ROOT_DIR, "data", "countdown.json")
-COUNTDOWN_DIR = os.path.join(ROOT_DIR, "countdown")
 SITEMAP_PATH = os.path.join(ROOT_DIR, "sitemap.xml")
 ANILIST_URL = "https://graphql.anilist.co"
 SITE_URL = "https://stan.moe"
@@ -53,101 +50,6 @@ query ($perPage: Int) {
 }
 """
 
-# ---------------------------------------------------------------------------
-# HTML template for individual show pages
-# ---------------------------------------------------------------------------
-SHOW_PAGE_TEMPLATE = """\
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title_esc} Episode {next_episode} Countdown &mdash; stan.moe</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="../style.css" />
-    <link rel="stylesheet" href="countdown.css" />
-    <link rel="icon" type="image/png" href="../favicon.ico" />
-    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
-    <meta name="color-scheme" content="dark" />
-    <meta
-      name="description"
-      content="Countdown to {title_esc} episode {next_episode}. Live timer shows exactly when the next episode airs.{meta_genres}" />
-    <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="{page_url}" />
-    <meta property="og:title" content="{title_esc} Episode {next_episode} Countdown &mdash; stan.moe" />
-    <meta property="og:description" content="Live countdown to {title_esc} episode {next_episode} air date." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="{page_url}" />
-    <meta property="og:image" content="{og_image}" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:site_name" content="stan.moe" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{title_esc} Episode {next_episode} Countdown" />
-    <meta name="twitter:description" content="Live countdown to {title_esc} episode {next_episode} air date." />
-    <meta name="twitter:image" content="{twitter_image}" />
-    <script type="application/ld+json">
-    {{
-      "@context": "https://schema.org",
-      "@type": "TVEpisode",
-      "name": "{title_json} Episode {next_episode}",
-      "episodeNumber": {next_episode},
-      "datePublished": "{air_date_iso}",
-      "partOfSeries": {{
-        "@type": "TVSeries",
-        "name": "{title_json}",
-        "url": "{anilist_url}"
-      }},
-      "url": "{page_url}",
-      "isPartOf": {{
-        "@type": "WebPage",
-        "name": "Anime Episode Countdown",
-        "url": "{site_url}/countdown/"
-      }}
-    }}
-    </script>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5CB9DW9ES5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {{ dataLayer.push(arguments); }}
-      gtag("js", new Date());
-      gtag("config", "G-5CB9DW9ES5");
-    </script>
-  </head>
-  <body class="countdown-page countdown-show-page" data-slug="{slug}">
-    <div class="kawaii-elements">
-      <div class="kawaii-element">&#10047;</div>
-      <div class="kawaii-element">&#9825;</div>
-      <div class="kawaii-element">&#9733;</div>
-      <div class="kawaii-element">&#10023;</div>
-      <div class="kawaii-element">&#10022;</div>
-    </div>
-
-    <div class="page-header">
-      <a href="/countdown/" class="back-link">&larr; all countdowns</a>
-    </div>
-
-    <main class="show-detail" id="show-detail">
-      <noscript>
-        <h1>{title_esc}</h1>
-        <p>Episode {next_episode} airs on {air_date_human}.</p>
-        <p>Enable JavaScript to see the live countdown timer.</p>
-      </noscript>
-    </main>
-
-    <div class="footer">
-      <p>
-        made by
-        <a href="https://github.com/orikome" target="_blank">orikome</a>
-      </p>
-    </div>
-
-    <script src="countdown.js"></script>
-  </body>
-</html>
-"""
 
 
 def slugify(title: str, anilist_id: int | None = None) -> str:
@@ -249,67 +151,6 @@ def write_countdown_json(shows: list[dict]) -> None:
     print(f"Wrote {len(shows)} shows to {os.path.relpath(OUTPUT_PATH, ROOT_DIR)}")
 
 
-def generate_show_pages(shows: list[dict]) -> set[str]:
-    """Generate individual HTML pages for each show. Returns set of filenames created."""
-    os.makedirs(COUNTDOWN_DIR, exist_ok=True)
-    created_files: set[str] = set()
-
-    for show in shows:
-        filename = f"{show['slug']}.html"
-        created_files.add(filename)
-        filepath = os.path.join(COUNTDOWN_DIR, filename)
-
-        airing_dt = datetime.fromtimestamp(show["airingAt"], tz=timezone.utc)
-        genres_str = ", ".join(show["genres"]) if show["genres"] else ""
-        meta_genres = f" {genres_str} anime." if genres_str else ""
-
-        # Escape for HTML attributes / content
-        title_esc = html.escape(show["title"])
-        # Escape for JSON-LD (double-escape for JSON inside HTML)
-        title_json = show["title"].replace("\\", "\\\\").replace('"', '\\"')
-
-        page_url = f"{SITE_URL}/countdown/{filename}"
-        og_image = show["coverImage"]
-        twitter_image = show["bannerImage"] or show["coverImage"]
-        anilist_url = show["siteUrl"]
-
-        page_html = SHOW_PAGE_TEMPLATE.format(
-            title_esc=title_esc,
-            title_json=title_json,
-            slug=html.escape(show["slug"]),
-            next_episode=show["nextEpisode"],
-            page_url=page_url,
-            og_image=og_image,
-            twitter_image=twitter_image,
-            anilist_url=anilist_url,
-            air_date_iso=airing_dt.strftime("%Y-%m-%dT%H:%M:%S+00:00"),
-            air_date_human=airing_dt.strftime("%B %d, %Y"),
-            meta_genres=meta_genres,
-            site_url=SITE_URL,
-        )
-
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(page_html)
-
-    print(f"Generated {len(created_files)} show pages in countdown/")
-    return created_files
-
-
-def cleanup_stale_pages(current_files: set[str]) -> None:
-    """Delete HTML files in countdown/ that are no longer in the current data."""
-    # Files we never touch
-    keep = {"index.html"}
-
-    for entry in os.listdir(COUNTDOWN_DIR):
-        if not entry.endswith(".html"):
-            continue
-        if entry in keep or entry in current_files:
-            continue
-        path = os.path.join(COUNTDOWN_DIR, entry)
-        os.remove(path)
-        print(f"  Removed stale page: countdown/{entry}")
-
-
 def update_sitemap(shows: list[dict]) -> None:
     """Regenerate sitemap.xml, preserving non-countdown entries."""
     ns = "http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -367,7 +208,7 @@ def update_sitemap(shows: list[dict]) -> None:
     # Add individual show pages
     for show in shows:
         lines.append("  <url>")
-        lines.append(f"    <loc>{SITE_URL}/countdown/{show['slug']}.html</loc>")
+        lines.append(f"    <loc>{SITE_URL}/countdown/show.html?slug={show['slug']}</loc>")
         lines.append(f"    <lastmod>{today}</lastmod>")
         lines.append("    <changefreq>daily</changefreq>")
         lines.append("    <priority>0.7</priority>")
@@ -397,8 +238,6 @@ def main() -> None:
         return
 
     write_countdown_json(shows)
-    created = generate_show_pages(shows)
-    cleanup_stale_pages(created)
     update_sitemap(shows)
 
     for i, s in enumerate(shows[:10], 1):

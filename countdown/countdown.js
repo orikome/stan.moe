@@ -4,7 +4,7 @@
   "use strict";
 
   const isShowPage = document.body.classList.contains("countdown-show-page");
-  const slug = document.body.dataset.slug;
+  const slug = new URLSearchParams(window.location.search).get("slug");
 
   // ── Helpers ──
 
@@ -97,7 +97,7 @@
       var s = shows[i];
       var card = document.createElement("a");
       card.className = "countdown-card";
-      card.href = s.slug + ".html";
+      card.href = "show.html?slug=" + encodeURIComponent(s.slug);
 
       var epText = "Ep " + s.nextEpisode;
       if (s.totalEpisodes) epText += " / " + s.totalEpisodes;
@@ -226,7 +226,10 @@
         var match = shows.find(function (s) {
           return s.slug === slug;
         });
-        if (match) renderShowDetail(match);
+        if (match) {
+          renderShowDetail(match);
+          document.title = match.title + " Episode " + match.nextEpisode + " Countdown \u2014 stan.moe";
+        }
       } else {
         renderGrid(shows);
       }
