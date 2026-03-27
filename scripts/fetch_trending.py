@@ -10,6 +10,7 @@ Runs every 2 hours via GitHub Actions.
 
 import json
 import os
+import time
 from datetime import datetime, timezone
 
 import requests
@@ -34,13 +35,24 @@ query ($perPage: Int) {
 """
 
 
+MAX_RETRIES = 3
+RETRY_BACKOFF = 5  # seconds; doubles each attempt
+
+
 def fetch_trending() -> list[dict]:
-    response = requests.post(
-        ANILIST_URL,
-        json={"query": QUERY, "variables": {"perPage": LIMIT}},
-        headers={"Content-Type": "application/json", "Accept": "application/json"},
-        timeout=15,
-    )
+    for attempt in range(MAX_RETRIES):
+        response = requests.post(
+            ANILIST_URL,
+            json={"query": QUERY, "variables": {"perPage": LIMIT}},
+            headers={"Content-Type": "application/json", "Accept": "application/json"},
+            timeout=15,
+        )
+        if response.status_code < 500:
+            break
+        wait = RETRY_BACKOFF * (2 ** attempt)
+        print(f"AniList returned {response.status_code}, retrying in {wait}s (attempt {attempt + 1}/{MAX_RETRIES})...")
+        time.sleep(wait)
+
     response.raise_for_status()
     data = response.json()
 
