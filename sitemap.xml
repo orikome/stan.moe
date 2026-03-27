@@ -17,18 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/frieren-beyond-journey-s-end-season-2.html</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/dark-moon-the-blood-altar.html</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/hell-mode-the-hardcore-gamer-dominates-in-another-world-with.html</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
@@ -42,6 +30,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/shin-chan.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/doraemon-2005.html</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -96,6 +90,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/digimon-beatbreak.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/princess-session-orchestra.html</loc>
     <lastmod>2026-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
