@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T18:45:48Z",
+  "updated_at": "2026-03-27T21:43:01Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -204,6 +204,23 @@
       "averageScore": 64,
       "nextEpisode": 48,
       "airingAt": 1774742400
+    },
+    {
+      "slug": "si-vis-the-sound-of-heroes",
+      "anilistId": 196553,
+      "title": "SI-VIS: The Sound of Heroes",
+      "titleRomaji": "SI-VIS: The Sound of Heroes",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196553-9whoPCB5gyKB.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196553-RfPJobQ0VMkf.jpg",
+      "siteUrl": "https://anilist.co/anime/196553",
+      "genres": [
+        "Action",
+        "Music"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 55,
+      "nextEpisode": 24,
+      "airingAt": 1774744200
     },
     {
       "slug": "rooster-fighter",
