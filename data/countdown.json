@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T15:54:11Z",
+  "updated_at": "2026-03-27T00:58:40Z",
   "shows": [
     {
       "slug": "frieren-beyond-journey-s-end-season-2",
@@ -424,6 +424,23 @@
       "averageScore": 74,
       "nextEpisode": 12,
       "airingAt": 1774881000
+    },
+    {
+      "slug": "chiikawa",
+      "anilistId": 140842,
+      "title": "Chiikawa",
+      "titleRomaji": "Chiikawa",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+      "siteUrl": "https://anilist.co/anime/140842",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 83,
+      "nextEpisode": 330,
+      "airingAt": 1774910400
     },
     {
       "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
