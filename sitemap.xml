@@ -17,24 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=doraemon-2005</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=case-closed</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=reincarnated-as-a-dragon-hatchling</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +162,24 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=fire-force-season-3-part-2</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=doraemon-2005</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=case-closed</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

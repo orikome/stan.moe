@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-03-28T04:15:11Z",
+  "updated_at": "2026-03-28T09:43:15Z",
   "shows": [
-    {
-      "slug": "shin-chan",
-      "anilistId": 966,
-      "title": "Shin Chan",
-      "titleRomaji": "Crayon Shin-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-      "siteUrl": "https://anilist.co/anime/966",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 1328,
-      "airingAt": 1774683000
-    },
-    {
-      "slug": "doraemon-2005",
-      "anilistId": 8687,
-      "title": "Doraemon (2005)",
-      "titleRomaji": "Doraemon (2005)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-      "siteUrl": "https://anilist.co/anime/8687",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 908,
-      "airingAt": 1774684800
-    },
-    {
-      "slug": "case-closed",
-      "anilistId": 235,
-      "title": "Case Closed",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1195,
-      "airingAt": 1774688400
-    },
     {
       "slug": "reincarnated-as-a-dragon-hatchling",
       "anilistId": 187941,
@@ -150,7 +99,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 60,
+      "averageScore": 59,
       "nextEpisode": 12,
       "airingAt": 1774710000
     },
@@ -354,7 +303,7 @@
         "Adventure"
       ],
       "totalEpisodes": 13,
-      "averageScore": 72,
+      "averageScore": 73,
       "nextEpisode": 13,
       "airingAt": 1774875600
     },
@@ -476,6 +425,57 @@
       "averageScore": 80,
       "nextEpisode": 13,
       "airingAt": 1775235180
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1329,
+      "airingAt": 1775287800
+    },
+    {
+      "slug": "doraemon-2005",
+      "anilistId": 8687,
+      "title": "Doraemon (2005)",
+      "titleRomaji": "Doraemon (2005)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+      "siteUrl": "https://anilist.co/anime/8687",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 909,
+      "airingAt": 1775289600
+    },
+    {
+      "slug": "case-closed",
+      "anilistId": 235,
+      "title": "Case Closed",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1196,
+      "airingAt": 1775293200
     },
     {
       "slug": "one-piece",
