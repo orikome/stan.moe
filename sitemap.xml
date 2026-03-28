@@ -17,37 +17,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=trigun-stargaze</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=fate-strange-fake</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=dead-account</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=to-your-eternity-season-3</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=a-misanthrope-teaches-a-class-for-demi-humans</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=scum-of-the-brave</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=koupen-chan</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=star-detective-precure</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -161,6 +143,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://stan.moe/countdown/show.html?slug=beyblade-x</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stan.moe/countdown/show.html?slug=fire-force-season-3-part-2</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +168,18 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=case-closed</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=a-misanthrope-teaches-a-class-for-demi-humans</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=agents-of-the-four-seasons-dance-of-spring</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

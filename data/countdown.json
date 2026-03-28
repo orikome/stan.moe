@@ -1,91 +1,6 @@
 {
-  "updated_at": "2026-03-28T12:45:22Z",
+  "updated_at": "2026-03-28T15:41:19Z",
   "shows": [
-    {
-      "slug": "trigun-stargaze",
-      "anilistId": 163144,
-      "title": "TRIGUN STARGAZE",
-      "titleRomaji": "TRIGUN STARGAZE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163144-XdVwFRxPGY6j.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
-      "siteUrl": "https://anilist.co/anime/163144",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 68,
-      "nextEpisode": 12,
-      "airingAt": 1774706400
-    },
-    {
-      "slug": "fate-strange-fake",
-      "anilistId": 166617,
-      "title": "Fate/strange Fake",
-      "titleRomaji": "Fate/strange Fake",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166617-34fpC9y47tTx.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
-      "siteUrl": "https://anilist.co/anime/166617",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 83,
-      "nextEpisode": 13,
-      "airingAt": 1774708200
-    },
-    {
-      "slug": "dead-account",
-      "anilistId": 187901,
-      "title": "Dead Account",
-      "titleRomaji": "Dead Account",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-T91HmZAaNwOF.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
-      "siteUrl": "https://anilist.co/anime/187901",
-      "genres": [
-        "Action",
-        "Supernatural"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 61,
-      "nextEpisode": 12,
-      "airingAt": 1774708200
-    },
-    {
-      "slug": "to-your-eternity-season-3",
-      "anilistId": 162669,
-      "title": "To Your Eternity Season 3",
-      "titleRomaji": "Fumetsu no Anata e Season 3",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162669-FLYUTftoXgMh.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
-      "siteUrl": "https://anilist.co/anime/162669",
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "totalEpisodes": 22,
-      "averageScore": 75,
-      "nextEpisode": 21,
-      "airingAt": 1774709100
-    },
-    {
-      "slug": "a-misanthrope-teaches-a-class-for-demi-humans",
-      "anilistId": 198374,
-      "title": "A Misanthrope Teaches a Class for Demi-Humans",
-      "titleRomaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
-      "siteUrl": "https://anilist.co/anime/198374",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 59,
-      "nextEpisode": 12,
-      "airingAt": 1774710000
-    },
     {
       "slug": "scum-of-the-brave",
       "anilistId": 187989,
@@ -102,6 +17,39 @@
       "averageScore": 61,
       "nextEpisode": 12,
       "airingAt": 1774713360
+    },
+    {
+      "slug": "koupen-chan",
+      "anilistId": 185646,
+      "title": "Koupen-chan",
+      "titleRomaji": "Koupen-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+      "siteUrl": "https://anilist.co/anime/185646",
+      "genres": [
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 68,
+      "nextEpisode": 52,
+      "airingAt": 1774740480
+    },
+    {
+      "slug": "star-detective-precure",
+      "anilistId": 202957,
+      "title": "Star Detective Precure!",
+      "titleRomaji": "Meitantei Precure!",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
+      "siteUrl": "https://anilist.co/anime/202957",
+      "genres": [
+        "Mahou Shoujo",
+        "Mystery"
+      ],
+      "totalEpisodes": 51,
+      "averageScore": 72,
+      "nextEpisode": 9,
+      "airingAt": 1774740600
     },
     {
       "slug": "digimon-beatbreak",
@@ -410,6 +358,23 @@
       "airingAt": 1774969200
     },
     {
+      "slug": "beyblade-x",
+      "anilistId": 165159,
+      "title": "BEYBLADE X",
+      "titleRomaji": "BEYBLADE X",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/165159",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 63,
+      "nextEpisode": 123,
+      "airingAt": 1775208300
+    },
+    {
       "slug": "fire-force-season-3-part-2",
       "anilistId": 179062,
       "title": "Fire Force Season 3 Part 2",
@@ -456,7 +421,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 76,
       "nextEpisode": 909,
       "airingAt": 1775289600
     },
@@ -476,6 +441,40 @@
       "averageScore": 81,
       "nextEpisode": 1196,
       "airingAt": 1775293200
+    },
+    {
+      "slug": "a-misanthrope-teaches-a-class-for-demi-humans",
+      "anilistId": 198374,
+      "title": "A Misanthrope Teaches a Class for Demi-Humans",
+      "titleRomaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
+      "siteUrl": "https://anilist.co/anime/198374",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 59,
+      "nextEpisode": 13,
+      "airingAt": 1775314800
+    },
+    {
+      "slug": "agents-of-the-four-seasons-dance-of-spring",
+      "anilistId": 190143,
+      "title": "Agents of the Four Seasons: Dance of Spring",
+      "titleRomaji": "Shunkashuutou Daikousha: Haru no Mai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+      "siteUrl": "https://anilist.co/anime/190143",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775314800
     },
     {
       "slug": "one-piece",
