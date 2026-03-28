@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T16:21:15Z",
+  "updated_at": "2026-03-28T16:10:28Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/179062"
     },
     {
-      "id": 166617,
-      "title": "Fate/strange Fake",
-      "score": 8.3,
+      "id": 184951,
+      "title": "You and I Are Polar Opposites",
+      "score": 8.2,
       "genres": [
-        "Action",
-        "Adventure"
+        "Comedy",
+        "Drama"
       ],
-      "url": "https://anilist.co/anime/166617"
+      "url": "https://anilist.co/anime/184951"
     }
   ]
 }
