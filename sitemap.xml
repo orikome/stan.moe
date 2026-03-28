@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=reincarnated-as-a-dragon-hatchling</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=trigun-stargaze</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
@@ -102,6 +96,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-villainess-is-adored-by-the-prince-of-the-neighbor-kingd</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=oedo-fire-slayer-the-legend-of-phoenix</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
