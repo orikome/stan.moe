@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T09:43:24Z",
+  "updated_at": "2026-03-29T12:44:56Z",
   "shows": [
     {
       "slug": "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingd",
@@ -306,6 +306,22 @@
       "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1775314800
+    },
+    {
+      "slug": "koupen-chan",
+      "anilistId": 185646,
+      "title": "Koupen-chan",
+      "titleRomaji": "Koupen-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+      "siteUrl": "https://anilist.co/anime/185646",
+      "genres": [
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 68,
+      "nextEpisode": 53,
+      "airingAt": 1775343600
     },
     {
       "slug": "star-detective-precure",
