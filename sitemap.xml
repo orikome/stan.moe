@@ -17,30 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=in-the-clear-moonlit-dusk</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=you-and-i-are-polar-opposites</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=kaya-chan-isn-t-scary</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=sazae-san</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-villainess-is-adored-by-the-prince-of-the-neighbor-kingd</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -137,13 +113,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=a-misanthrope-teaches-a-class-for-demi-humans</loc>
+    <loc>https://stan.moe/countdown/show.html?slug=agents-of-the-four-seasons-dance-of-spring</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=agents-of-the-four-seasons-dance-of-spring</loc>
+    <loc>https://stan.moe/countdown/show.html?slug=a-misanthrope-teaches-a-class-for-demi-humans</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -156,6 +132,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=rooster-fighter</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=sazae-san</loc>
     <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
