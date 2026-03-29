@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T16:10:28Z",
+  "updated_at": "2026-03-29T10:11:52Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/179062"
     },
     {
-      "id": 184951,
-      "title": "You and I Are Polar Opposites",
-      "score": 8.2,
+      "id": 190327,
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure",
+      "score": 9.1,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Adventure"
       ],
-      "url": "https://anilist.co/anime/184951"
+      "url": "https://anilist.co/anime/190327"
     }
   ]
 }
