@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T16:10:45Z",
+  "updated_at": "2026-03-31T14:35:06Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/190327"
     },
     {
-      "id": 195515,
-      "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-      "score": 6.0,
+      "id": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "score": 7.3,
       "genres": [
-        "Adventure",
-        "Comedy"
+        "Action",
+        "Adventure"
       ],
-      "url": "https://anilist.co/anime/195515"
+      "url": "https://anilist.co/anime/158871"
     }
   ]
 }
