@@ -1,39 +1,21 @@
 {
-  "updated_at": "2026-03-31T09:48:56Z",
+  "updated_at": "2026-03-31T15:51:31Z",
   "shows": [
     {
-      "slug": "there-was-a-cute-girl-in-the-hero-s-party-so-i-tried-confess",
-      "anilistId": 195515,
-      "title": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-      "titleRomaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-p1nD71Hmr4ly.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195515-JYI8JvJvDSZp.jpg",
-      "siteUrl": "https://anilist.co/anime/195515",
+      "slug": "hanakappa",
+      "anilistId": 8336,
+      "title": "Hanakappa",
+      "titleRomaji": "Hanakappa",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/8336",
       "genres": [
-        "Adventure",
         "Comedy"
       ],
-      "totalEpisodes": 13,
-      "averageScore": 60,
-      "nextEpisode": 13,
-      "airingAt": 1774965600
-    },
-    {
-      "slug": "the-darwin-incident",
-      "anilistId": 177679,
-      "title": "The Darwin Incident",
-      "titleRomaji": "Darwin Jihen",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177679-BgsgE0fQk3qN.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
-      "siteUrl": "https://anilist.co/anime/177679",
-      "genres": [
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 64,
-      "nextEpisode": 13,
-      "airingAt": 1774969200
+      "totalEpisodes": null,
+      "averageScore": 46,
+      "nextEpisode": 650,
+      "airingAt": 1775167800
     },
     {
       "slug": "chiikawa",
