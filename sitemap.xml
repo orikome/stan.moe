@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=hanakappa</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=chiikawa</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>daily</changefreq>
@@ -36,12 +30,6 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=ninjala-the-animation</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=cardfight-vanguard-divinez-parallactic-clash</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -120,6 +108,30 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=theatre-of-darkness-yamishibai-16</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=classroom-of-the-elite-4th-season-second-year-first-semester</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=the-beginning-after-the-end-season-2</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisu</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
