@@ -9,6 +9,7 @@ Runs every 3 hours via GitHub Actions.
 import json
 import os
 import re
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -62,13 +63,26 @@ def slugify(title: str, anilist_id: int | None = None) -> str:
 
 def fetch_airing() -> list[dict]:
     """Fetch currently-airing anime with upcoming episode info."""
-    response = requests.post(
-        ANILIST_URL,
-        json={"query": QUERY, "variables": {"perPage": LIMIT}},
-        headers={"Content-Type": "application/json", "Accept": "application/json"},
-        timeout=15,
-    )
-    response.raise_for_status()
+    last_exc: Exception | None = None
+    for attempt in range(3):
+        if attempt:
+            wait = 2 ** attempt  # 2s, 4s
+            print(f"Retrying in {wait}s (attempt {attempt + 1}/3)...")
+            time.sleep(wait)
+        try:
+            response = requests.post(
+                ANILIST_URL,
+                json={"query": QUERY, "variables": {"perPage": LIMIT}},
+                headers={"Content-Type": "application/json", "Accept": "application/json"},
+                timeout=30,
+            )
+            response.raise_for_status()
+            break
+        except requests.exceptions.RequestException as exc:
+            print(f"Attempt {attempt + 1} failed: {exc}")
+            last_exc = exc
+    else:
+        raise last_exc  # type: ignore[misc]
     data = response.json()
 
     media_list = data.get("data", {}).get("Page", {}).get("media", [])
