@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T01:05:37Z",
+  "updated_at": "2026-04-01T09:50:46Z",
   "shows": [
     {
       "slug": "hanakappa",
@@ -166,7 +166,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 60,
+      "averageScore": 59,
       "nextEpisode": 13,
       "airingAt": 1775314800
     },
@@ -233,7 +233,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 67,
+      "averageScore": 66,
       "nextEpisode": 4,
       "airingAt": 1775361600
     },
