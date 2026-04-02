@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T15:46:47Z",
+  "updated_at": "2026-04-02T18:45:40Z",
   "shows": [
     {
       "slug": "chiikawa",
@@ -34,23 +34,6 @@
       "averageScore": 80,
       "nextEpisode": 13,
       "airingAt": 1775235180
-    },
-    {
-      "slug": "ninjala-the-animation",
-      "anilistId": 142274,
-      "title": "Ninjala the Animation",
-      "titleRomaji": "Ninjala",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/142274",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 46,
-      "nextEpisode": 210,
-      "airingAt": 1775255400
     },
     {
       "slug": "shin-chan",
@@ -369,7 +352,7 @@
         "Comedy",
         "Romance"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1775748360
@@ -386,10 +369,27 @@
         "Action",
         "Supernatural"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 13,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1775748600
+    },
+    {
+      "slug": "killed-again-mr-detective",
+      "anilistId": 202381,
+      "title": "Killed again, Mr. Detective.",
+      "titleRomaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/202381",
+      "genres": [
+        "Mystery",
+        "Psychological"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775753880
     },
     {
       "slug": "pok-mon-horizons-the-series",
