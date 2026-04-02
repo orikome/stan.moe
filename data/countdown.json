@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T18:46:02Z",
+  "updated_at": "2026-04-02T09:47:15Z",
   "shows": [
     {
       "slug": "chiikawa",
@@ -133,7 +133,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 59,
+      "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1775314800
     },
@@ -183,7 +183,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 25,
       "airingAt": 1775347200
     },
@@ -285,7 +285,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1775653200
     },
@@ -302,7 +302,7 @@
         "Psychological"
       ],
       "totalEpisodes": 16,
-      "averageScore": null,
+      "averageScore": 79,
       "nextEpisode": 5,
       "airingAt": 1775655000
     },
@@ -319,7 +319,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 62,
       "nextEpisode": 2,
       "airingAt": 1775658600
     },
@@ -336,7 +336,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 65,
       "nextEpisode": 2,
       "airingAt": 1775660400
     },
