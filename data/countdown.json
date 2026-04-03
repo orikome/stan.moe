@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T00:58:51Z",
+  "updated_at": "2026-04-03T09:45:42Z",
   "shows": [
     {
       "slug": "fire-force-season-3-part-2",
@@ -285,7 +285,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 62,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1775658600
     },
@@ -302,7 +302,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 65,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1775660400
     },
@@ -319,7 +319,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 82,
       "nextEpisode": 2,
       "airingAt": 1775739600
     },
@@ -336,7 +336,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1775746560
     },
@@ -353,7 +353,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 57,
       "nextEpisode": 2,
       "airingAt": 1775748360
     },
@@ -370,7 +370,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1775748600
     },
@@ -387,7 +387,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 63,
       "nextEpisode": 2,
       "airingAt": 1775752080
     },
@@ -404,7 +404,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 59,
       "nextEpisode": 2,
       "airingAt": 1775753880
     },
