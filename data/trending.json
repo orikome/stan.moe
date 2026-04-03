@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T10:22:35Z",
+  "updated_at": "2026-04-03T18:15:29Z",
   "anime": [
     {
       "id": 21,
@@ -22,16 +22,6 @@
       "url": "https://anilist.co/anime/235"
     },
     {
-      "id": 179062,
-      "title": "Fire Force Season 3 Part 2",
-      "score": 8.0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "url": "https://anilist.co/anime/179062"
-    },
-    {
       "id": 190327,
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure",
       "score": 9.1,
@@ -50,6 +40,16 @@
         "Psychological"
       ],
       "url": "https://anilist.co/anime/180745"
+    },
+    {
+      "id": 182205,
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "score": null,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/182205"
     }
   ]
 }
