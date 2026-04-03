@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=fire-force-season-3-part-2</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>daily</changefreq>
@@ -72,6 +66,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=rooster-fighter</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=sazae-san</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
