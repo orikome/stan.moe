@@ -31,9 +31,10 @@ body.countdown-page {
 }
 
 .countdown-page .page-header h2 {
-    font-size: 2rem;
-    font-weight: 600;
-    letter-spacing: 0.02em;
+    font-family: 'Syne', 'Quicksand', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 800;
+    letter-spacing: 0.03em;
     background: linear-gradient(135deg, #a09eff 0%, #ff8ecf 100%);
     -webkit-background-clip: text;
     background-clip: text;
@@ -65,23 +66,25 @@ body.countdown-page {
 .countdown-card {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(160deg, rgba(191, 170, 255, 0.06) 0%, rgba(255, 142, 207, 0.06) 100%);
-    border: 1px solid rgba(255, 142, 207, 0.15);
+    background: linear-gradient(160deg, rgba(192, 132, 252, 0.1) 0%, rgba(255, 142, 207, 0.06) 100%);
+    border: 1px solid rgba(255, 142, 207, 0.22);
     border-radius: 14px;
     overflow: hidden;
     transition: all 0.3s ease;
     backdrop-filter: blur(6px);
     text-decoration: none !important;
     color: inherit !important;
+    box-shadow: inset 3px 0 0 rgba(192, 132, 252, 0.4), 0 4px 20px rgba(0, 0, 0, 0.22);
 }
 
 .countdown-card:hover {
-    border-color: rgba(255, 142, 207, 0.45);
-    background: linear-gradient(160deg, rgba(191, 170, 255, 0.12) 0%, rgba(255, 142, 207, 0.12) 100%);
-    transform: translateY(-3px);
+    border-color: rgba(255, 142, 207, 0.5);
+    background: linear-gradient(160deg, rgba(192, 132, 252, 0.16) 0%, rgba(255, 142, 207, 0.12) 100%);
+    transform: translateY(-4px) rotate(-0.4deg);
     box-shadow:
-        0 8px 32px rgba(255, 142, 207, 0.1),
-        0 0 0 1px rgba(255, 142, 207, 0.08);
+        inset 3px 0 0 var(--accent-primary),
+        0 12px 40px rgba(255, 142, 207, 0.2),
+        0 0 0 1px rgba(255, 142, 207, 0.1);
 }
 
 .card-cover-wrap {
@@ -91,7 +94,7 @@ body.countdown-page {
 
 .card-cover {
     width: 100%;
-    height: 150px;
+    height: 190px;
     object-fit: cover;
     display: block;
     transition: transform 0.4s ease;
@@ -106,8 +109,8 @@ body.countdown-page {
     bottom: 0;
     left: 0;
     right: 0;
-    height: 50%;
-    background: linear-gradient(to top, var(--bg-primary), transparent);
+    height: 60%;
+    background: linear-gradient(to top, rgba(24, 24, 37, 0.95), transparent);
     pointer-events: none;
 }
 
@@ -116,14 +119,15 @@ body.countdown-page {
     top: 0.6rem;
     right: 0.6rem;
     font-size: 0.65rem;
-    font-weight: 600;
-    color: var(--text-primary);
-    background: rgba(24, 24, 37, 0.8);
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(191, 170, 255, 0.25);
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(135deg, rgba(160, 100, 255, 0.92) 0%, rgba(240, 80, 160, 0.92) 100%);
+    backdrop-filter: blur(4px);
+    border: none;
     border-radius: 50px;
-    padding: 0.2rem 0.55rem;
+    padding: 0.22rem 0.6rem;
     white-space: nowrap;
+    letter-spacing: 0.03em;
 }
 
 .card-body {
@@ -180,37 +184,49 @@ body.countdown-page {
 
 .timer {
     display: flex;
-    gap: 0.35rem;
+    gap: 0.4rem;
     justify-content: center;
     margin-top: auto;
-    padding-top: 0.5rem;
+    padding-top: 0.6rem;
 }
 
 .timer-segment {
-    background: rgba(191, 170, 255, 0.06);
-    border: 1px solid rgba(191, 170, 255, 0.12);
+    background: rgba(192, 132, 252, 0.08);
+    border: 1px solid rgba(255, 142, 207, 0.22);
     border-radius: 8px;
-    padding: 0.3rem 0.4rem;
+    padding: 0.4rem 0.5rem;
     text-align: center;
-    min-width: 44px;
+    min-width: 50px;
     flex: 1;
+    box-shadow: 0 0 10px rgba(255, 142, 207, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.timer-segment:last-child {
+    animation: sec-pulse 1s ease-in-out infinite;
+}
+
+@keyframes sec-pulse {
+    0%, 100% { border-color: rgba(255, 142, 207, 0.22); }
+    50%       { border-color: rgba(255, 142, 207, 0.52); box-shadow: 0 0 14px rgba(255, 142, 207, 0.14); }
 }
 
 .timer-value {
-    font-size: 1.2rem;
-    font-weight: 700;
+    font-family: 'Bebas Neue', 'Quicksand', monospace;
+    font-size: 1.5rem;
+    font-weight: 400;
     color: var(--accent-primary);
+    text-shadow: 0 0 12px rgba(255, 142, 207, 0.65);
     font-variant-numeric: tabular-nums;
-    line-height: 1.2;
+    line-height: 1.1;
 }
 
 .timer-label {
-    font-size: 0.5rem;
+    font-size: 0.52rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.12em;
     color: var(--text-secondary);
-    opacity: 0.45;
-    font-weight: 500;
+    opacity: 0.5;
+    font-weight: 600;
 }
 
 .timer-aired {
@@ -275,10 +291,11 @@ body.countdown-page {
 }
 
 .show-title {
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-family: 'Syne', 'Quicksand', sans-serif;
+    font-size: 1.65rem;
+    font-weight: 700;
     color: var(--text-primary);
-    line-height: 1.3;
+    line-height: 1.2;
     margin-bottom: 0.25rem;
 }
 
@@ -298,32 +315,35 @@ body.countdown-page {
 
 .show-tag {
     font-size: 0.65rem;
-    font-weight: 500;
-    color: var(--accent-tertiary);
-    background: rgba(191, 170, 255, 0.08);
-    border: 1px solid rgba(191, 170, 255, 0.18);
+    font-weight: 600;
+    color: var(--accent-primary);
+    background: rgba(255, 142, 207, 0.12);
+    border: 1px solid rgba(255, 142, 207, 0.3);
     border-radius: 50px;
-    padding: 0.2rem 0.55rem;
+    padding: 0.22rem 0.6rem;
 }
 
 /* Large timer for detail page */
 .show-detail .timer {
-    margin: 1.5rem 0;
+    margin: 1.75rem 0;
+    gap: 0.6rem;
 }
 
 .show-detail .timer-segment {
-    padding: 0.7rem 0.5rem;
-    min-width: 68px;
-    background: rgba(191, 170, 255, 0.08);
-    border-color: rgba(191, 170, 255, 0.15);
+    padding: 1rem 0.75rem;
+    min-width: 80px;
+    background: rgba(255, 142, 207, 0.07);
+    border: 1px solid rgba(255, 142, 207, 0.28);
+    box-shadow: 0 0 24px rgba(255, 142, 207, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
 .show-detail .timer-value {
-    font-size: 2rem;
+    font-size: 3.2rem;
+    text-shadow: 0 0 24px rgba(255, 142, 207, 0.8);
 }
 
 .show-detail .timer-label {
-    font-size: 0.6rem;
+    font-size: 0.65rem;
 }
 
 .show-episode-info {
@@ -341,22 +361,23 @@ body.countdown-page {
 
 .show-anilist-link {
     display: inline-block;
-    padding: 0.5rem 1.25rem;
-    background: linear-gradient(135deg, rgba(191, 170, 255, 0.1) 0%, rgba(255, 142, 207, 0.1) 100%);
-    border: 1px solid rgba(255, 142, 207, 0.3);
+    padding: 0.65rem 1.75rem;
+    background: linear-gradient(135deg, #c084fc 0%, #f472b6 100%);
+    border: none;
     border-radius: 50px;
-    font-size: 0.85rem;
-    font-weight: 500;
-    transition: all 0.3s ease;
-    backdrop-filter: blur(4px);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #18002e !important;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
     text-shadow: none !important;
+    box-shadow: 0 4px 20px rgba(192, 132, 252, 0.4), 0 2px 8px rgba(244, 114, 182, 0.3);
 }
 
 .show-anilist-link:hover {
-    background: linear-gradient(135deg, rgba(191, 170, 255, 0.2) 0%, rgba(255, 142, 207, 0.2) 100%);
-    border-color: var(--accent-primary);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 16px rgba(255, 142, 207, 0.12);
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 8px 28px rgba(192, 132, 252, 0.55), 0 4px 12px rgba(244, 114, 182, 0.35);
+    color: #18002e !important;
 }
 
 /* ─── Footer ─── */
@@ -380,11 +401,11 @@ body.countdown-page {
     }
 
     .show-detail .timer-value {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
 
     .show-detail .timer-segment {
-        min-width: 56px;
+        min-width: 64px;
     }
 }
 
@@ -395,7 +416,7 @@ body.countdown-page {
     }
 
     .card-cover {
-        height: 120px;
+        height: 150px;
     }
 
     .show-header {
