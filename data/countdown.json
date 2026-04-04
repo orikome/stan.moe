@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-04-04T04:14:53Z",
+  "updated_at": "2026-04-04T09:43:16Z",
   "shows": [
-    {
-      "slug": "shin-chan",
-      "anilistId": 966,
-      "title": "Shin Chan",
-      "titleRomaji": "Crayon Shin-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-      "siteUrl": "https://anilist.co/anime/966",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 1329,
-      "airingAt": 1775287800
-    },
-    {
-      "slug": "doraemon-2005",
-      "anilistId": 8687,
-      "title": "Doraemon (2005)",
-      "titleRomaji": "Doraemon (2005)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-      "siteUrl": "https://anilist.co/anime/8687",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 909,
-      "airingAt": 1775289600
-    },
-    {
-      "slug": "case-closed",
-      "anilistId": 235,
-      "title": "Case Closed",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1196,
-      "airingAt": 1775293200
-    },
     {
       "slug": "agents-of-the-four-seasons-dance-of-spring",
       "anilistId": 190143,
@@ -154,23 +103,6 @@
       "airingAt": 1775361600
     },
     {
-      "slug": "sazae-san",
-      "anilistId": 2406,
-      "title": "Sazae-san",
-      "titleRomaji": "Sazae-san",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
-      "siteUrl": "https://anilist.co/anime/2406",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 55,
-      "nextEpisode": 2826,
-      "airingAt": 1775381400
-    },
-    {
       "slug": "one-piece",
       "anilistId": 21,
       "title": "ONE PIECE",
@@ -234,7 +166,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": 61,
+      "averageScore": 62,
       "nextEpisode": 2,
       "airingAt": 1775653200
     },
@@ -251,7 +183,7 @@
         "Psychological"
       ],
       "totalEpisodes": 16,
-      "averageScore": 79,
+      "averageScore": 80,
       "nextEpisode": 5,
       "airingAt": 1775655000
     },
@@ -268,7 +200,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 61,
+      "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1775658600
     },
@@ -336,7 +268,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 57,
+      "averageScore": 58,
       "nextEpisode": 2,
       "airingAt": 1775748360
     },
@@ -353,7 +285,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": 61,
+      "averageScore": 62,
       "nextEpisode": 2,
       "airingAt": 1775748600
     },
@@ -370,7 +302,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 63,
+      "averageScore": 64,
       "nextEpisode": 2,
       "airingAt": 1775752080
     },
@@ -387,7 +319,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 59,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1775753880
     },
@@ -421,7 +353,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 83,
       "nextEpisode": 2,
       "airingAt": 1775827800
     },
@@ -438,7 +370,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 81,
       "nextEpisode": 2,
       "airingAt": 1775829600
     },
@@ -455,9 +387,94 @@
         "Mecha"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1775831400
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1330,
+      "airingAt": 1775892600
+    },
+    {
+      "slug": "doraemon-2005",
+      "anilistId": 8687,
+      "title": "Doraemon (2005)",
+      "titleRomaji": "Doraemon (2005)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+      "siteUrl": "https://anilist.co/anime/8687",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 910,
+      "airingAt": 1775894400
+    },
+    {
+      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
+      "anilistId": 171110,
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+      "siteUrl": "https://anilist.co/anime/171110",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 2,
+      "airingAt": 1775896200
+    },
+    {
+      "slug": "case-closed",
+      "anilistId": 235,
+      "title": "Case Closed",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1197,
+      "airingAt": 1775898000
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775899560
     },
     {
       "slug": "scum-of-the-brave",
