@@ -35,12 +35,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=oedo-fire-slayer-the-legend-of-phoenix</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=chiikawa</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>daily</changefreq>
@@ -192,6 +186,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=scum-of-the-brave</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=mistress-kanan-is-devilishly-easy</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
