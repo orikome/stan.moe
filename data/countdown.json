@@ -1,73 +1,6 @@
 {
-  "updated_at": "2026-04-04T09:43:16Z",
+  "updated_at": "2026-04-04T15:41:30Z",
   "shows": [
-    {
-      "slug": "agents-of-the-four-seasons-dance-of-spring",
-      "anilistId": 190143,
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "titleRomaji": "Shunkashuutou Daikousha: Haru no Mai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
-      "siteUrl": "https://anilist.co/anime/190143",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": 14,
-      "averageScore": 74,
-      "nextEpisode": 2,
-      "airingAt": 1775314800
-    },
-    {
-      "slug": "a-misanthrope-teaches-a-class-for-demi-humans",
-      "anilistId": 198374,
-      "title": "A Misanthrope Teaches a Class for Demi-Humans",
-      "titleRomaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198374-ROZU3qJGX4uS.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
-      "siteUrl": "https://anilist.co/anime/198374",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 60,
-      "nextEpisode": 13,
-      "airingAt": 1775314800
-    },
-    {
-      "slug": "koupen-chan",
-      "anilistId": 185646,
-      "title": "Koupen-chan",
-      "titleRomaji": "Koupen-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
-      "siteUrl": "https://anilist.co/anime/185646",
-      "genres": [
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 68,
-      "nextEpisode": 53,
-      "airingAt": 1775343600
-    },
-    {
-      "slug": "star-detective-precure",
-      "anilistId": 202957,
-      "title": "Star Detective Precure!",
-      "titleRomaji": "Meitantei Precure!",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
-      "siteUrl": "https://anilist.co/anime/202957",
-      "genres": [
-        "Mahou Shoujo",
-        "Mystery"
-      ],
-      "totalEpisodes": 51,
-      "averageScore": 72,
-      "nextEpisode": 10,
-      "airingAt": 1775345400
-    },
     {
       "slug": "digimon-beatbreak",
       "anilistId": 188388,
@@ -421,7 +354,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 76,
       "nextEpisode": 910,
       "airingAt": 1775894400
     },
@@ -477,6 +410,90 @@
       "airingAt": 1775899560
     },
     {
+      "slug": "daemons-of-the-shadow-realm",
+      "anilistId": 195600,
+      "title": "Daemons of the Shadow Realm",
+      "titleRomaji": "Yomi no Tsugai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+      "siteUrl": "https://anilist.co/anime/195600",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775917800
+    },
+    {
+      "slug": "akane-banashi",
+      "anilistId": 196935,
+      "title": "Akane-banashi",
+      "titleRomaji": "Akane-banashi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+      "siteUrl": "https://anilist.co/anime/196935",
+      "genres": [
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775917800
+    },
+    {
+      "slug": "mao",
+      "anilistId": 196012,
+      "title": "MAO",
+      "titleRomaji": "MAO",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+      "siteUrl": "https://anilist.co/anime/196012",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775918760
+    },
+    {
+      "slug": "agents-of-the-four-seasons-dance-of-spring",
+      "anilistId": 190143,
+      "title": "Agents of the Four Seasons: Dance of Spring",
+      "titleRomaji": "Shunkashuutou Daikousha: Haru no Mai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+      "siteUrl": "https://anilist.co/anime/190143",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": 14,
+      "averageScore": 74,
+      "nextEpisode": 3,
+      "airingAt": 1775919600
+    },
+    {
+      "slug": "needy-girl-overdose",
+      "anilistId": 202102,
+      "title": "NEEDY GIRL OVERDOSE",
+      "titleRomaji": "NEEDY GIRL OVERDOSE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+      "siteUrl": "https://anilist.co/anime/202102",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1775921400
+    },
+    {
       "slug": "scum-of-the-brave",
       "anilistId": 187989,
       "title": "Scum of the Brave",
@@ -492,23 +509,6 @@
       "averageScore": 61,
       "nextEpisode": 13,
       "airingAt": 1775922960
-    },
-    {
-      "slug": "beyblade-x",
-      "anilistId": 165159,
-      "title": "BEYBLADE X",
-      "titleRomaji": "BEYBLADE X",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/165159",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 63,
-      "nextEpisode": 123,
-      "airingAt": 1776417900
     }
   ]
 }
