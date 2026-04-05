@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-04-05T01:02:33Z",
+  "updated_at": "2026-04-05T04:22:30Z",
   "shows": [
-    {
-      "slug": "rooster-fighter",
-      "anilistId": 179813,
-      "title": "Rooster Fighter",
-      "titleRomaji": "Niwatori Fighter",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-      "siteUrl": "https://anilist.co/anime/179813",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 66,
-      "nextEpisode": 4,
-      "airingAt": 1775361600
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -509,6 +492,23 @@
       "averageScore": 68,
       "nextEpisode": 26,
       "airingAt": 1775952000
+    },
+    {
+      "slug": "rooster-fighter",
+      "anilistId": 179813,
+      "title": "Rooster Fighter",
+      "titleRomaji": "Niwatori Fighter",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
+      "siteUrl": "https://anilist.co/anime/179813",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 66,
+      "nextEpisode": 5,
+      "airingAt": 1775966400
     }
   ]
 }
