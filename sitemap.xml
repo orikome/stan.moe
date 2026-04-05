@@ -107,12 +107,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=snowball-earth</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +174,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=mistress-kanan-is-devilishly-easy</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=kusunoki-s-garden-of-gods</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
