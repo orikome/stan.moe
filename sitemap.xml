@@ -59,12 +59,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=kirio-fan-club</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=petals-of-reincarnation</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -192,6 +186,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=one-piece</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=marika-s-love-meter-malfunction</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

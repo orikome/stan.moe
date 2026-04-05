@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T15:42:16Z",
+  "updated_at": "2026-04-05T18:44:09Z",
   "shows": [
     {
       "slug": "chiikawa",
@@ -119,23 +119,6 @@
       "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1775746560
-    },
-    {
-      "slug": "kirio-fan-club",
-      "anilistId": 181284,
-      "title": "Kirio Fan Club",
-      "titleRomaji": "Kirio Fanclub",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
-      "siteUrl": "https://anilist.co/anime/181284",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 58,
-      "nextEpisode": 2,
-      "airingAt": 1775748360
     },
     {
       "slug": "petals-of-reincarnation",
@@ -509,6 +492,23 @@
       "averageScore": 87,
       "nextEpisode": 1157,
       "airingAt": 1776003360
+    },
+    {
+      "slug": "marika-s-love-meter-malfunction",
+      "anilistId": 202523,
+      "title": "Marika's Love Meter Malfunction",
+      "titleRomaji": "Marika-chan no Koukando wa Bukkowareteiru",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/202523",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1776009600
     }
   ]
 }
