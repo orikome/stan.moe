@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T09:43:20Z",
+  "updated_at": "2026-04-05T12:45:06Z",
   "shows": [
     {
       "slug": "one-piece",
@@ -235,7 +235,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 83,
+      "averageScore": 82,
       "nextEpisode": 2,
       "airingAt": 1775827800
     },
@@ -303,7 +303,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": 73,
+      "averageScore": 78,
       "nextEpisode": 2,
       "airingAt": 1775896200
     },
