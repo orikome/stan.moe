@@ -23,12 +23,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=classroom-of-the-elite-4th-season-second-year-first-semester</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>daily</changefreq>
@@ -167,12 +161,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=kusunoki-s-garden-of-gods</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=digimon-beatbreak</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>daily</changefreq>
@@ -191,7 +179,19 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=marika-s-love-meter-malfunction</loc>
+    <loc>https://stan.moe/countdown/show.html?slug=farming-life-in-another-world-2</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=the-klutzy-class-monitor-and-the-girl-with-the-short-skirt</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=liar-game</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
