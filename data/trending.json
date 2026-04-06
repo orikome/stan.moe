@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T10:11:53Z",
+  "updated_at": "2026-04-06T08:35:50Z",
   "anime": [
     {
       "id": 21,
@@ -22,16 +22,6 @@
       "url": "https://anilist.co/anime/235"
     },
     {
-      "id": 190327,
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure",
-      "score": 9.1,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "url": "https://anilist.co/anime/190327"
-    },
-    {
       "id": 180745,
       "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
       "score": 8.0,
@@ -50,6 +40,16 @@
         "Adventure"
       ],
       "url": "https://anilist.co/anime/182205"
+    },
+    {
+      "id": 170019,
+      "title": "The Angel Next Door Spoils Me Rotten 2",
+      "score": 8.2,
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "url": "https://anilist.co/anime/170019"
     }
   ]
 }
