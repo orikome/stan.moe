@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T18:44:09Z",
+  "updated_at": "2026-04-06T09:51:31Z",
   "shows": [
     {
       "slug": "chiikawa",
@@ -167,7 +167,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 61,
+      "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1775753880
     },
@@ -320,7 +320,7 @@
         "Adventure"
       ],
       "totalEpisodes": 24,
-      "averageScore": 76,
+      "averageScore": 77,
       "nextEpisode": 2,
       "airingAt": 1775917800
     },
@@ -353,7 +353,7 @@
         "Mystery"
       ],
       "totalEpisodes": null,
-      "averageScore": 64,
+      "averageScore": 65,
       "nextEpisode": 2,
       "airingAt": 1775918760
     },
@@ -387,7 +387,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 68,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1775921400
     },
@@ -421,7 +421,7 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 2,
       "airingAt": 1775923200
     },
@@ -438,7 +438,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 62,
+      "averageScore": 65,
       "nextEpisode": 2,
       "airingAt": 1775925000
     },
@@ -506,7 +506,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 52,
       "nextEpisode": 2,
       "airingAt": 1776009600
     }
