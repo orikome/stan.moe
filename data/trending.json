@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T14:23:05Z",
+  "updated_at": "2026-04-07T10:25:02Z",
   "anime": [
     {
       "id": 21,
@@ -24,7 +24,7 @@
     {
       "id": 147105,
       "title": "Witch Hat Atelier",
-      "score": null,
+      "score": 8.5,
       "genres": [
         "Adventure",
         "Drama"
@@ -34,7 +34,7 @@
     {
       "id": 180745,
       "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "score": 8.0,
+      "score": 7.9,
       "genres": [
         "Drama",
         "Psychological"
