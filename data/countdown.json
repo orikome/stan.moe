@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-04-06T15:44:31Z",
+  "updated_at": "2026-04-07T00:59:45Z",
   "shows": [
-    {
-      "slug": "chiikawa",
-      "anilistId": 140842,
-      "title": "Chiikawa",
-      "titleRomaji": "Chiikawa",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-      "siteUrl": "https://anilist.co/anime/140842",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 83,
-      "nextEpisode": 332,
-      "airingAt": 1775515200
-    },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
       "anilistId": 180745,
@@ -153,6 +136,23 @@
       "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1775753880
+    },
+    {
+      "slug": "chiikawa",
+      "anilistId": 140842,
+      "title": "Chiikawa",
+      "titleRomaji": "Chiikawa",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+      "siteUrl": "https://anilist.co/anime/140842",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 83,
+      "nextEpisode": 333,
+      "airingAt": 1775774400
     },
     {
       "slug": "pok-mon-horizons-the-series",
