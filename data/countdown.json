@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-04-08T09:50:17Z",
+  "updated_at": "2026-04-08T15:58:38Z",
   "shows": [
-    {
-      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
-      "anilistId": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-      "siteUrl": "https://anilist.co/anime/180745",
-      "genres": [
-        "Drama",
-        "Psychological"
-      ],
-      "totalEpisodes": 16,
-      "averageScore": 79,
-      "nextEpisode": 5,
-      "airingAt": 1775655000
-    },
-    {
-      "slug": "the-beginning-after-the-end-season-2",
-      "anilistId": 194317,
-      "title": "The Beginning After the End Season 2",
-      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/194317",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 59,
-      "nextEpisode": 2,
-      "airingAt": 1775658600
-    },
-    {
-      "slug": "always-a-catch",
-      "anilistId": 201817,
-      "title": "Always a Catch!",
-      "titleRomaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/201817",
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 67,
-      "nextEpisode": 2,
-      "airingAt": 1775660400
-    },
     {
       "slug": "dr-stone-science-future-cour-3",
       "anilistId": 199221,
@@ -102,23 +51,6 @@
       "averageScore": 63,
       "nextEpisode": 2,
       "airingAt": 1775748600
-    },
-    {
-      "slug": "haibara-s-teenage-new-game",
-      "anilistId": 195333,
-      "title": "Haibara's Teenage New Game+",
-      "titleRomaji": "Haibara-kun no Tsuyokute Seishun New Game",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
-      "siteUrl": "https://anilist.co/anime/195333",
-      "genres": [
-        "Romance",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 64,
-      "nextEpisode": 2,
-      "airingAt": 1775752080
     },
     {
       "slug": "pok-mon-horizons-the-series",
@@ -506,6 +438,74 @@
       "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1776177000
+    },
+    {
+      "slug": "re-zero-starting-life-in-another-world-season-4",
+      "anilistId": 189046,
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "titleRomaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/189046",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 19,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1776258000
+    },
+    {
+      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
+      "anilistId": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+      "siteUrl": "https://anilist.co/anime/180745",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "totalEpisodes": 16,
+      "averageScore": 79,
+      "nextEpisode": 6,
+      "airingAt": 1776259800
+    },
+    {
+      "slug": "the-beginning-after-the-end-season-2",
+      "anilistId": 194317,
+      "title": "The Beginning After the End Season 2",
+      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/194317",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 59,
+      "nextEpisode": 3,
+      "airingAt": 1776263400
+    },
+    {
+      "slug": "gals-can-t-be-kind-to-otaku",
+      "anilistId": 199588,
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "titleRomaji": "Otaku ni Yasashii Gal wa Inai!?",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
+      "siteUrl": "https://anilist.co/anime/199588",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1776264300
     }
   ]
 }
