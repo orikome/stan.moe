@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T10:25:02Z",
+  "updated_at": "2026-04-08T10:26:00Z",
   "anime": [
     {
       "id": 21,
@@ -12,16 +12,6 @@
       "url": "https://anilist.co/anime/21"
     },
     {
-      "id": 235,
-      "title": "Case Closed",
-      "score": 8.1,
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "url": "https://anilist.co/anime/235"
-    },
-    {
       "id": 147105,
       "title": "Witch Hat Atelier",
       "score": 8.5,
@@ -30,6 +20,16 @@
         "Drama"
       ],
       "url": "https://anilist.co/anime/147105"
+    },
+    {
+      "id": 235,
+      "title": "Case Closed",
+      "score": 8.1,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "url": "https://anilist.co/anime/235"
     },
     {
       "id": 180745,
