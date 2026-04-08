@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T21:44:03Z",
+  "updated_at": "2026-04-08T09:50:17Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -116,7 +116,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 65,
+      "averageScore": 64,
       "nextEpisode": 2,
       "airingAt": 1775752080
     },
@@ -319,7 +319,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 68,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1775921400
     },
@@ -435,7 +435,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 70,
+      "averageScore": 71,
       "nextEpisode": 2,
       "airingAt": 1776090240
     },
@@ -452,7 +452,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 65,
+      "averageScore": 64,
       "nextEpisode": 2,
       "airingAt": 1776092400
     },
@@ -469,7 +469,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1776171600
     },
@@ -486,7 +486,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1776175200
     },
@@ -503,7 +503,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1776177000
     }
