@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:26:00Z",
+  "updated_at": "2026-04-08T14:37:19Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/180745"
     },
     {
-      "id": 182205,
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "score": 8.1,
+      "id": 189046,
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "score": null,
       "genres": [
         "Action",
         "Adventure"
       ],
-      "url": "https://anilist.co/anime/182205"
+      "url": "https://anilist.co/anime/189046"
     }
   ]
 }
