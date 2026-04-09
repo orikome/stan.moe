@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T18:51:27Z",
+  "updated_at": "2026-04-09T09:54:08Z",
   "shows": [
     {
       "slug": "dr-stone-science-future-cour-3",
@@ -99,7 +99,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 81,
+      "averageScore": 80,
       "nextEpisode": 2,
       "airingAt": 1775829600
     },
@@ -200,7 +200,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 78,
       "nextEpisode": 2,
       "airingAt": 1775917800
     },
@@ -217,7 +217,7 @@
         "Mystery"
       ],
       "totalEpisodes": null,
-      "averageScore": 65,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1775918760
     },
@@ -401,7 +401,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 2,
       "airingAt": 1776171600
     },
@@ -418,7 +418,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1776175200
     },
@@ -435,7 +435,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1776177000
     },
@@ -452,7 +452,7 @@
         "Psychological"
       ],
       "totalEpisodes": 16,
-      "averageScore": 79,
+      "averageScore": 80,
       "nextEpisode": 6,
       "airingAt": 1776256200
     },
@@ -469,7 +469,7 @@
         "Adventure"
       ],
       "totalEpisodes": 19,
-      "averageScore": null,
+      "averageScore": 85,
       "nextEpisode": 2,
       "airingAt": 1776258000
     },
@@ -486,7 +486,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 59,
+      "averageScore": 58,
       "nextEpisode": 3,
       "airingAt": 1776263400
     },
@@ -503,7 +503,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 71,
       "nextEpisode": 2,
       "airingAt": 1776264300
     }
