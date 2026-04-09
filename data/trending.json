@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T14:37:19Z",
+  "updated_at": "2026-04-09T10:28:38Z",
   "anime": [
     {
       "id": 21,
@@ -32,24 +32,24 @@
       "url": "https://anilist.co/anime/235"
     },
     {
-      "id": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "score": 7.9,
-      "genres": [
-        "Drama",
-        "Psychological"
-      ],
-      "url": "https://anilist.co/anime/180745"
-    },
-    {
       "id": 189046,
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "score": null,
+      "score": 8.5,
       "genres": [
         "Action",
         "Adventure"
       ],
       "url": "https://anilist.co/anime/189046"
+    },
+    {
+      "id": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "score": 8.0,
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "url": "https://anilist.co/anime/180745"
     }
   ]
 }
