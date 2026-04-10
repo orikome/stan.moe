@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-04-10T12:46:16Z",
+  "updated_at": "2026-04-10T15:45:13Z",
   "shows": [
-    {
-      "slug": "the-angel-next-door-spoils-me-rotten-2",
-      "anilistId": 170019,
-      "title": "The Angel Next Door Spoils Me Rotten 2",
-      "titleRomaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/170019",
-      "genres": [
-        "Romance",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 82,
-      "nextEpisode": 2,
-      "airingAt": 1775827800
-    },
-    {
-      "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
-      "anilistId": 182205,
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "titleRomaji": "Tensei Shitara Slime Datta Ken 4th Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-      "siteUrl": "https://anilist.co/anime/182205",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 80,
-      "nextEpisode": 2,
-      "airingAt": 1775829600
-    },
     {
       "slug": "shin-chan",
       "anilistId": 966,
@@ -509,6 +475,40 @@
       "averageScore": 73,
       "nextEpisode": 134,
       "airingAt": 1776419700
+    },
+    {
+      "slug": "the-angel-next-door-spoils-me-rotten-2",
+      "anilistId": 170019,
+      "title": "The Angel Next Door Spoils Me Rotten 2",
+      "titleRomaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/170019",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 82,
+      "nextEpisode": 3,
+      "airingAt": 1776432600
+    },
+    {
+      "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
+      "anilistId": 182205,
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "titleRomaji": "Tensei Shitara Slime Datta Ken 4th Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+      "siteUrl": "https://anilist.co/anime/182205",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 80,
+      "nextEpisode": 3,
+      "airingAt": 1776434400
     }
   ]
 }
