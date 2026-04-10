@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=pok-mon-horizons-the-series</loc>
-    <lastmod>2026-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-angel-next-door-spoils-me-rotten-2</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -192,6 +186,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=petals-of-reincarnation</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=pok-mon-horizons-the-series</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
