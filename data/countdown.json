@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-04-11T15:41:30Z",
+  "updated_at": "2026-04-11T18:44:18Z",
   "shows": [
-    {
-      "slug": "scum-of-the-brave",
-      "anilistId": 187989,
-      "title": "Scum of the Brave",
-      "titleRomaji": "Yuusha no Kuzu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
-      "siteUrl": "https://anilist.co/anime/187989",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 61,
-      "nextEpisode": 13,
-      "airingAt": 1775922960
-    },
-    {
-      "slug": "mistress-kanan-is-devilishly-easy",
-      "anilistId": 190704,
-      "title": "Mistress Kanan is Devilishly Easy",
-      "titleRomaji": "Kanan-sama wa Akumade Choroi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-      "siteUrl": "https://anilist.co/anime/190704",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 69,
-      "nextEpisode": 2,
-      "airingAt": 1775923200
-    },
     {
       "slug": "digimon-beatbreak",
       "anilistId": 188388,
@@ -509,6 +475,40 @@
       "averageScore": 69,
       "nextEpisode": 3,
       "airingAt": 1776526200
+    },
+    {
+      "slug": "scum-of-the-brave",
+      "anilistId": 187989,
+      "title": "Scum of the Brave",
+      "titleRomaji": "Yuusha no Kuzu",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
+      "siteUrl": "https://anilist.co/anime/187989",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 61,
+      "nextEpisode": 14,
+      "airingAt": 1776527760
+    },
+    {
+      "slug": "mistress-kanan-is-devilishly-easy",
+      "anilistId": 190704,
+      "title": "Mistress Kanan is Devilishly Easy",
+      "titleRomaji": "Kanan-sama wa Akumade Choroi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+      "siteUrl": "https://anilist.co/anime/190704",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 69,
+      "nextEpisode": 3,
+      "airingAt": 1776528000
     }
   ]
 }
