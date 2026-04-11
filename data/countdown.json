@@ -1,73 +1,6 @@
 {
-  "updated_at": "2026-04-11T09:43:37Z",
+  "updated_at": "2026-04-11T15:41:30Z",
   "shows": [
-    {
-      "slug": "daemons-of-the-shadow-realm",
-      "anilistId": 195600,
-      "title": "Daemons of the Shadow Realm",
-      "titleRomaji": "Yomi no Tsugai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
-      "siteUrl": "https://anilist.co/anime/195600",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 77,
-      "nextEpisode": 2,
-      "airingAt": 1775917800
-    },
-    {
-      "slug": "akane-banashi",
-      "anilistId": 196935,
-      "title": "Akane-banashi",
-      "titleRomaji": "Akane-banashi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
-      "siteUrl": "https://anilist.co/anime/196935",
-      "genres": [
-        "Drama"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 78,
-      "nextEpisode": 2,
-      "airingAt": 1775917800
-    },
-    {
-      "slug": "agents-of-the-four-seasons-dance-of-spring",
-      "anilistId": 190143,
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "titleRomaji": "Shunkashuutou Daikousha: Haru no Mai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
-      "siteUrl": "https://anilist.co/anime/190143",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": 14,
-      "averageScore": 76,
-      "nextEpisode": 3,
-      "airingAt": 1775919600
-    },
-    {
-      "slug": "needy-girl-overdose",
-      "anilistId": 202102,
-      "title": "NEEDY GIRL OVERDOSE",
-      "titleRomaji": "NEEDY GIRL OVERDOSE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
-      "siteUrl": "https://anilist.co/anime/202102",
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 69,
-      "nextEpisode": 2,
-      "airingAt": 1775921400
-    },
     {
       "slug": "scum-of-the-brave",
       "anilistId": 187989,
@@ -509,6 +442,73 @@
       "averageScore": 78,
       "nextEpisode": 3,
       "airingAt": 1776504360
+    },
+    {
+      "slug": "daemons-of-the-shadow-realm",
+      "anilistId": 195600,
+      "title": "Daemons of the Shadow Realm",
+      "titleRomaji": "Yomi no Tsugai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+      "siteUrl": "https://anilist.co/anime/195600",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 77,
+      "nextEpisode": 3,
+      "airingAt": 1776522600
+    },
+    {
+      "slug": "akane-banashi",
+      "anilistId": 196935,
+      "title": "Akane-banashi",
+      "titleRomaji": "Akane-banashi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+      "siteUrl": "https://anilist.co/anime/196935",
+      "genres": [
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 78,
+      "nextEpisode": 3,
+      "airingAt": 1776522600
+    },
+    {
+      "slug": "agents-of-the-four-seasons-dance-of-spring",
+      "anilistId": 190143,
+      "title": "Agents of the Four Seasons: Dance of Spring",
+      "titleRomaji": "Shunkashuutou Daikousha: Haru no Mai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
+      "siteUrl": "https://anilist.co/anime/190143",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": 14,
+      "averageScore": 76,
+      "nextEpisode": 4,
+      "airingAt": 1776524400
+    },
+    {
+      "slug": "needy-girl-overdose",
+      "anilistId": 202102,
+      "title": "NEEDY GIRL OVERDOSE",
+      "titleRomaji": "NEEDY GIRL OVERDOSE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+      "siteUrl": "https://anilist.co/anime/202102",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 69,
+      "nextEpisode": 3,
+      "airingAt": 1776526200
     }
   ]
 }
