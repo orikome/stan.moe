@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T04:29:01Z",
+  "updated_at": "2026-04-12T09:44:13Z",
   "shows": [
     {
       "slug": "one-piece",
@@ -48,7 +48,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 71,
+      "averageScore": 72,
       "nextEpisode": 2,
       "airingAt": 1776090240
     },
@@ -184,7 +184,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 65,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1776342600
     },
@@ -303,7 +303,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 70,
+      "averageScore": 72,
       "nextEpisode": 2,
       "airingAt": 1776438000
     },
@@ -404,7 +404,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 77,
       "nextEpisode": 3,
       "airingAt": 1776522600
     },
@@ -438,7 +438,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 69,
+      "averageScore": 68,
       "nextEpisode": 3,
       "airingAt": 1776526200
     },
@@ -472,26 +472,9 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 69,
+      "averageScore": 68,
       "nextEpisode": 3,
       "airingAt": 1776528000
-    },
-    {
-      "slug": "digimon-beatbreak",
-      "anilistId": 188388,
-      "title": "DIGIMON BEATBREAK",
-      "titleRomaji": "DIGIMON BEATBREAK",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-      "siteUrl": "https://anilist.co/anime/188388",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 68,
-      "nextEpisode": 27,
-      "airingAt": 1776556800
     },
     {
       "slug": "rooster-fighter",
@@ -509,6 +492,23 @@
       "averageScore": 65,
       "nextEpisode": 6,
       "airingAt": 1776571200
+    },
+    {
+      "slug": "wistoria-wand-and-sword-season-2",
+      "anilistId": 182300,
+      "title": "Wistoria: Wand and Sword Season 2",
+      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/182300",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 2,
+      "airingAt": 1776583800
     }
   ]
 }
