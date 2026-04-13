@@ -167,12 +167,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=scum-of-the-brave</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=mistress-kanan-is-devilishly-easy</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>daily</changefreq>
@@ -186,6 +180,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=wistoria-wand-and-sword-season-2</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=mission-yozakura-family-season-2</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

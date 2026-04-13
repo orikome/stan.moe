@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T01:06:11Z",
+  "updated_at": "2026-04-13T10:06:10Z",
   "shows": [
     {
       "slug": "farming-life-in-another-world-2",
@@ -82,7 +82,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1776177000
     },
@@ -183,7 +183,7 @@
         "Action",
         "Adventure"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 13,
       "averageScore": 82,
       "nextEpisode": 3,
       "airingAt": 1776344400
@@ -371,7 +371,7 @@
         "Adventure"
       ],
       "totalEpisodes": 24,
-      "averageScore": 77,
+      "averageScore": 78,
       "nextEpisode": 3,
       "airingAt": 1776522600
     },
@@ -426,23 +426,6 @@
       "airingAt": 1776526200
     },
     {
-      "slug": "scum-of-the-brave",
-      "anilistId": 187989,
-      "title": "Scum of the Brave",
-      "titleRomaji": "Yuusha no Kuzu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-IjVYJxi0bEcr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
-      "siteUrl": "https://anilist.co/anime/187989",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 61,
-      "nextEpisode": 14,
-      "airingAt": 1776527760
-    },
-    {
       "slug": "mistress-kanan-is-devilishly-easy",
       "anilistId": 190704,
       "title": "Mistress Kanan is Devilishly Easy",
@@ -489,9 +472,26 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 78,
       "nextEpisode": 2,
       "airingAt": 1776583800
+    },
+    {
+      "slug": "mission-yozakura-family-season-2",
+      "anilistId": 182578,
+      "title": "Mission: Yozakura Family Season 2",
+      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
+      "siteUrl": "https://anilist.co/anime/182578",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 2,
+      "airingAt": 1776585600
     },
     {
       "slug": "one-piece",
