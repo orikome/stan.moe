@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-04-14T09:57:31Z",
+  "updated_at": "2026-04-14T15:54:02Z",
   "shows": [
-    {
-      "slug": "marriagetoxin",
-      "anilistId": 199547,
-      "title": "MARRIAGETOXIN",
-      "titleRomaji": "MARRIAGETOXIN",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
-      "siteUrl": "https://anilist.co/anime/199547",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 74,
-      "nextEpisode": 2,
-      "airingAt": 1776175200
-    },
-    {
-      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
-      "anilistId": 169580,
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/169580",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 74,
-      "nextEpisode": 2,
-      "airingAt": 1776177000
-    },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
       "anilistId": 180745,
@@ -426,23 +392,6 @@
       "airingAt": 1776583800
     },
     {
-      "slug": "mission-yozakura-family-season-2",
-      "anilistId": 182578,
-      "title": "Mission: Yozakura Family Season 2",
-      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-      "siteUrl": "https://anilist.co/anime/182578",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 73,
-      "nextEpisode": 2,
-      "airingAt": 1776585600
-    },
-    {
       "slug": "one-piece",
       "anilistId": 21,
       "title": "ONE PIECE",
@@ -509,6 +458,57 @@
       "averageScore": 64,
       "nextEpisode": 3,
       "airingAt": 1776697200
+    },
+    {
+      "slug": "marriagetoxin",
+      "anilistId": 199547,
+      "title": "MARRIAGETOXIN",
+      "titleRomaji": "MARRIAGETOXIN",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
+      "siteUrl": "https://anilist.co/anime/199547",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 74,
+      "nextEpisode": 3,
+      "airingAt": 1776780000
+    },
+    {
+      "slug": "i-want-to-end-this-love-game",
+      "anilistId": 194393,
+      "title": "I Want to End this Love Game",
+      "titleRomaji": "Aishiteru Game wo Owarasetai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+      "siteUrl": "https://anilist.co/anime/194393",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1776780000
+    },
+    {
+      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
+      "anilistId": 169580,
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/169580",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 74,
+      "nextEpisode": 3,
+      "airingAt": 1776781800
     }
   ]
 }
