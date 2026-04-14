@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T18:50:53Z",
+  "updated_at": "2026-04-14T09:57:31Z",
   "shows": [
     {
       "slug": "marriagetoxin",
@@ -31,7 +31,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1776177000
     },
@@ -189,9 +189,9 @@
       "airingAt": 1776419700
     },
     {
-      "slug": "the-angel-next-door-spoils-me-rotten-2",
+      "slug": "the-angel-next-door-spoils-me-rotten2",
       "anilistId": 170019,
-      "title": "The Angel Next Door Spoils Me Rotten 2",
+      "title": "The Angel Next Door Spoils Me Rotten2",
       "titleRomaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
       "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
       "bannerImage": "",
@@ -235,7 +235,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 72,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1776438000
     },
@@ -404,7 +404,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 65,
+      "averageScore": 64,
       "nextEpisode": 6,
       "airingAt": 1776571200
     },
