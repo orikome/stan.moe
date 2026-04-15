@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T18:50:02Z",
+  "updated_at": "2026-04-15T09:57:57Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -14,7 +14,7 @@
         "Psychological"
       ],
       "totalEpisodes": 16,
-      "averageScore": 80,
+      "averageScore": 79,
       "nextEpisode": 6,
       "airingAt": 1776256200
     },
@@ -167,7 +167,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 81,
+      "averageScore": 80,
       "nextEpisode": 3,
       "airingAt": 1776432600
     },
@@ -455,7 +455,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 64,
+      "averageScore": 63,
       "nextEpisode": 3,
       "airingAt": 1776697200
     },
@@ -489,7 +489,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1776780000
     },
