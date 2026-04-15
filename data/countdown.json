@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-04-15T12:48:52Z",
+  "updated_at": "2026-04-15T15:51:46Z",
   "shows": [
-    {
-      "slug": "re-zero-starting-life-in-another-world-season-4",
-      "anilistId": 189046,
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "titleRomaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
-      "siteUrl": "https://anilist.co/anime/189046",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 19,
-      "averageScore": 85,
-      "nextEpisode": 2,
-      "airingAt": 1776258000
-    },
-    {
-      "slug": "the-beginning-after-the-end-season-2",
-      "anilistId": 194317,
-      "title": "The Beginning After the End Season 2",
-      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/194317",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 57,
-      "nextEpisode": 3,
-      "airingAt": 1776263400
-    },
-    {
-      "slug": "gals-can-t-be-kind-to-otaku",
-      "anilistId": 199588,
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "titleRomaji": "Otaku ni Yasashii Gal wa Inai!?",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
-      "siteUrl": "https://anilist.co/anime/199588",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 72,
-      "nextEpisode": 2,
-      "airingAt": 1776264300
-    },
     {
       "slug": "the-warrior-princess-and-the-barbaric-king",
       "anilistId": 182483,
@@ -509,6 +458,57 @@
       "averageScore": 79,
       "nextEpisode": 7,
       "airingAt": 1776861000
+    },
+    {
+      "slug": "re-zero-starting-life-in-another-world-season-4",
+      "anilistId": 189046,
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "titleRomaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
+      "siteUrl": "https://anilist.co/anime/189046",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 19,
+      "averageScore": 85,
+      "nextEpisode": 3,
+      "airingAt": 1776862800
+    },
+    {
+      "slug": "the-beginning-after-the-end-season-2",
+      "anilistId": 194317,
+      "title": "The Beginning After the End Season 2",
+      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/194317",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 57,
+      "nextEpisode": 4,
+      "airingAt": 1776868200
+    },
+    {
+      "slug": "gals-can-t-be-kind-to-otaku",
+      "anilistId": 199588,
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "titleRomaji": "Otaku ni Yasashii Gal wa Inai!?",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
+      "siteUrl": "https://anilist.co/anime/199588",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 72,
+      "nextEpisode": 3,
+      "airingAt": 1776869100
     }
   ]
 }
