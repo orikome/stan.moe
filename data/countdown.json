@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-04-19T04:30:21Z",
+  "updated_at": "2026-04-19T09:44:25Z",
   "shows": [
-    {
-      "slug": "wistoria-wand-and-sword-season-2",
-      "anilistId": 182300,
-      "title": "Wistoria: Wand and Sword Season 2",
-      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
-      "siteUrl": "https://anilist.co/anime/182300",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 78,
-      "nextEpisode": 2,
-      "airingAt": 1776583800
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -218,7 +201,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 3,
       "airingAt": 1776947400
     },
@@ -252,7 +235,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 75,
+      "averageScore": 76,
       "nextEpisode": 4,
       "airingAt": 1776956160
     },
@@ -269,7 +252,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": 62,
+      "averageScore": 61,
       "nextEpisode": 4,
       "airingAt": 1776958200
     },
@@ -337,7 +320,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 3,
       "airingAt": 1777042800
     },
@@ -371,7 +354,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 77,
       "nextEpisode": 4,
       "airingAt": 1777105800
     },
@@ -455,7 +438,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 14,
-      "averageScore": 76,
+      "averageScore": 75,
       "nextEpisode": 5,
       "airingAt": 1777129200
     },
@@ -509,6 +492,23 @@
       "averageScore": 64,
       "nextEpisode": 7,
       "airingAt": 1777176000
+    },
+    {
+      "slug": "wistoria-wand-and-sword-season-2",
+      "anilistId": 182300,
+      "title": "Wistoria: Wand and Sword Season 2",
+      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
+      "siteUrl": "https://anilist.co/anime/182300",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 78,
+      "nextEpisode": 3,
+      "airingAt": 1777188600
     }
   ]
 }
