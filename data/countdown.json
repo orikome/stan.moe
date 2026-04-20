@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T15:42:59Z",
+  "updated_at": "2026-04-20T10:08:14Z",
   "shows": [
     {
       "slug": "farming-life-in-another-world-2",
@@ -133,7 +133,7 @@
         "Adventure"
       ],
       "totalEpisodes": 19,
-      "averageScore": 85,
+      "averageScore": 86,
       "nextEpisode": 3,
       "airingAt": 1776862800
     },
@@ -489,7 +489,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 79,
       "nextEpisode": 3,
       "airingAt": 1777188600
     },
