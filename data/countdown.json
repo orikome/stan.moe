@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:00:33Z",
+  "updated_at": "2026-04-22T09:59:30Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -353,7 +353,7 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 68,
+      "averageScore": 67,
       "nextEpisode": 4,
       "airingAt": 1777132800
     },
@@ -370,7 +370,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 64,
+      "averageScore": 65,
       "nextEpisode": 7,
       "airingAt": 1777176000
     },
@@ -489,7 +489,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 70,
+      "averageScore": 71,
       "nextEpisode": 3,
       "airingAt": 1777384800
     },
@@ -506,7 +506,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 75,
       "nextEpisode": 4,
       "airingAt": 1777386600
     }
