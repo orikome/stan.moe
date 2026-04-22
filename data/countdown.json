@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-04-22T09:59:30Z",
+  "updated_at": "2026-04-22T12:48:30Z",
   "shows": [
-    {
-      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
-      "anilistId": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-      "siteUrl": "https://anilist.co/anime/180745",
-      "genres": [
-        "Drama",
-        "Psychological"
-      ],
-      "totalEpisodes": 16,
-      "averageScore": 79,
-      "nextEpisode": 7,
-      "airingAt": 1776861000
-    },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
       "anilistId": 189046,
@@ -509,6 +492,23 @@
       "averageScore": 75,
       "nextEpisode": 4,
       "airingAt": 1777386600
+    },
+    {
+      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
+      "anilistId": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+      "siteUrl": "https://anilist.co/anime/180745",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "totalEpisodes": 16,
+      "averageScore": 79,
+      "nextEpisode": 8,
+      "airingAt": 1777465800
     }
   ]
 }
