@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T15:54:38Z",
+  "updated_at": "2026-04-23T10:01:14Z",
   "shows": [
     {
       "slug": "the-warrior-princess-and-the-barbaric-king",
@@ -285,7 +285,7 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 4,
       "airingAt": 1777132800
     },
@@ -387,7 +387,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 62,
+      "averageScore": 61,
       "nextEpisode": 4,
       "airingAt": 1777302000
     },
@@ -506,7 +506,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 4,
       "airingAt": 1777473900
     }
