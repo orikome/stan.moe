@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-04-25T04:22:00Z",
+  "updated_at": "2026-04-25T09:45:10Z",
   "shows": [
-    {
-      "slug": "shin-chan",
-      "anilistId": 966,
-      "title": "Shin Chan",
-      "titleRomaji": "Crayon Shin-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-      "siteUrl": "https://anilist.co/anime/966",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 1332,
-      "airingAt": 1777102200
-    },
-    {
-      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
-      "anilistId": 171110,
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-      "siteUrl": "https://anilist.co/anime/171110",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 4,
-      "airingAt": 1777105800
-    },
-    {
-      "slug": "case-closed",
-      "anilistId": 235,
-      "title": "Case Closed",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1199,
-      "airingAt": 1777107600
-    },
-    {
-      "slug": "welcome-to-demon-school-iruma-kun-season-4",
-      "anilistId": 184492,
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "titleRomaji": "Mairimashita! Iruma-kun 4",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-      "siteUrl": "https://anilist.co/anime/184492",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 78,
-      "nextEpisode": 4,
-      "airingAt": 1777109160
-    },
     {
       "slug": "daemons-of-the-shadow-realm",
       "anilistId": 195600,
@@ -302,7 +234,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 75,
+      "averageScore": 76,
       "nextEpisode": 4,
       "airingAt": 1777386600
     },
@@ -438,7 +370,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": 61,
+      "averageScore": 60,
       "nextEpisode": 5,
       "airingAt": 1777563000
     },
@@ -472,7 +404,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 80,
+      "averageScore": 79,
       "nextEpisode": 5,
       "airingAt": 1777642200
     },
@@ -506,9 +438,77 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 75,
       "nextEpisode": 4,
       "airingAt": 1777647600
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1333,
+      "airingAt": 1777707000
+    },
+    {
+      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
+      "anilistId": 171110,
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+      "siteUrl": "https://anilist.co/anime/171110",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 5,
+      "airingAt": 1777710600
+    },
+    {
+      "slug": "case-closed",
+      "anilistId": 235,
+      "title": "Case Closed",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1200,
+      "airingAt": 1777712400
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 78,
+      "nextEpisode": 5,
+      "airingAt": 1777713960
     }
   ]
 }
