@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-04-25T15:43:27Z",
+  "updated_at": "2026-04-25T18:44:35Z",
   "shows": [
-    {
-      "slug": "mistress-kanan-is-devilishly-easy",
-      "anilistId": 190704,
-      "title": "Mistress Kanan is Devilishly Easy",
-      "titleRomaji": "Kanan-sama wa Akumade Choroi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-      "siteUrl": "https://anilist.co/anime/190704",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 4,
-      "airingAt": 1777132800
-    },
     {
       "slug": "rooster-fighter",
       "anilistId": 179813,
@@ -492,6 +475,23 @@
       "averageScore": 68,
       "nextEpisode": 5,
       "airingAt": 1777735800
+    },
+    {
+      "slug": "mistress-kanan-is-devilishly-easy",
+      "anilistId": 190704,
+      "title": "Mistress Kanan is Devilishly Easy",
+      "titleRomaji": "Kanan-sama wa Akumade Choroi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+      "siteUrl": "https://anilist.co/anime/190704",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 5,
+      "airingAt": 1777737600
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
