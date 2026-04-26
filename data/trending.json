@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T10:36:46Z",
+  "updated_at": "2026-04-26T10:19:32Z",
   "anime": [
     {
       "id": 21,
@@ -22,16 +22,6 @@
       "url": "https://anilist.co/anime/147105"
     },
     {
-      "id": 235,
-      "title": "Case Closed",
-      "score": 8.1,
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "url": "https://anilist.co/anime/235"
-    },
-    {
       "id": 189046,
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "score": 8.6,
@@ -40,6 +30,16 @@
         "Adventure"
       ],
       "url": "https://anilist.co/anime/189046"
+    },
+    {
+      "id": 235,
+      "title": "Case Closed",
+      "score": 8.1,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "url": "https://anilist.co/anime/235"
     },
     {
       "id": 180745,
