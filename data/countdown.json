@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T16:01:24Z",
+  "updated_at": "2026-04-28T10:14:13Z",
   "shows": [
     {
       "slug": "marriagetoxin",
@@ -82,7 +82,7 @@
         "Adventure"
       ],
       "totalEpisodes": 19,
-      "averageScore": 86,
+      "averageScore": 87,
       "nextEpisode": 4,
       "airingAt": 1777467600
     },
@@ -404,7 +404,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 65,
+      "averageScore": 64,
       "nextEpisode": 8,
       "airingAt": 1777780800
     },
