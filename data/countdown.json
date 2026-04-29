@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T01:12:57Z",
+  "updated_at": "2026-04-29T10:13:26Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -82,7 +82,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 4,
       "airingAt": 1777552200
     },
@@ -353,7 +353,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 64,
+      "averageScore": 65,
       "nextEpisode": 8,
       "airingAt": 1777780800
     },
@@ -370,7 +370,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 79,
+      "averageScore": 80,
       "nextEpisode": 4,
       "airingAt": 1777793400
     },
