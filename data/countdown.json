@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-04-30T13:01:12Z",
+  "updated_at": "2026-04-30T15:59:56Z",
   "shows": [
-    {
-      "slug": "the-ramparts-of-ice",
-      "anilistId": 186497,
-      "title": "The Ramparts of Ice",
-      "titleRomaji": "Koori no Jouheki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
-      "siteUrl": "https://anilist.co/anime/186497",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 76,
-      "nextEpisode": 5,
-      "airingAt": 1777560960
-    },
-    {
-      "slug": "petals-of-reincarnation",
-      "anilistId": 179950,
-      "title": "Petals of Reincarnation",
-      "titleRomaji": "Reincarnation no Kaben",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/179950",
-      "genres": [
-        "Action",
-        "Supernatural"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 60,
-      "nextEpisode": 5,
-      "airingAt": 1777563000
-    },
     {
       "slug": "pok-mon-horizons-the-series",
       "anilistId": 158871,
@@ -492,6 +458,40 @@
       "averageScore": 81,
       "nextEpisode": 6,
       "airingAt": 1778158800
+    },
+    {
+      "slug": "the-ramparts-of-ice",
+      "anilistId": 186497,
+      "title": "The Ramparts of Ice",
+      "titleRomaji": "Koori no Jouheki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
+      "siteUrl": "https://anilist.co/anime/186497",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 76,
+      "nextEpisode": 6,
+      "airingAt": 1778165760
+    },
+    {
+      "slug": "petals-of-reincarnation",
+      "anilistId": 179950,
+      "title": "Petals of Reincarnation",
+      "titleRomaji": "Reincarnation no Kaben",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179950-g95odyBfYEbU.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/179950",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 60,
+      "nextEpisode": 6,
+      "airingAt": 1778167800
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
