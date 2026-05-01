@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T10:00:50Z",
+  "updated_at": "2026-05-01T12:46:38Z",
   "shows": [
     {
       "slug": "the-angel-next-door-spoils-me-rotten2",
@@ -477,23 +477,6 @@
       "airingAt": 1778167800
     },
     {
-      "slug": "pok-mon-horizons-the-series",
-      "anilistId": 158871,
-      "title": "Pokémon Horizons: The Series",
-      "titleRomaji": "Pocket Monsters (2023)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-      "siteUrl": "https://anilist.co/anime/158871",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 73,
-      "nextEpisode": 137,
-      "airingAt": 1778234100
-    },
-    {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
       "anilistId": 171110,
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
@@ -509,6 +492,23 @@
       "averageScore": 77,
       "nextEpisode": 5,
       "airingAt": 1778315400
+    },
+    {
+      "slug": "pok-mon-horizons-the-series",
+      "anilistId": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "titleRomaji": "Pocket Monsters (2023)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+      "siteUrl": "https://anilist.co/anime/158871",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 137,
+      "airingAt": 1779443700
     }
   ]
 }
