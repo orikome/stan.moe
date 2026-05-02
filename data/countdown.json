@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-05-01T15:45:50Z",
+  "updated_at": "2026-05-02T09:48:11Z",
   "shows": [
-    {
-      "slug": "shin-chan",
-      "anilistId": 966,
-      "title": "Shin Chan",
-      "titleRomaji": "Crayon Shin-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-      "siteUrl": "https://anilist.co/anime/966",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 1333,
-      "airingAt": 1777707000
-    },
-    {
-      "slug": "case-closed",
-      "anilistId": 235,
-      "title": "Case Closed",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1200,
-      "airingAt": 1777712400
-    },
-    {
-      "slug": "welcome-to-demon-school-iruma-kun-season-4",
-      "anilistId": 184492,
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "titleRomaji": "Mairimashita! Iruma-kun 4",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-      "siteUrl": "https://anilist.co/anime/184492",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 78,
-      "nextEpisode": 5,
-      "airingAt": 1777713960
-    },
     {
       "slug": "kill-blue",
       "anilistId": 198113,
@@ -336,7 +285,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 54,
+      "averageScore": 55,
       "nextEpisode": 6,
       "airingAt": 1778077800
     },
@@ -472,9 +421,26 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 75,
+      "averageScore": 76,
       "nextEpisode": 5,
       "airingAt": 1778252400
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1334,
+      "airingAt": 1778311800
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
@@ -492,6 +458,40 @@
       "averageScore": 77,
       "nextEpisode": 5,
       "airingAt": 1778315400
+    },
+    {
+      "slug": "case-closed",
+      "anilistId": 235,
+      "title": "Case Closed",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1201,
+      "airingAt": 1778317200
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 78,
+      "nextEpisode": 6,
+      "airingAt": 1778318760
     },
     {
       "slug": "pok-mon-horizons-the-series",
