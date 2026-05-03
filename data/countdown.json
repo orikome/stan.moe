@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-02T18:45:21Z",
+  "updated_at": "2026-05-03T09:52:46Z",
   "shows": [
-    {
-      "slug": "wistoria-wand-and-sword-season-2",
-      "anilistId": 182300,
-      "title": "Wistoria: Wand and Sword Season 2",
-      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
-      "siteUrl": "https://anilist.co/anime/182300",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 80,
-      "nextEpisode": 4,
-      "airingAt": 1777793400
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -218,7 +201,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 5,
       "airingAt": 1778157000
     },
@@ -405,7 +388,7 @@
         "Comedy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 72,
+      "averageScore": 73,
       "nextEpisode": 5,
       "airingAt": 1778335200
     },
@@ -492,6 +475,23 @@
       "averageScore": 67,
       "nextEpisode": 6,
       "airingAt": 1778342400
+    },
+    {
+      "slug": "wistoria-wand-and-sword-season-2",
+      "anilistId": 182300,
+      "title": "Wistoria: Wand and Sword Season 2",
+      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
+      "siteUrl": "https://anilist.co/anime/182300",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 80,
+      "nextEpisode": 5,
+      "airingAt": 1778398200
     },
     {
       "slug": "pok-mon-horizons-the-series",
