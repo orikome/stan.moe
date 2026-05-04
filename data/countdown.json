@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T15:44:08Z",
+  "updated_at": "2026-05-04T10:14:19Z",
   "shows": [
     {
       "slug": "farming-life-in-another-world-2",
@@ -31,7 +31,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 72,
+      "averageScore": 73,
       "nextEpisode": 5,
       "airingAt": 1777904640
     },
@@ -252,7 +252,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": 79,
+      "averageScore": 78,
       "nextEpisode": 6,
       "airingAt": 1778247000
     },
@@ -404,7 +404,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 76,
       "nextEpisode": 6,
       "airingAt": 1778337000
     },
