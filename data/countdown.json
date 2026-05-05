@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-05-05T10:10:09Z",
+  "updated_at": "2026-05-05T18:55:42Z",
   "shows": [
-    {
-      "slug": "marriagetoxin",
-      "anilistId": 199547,
-      "title": "MARRIAGETOXIN",
-      "titleRomaji": "MARRIAGETOXIN",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
-      "siteUrl": "https://anilist.co/anime/199547",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 75,
-      "nextEpisode": 5,
-      "airingAt": 1777989600
-    },
-    {
-      "slug": "i-want-to-end-this-love-game",
-      "anilistId": 194393,
-      "title": "I Want to End this Love Game",
-      "titleRomaji": "Aishiteru Game wo Owarasetai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-      "siteUrl": "https://anilist.co/anime/194393",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 71,
-      "nextEpisode": 4,
-      "airingAt": 1777989600
-    },
-    {
-      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
-      "anilistId": 169580,
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/169580",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 76,
-      "nextEpisode": 5,
-      "airingAt": 1777991400
-    },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
       "anilistId": 180745,
@@ -492,6 +441,57 @@
       "averageScore": 61,
       "nextEpisode": 6,
       "airingAt": 1778511600
+    },
+    {
+      "slug": "marriagetoxin",
+      "anilistId": 199547,
+      "title": "MARRIAGETOXIN",
+      "titleRomaji": "MARRIAGETOXIN",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
+      "siteUrl": "https://anilist.co/anime/199547",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 75,
+      "nextEpisode": 6,
+      "airingAt": 1778594400
+    },
+    {
+      "slug": "i-want-to-end-this-love-game",
+      "anilistId": 194393,
+      "title": "I Want to End this Love Game",
+      "titleRomaji": "Aishiteru Game wo Owarasetai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+      "siteUrl": "https://anilist.co/anime/194393",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 71,
+      "nextEpisode": 5,
+      "airingAt": 1778594400
+    },
+    {
+      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
+      "anilistId": 169580,
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/169580",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 76,
+      "nextEpisode": 6,
+      "airingAt": 1778596200
     },
     {
       "slug": "pok-mon-horizons-the-series",
