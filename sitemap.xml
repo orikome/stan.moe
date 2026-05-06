@@ -17,18 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=classroom-of-the-elite-4th-season-second-year-first-semester</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=re-zero-starting-life-in-another-world-season-4</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-beginning-after-the-end-season-2</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
@@ -186,6 +174,18 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=i-made-friends-with-the-second-prettiest-girl-in-my-class</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=classroom-of-the-elite-4th-season-second-year-first-semester</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=re-zero-starting-life-in-another-world-season-4</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
