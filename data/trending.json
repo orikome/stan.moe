@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T12:40:28Z",
+  "updated_at": "2026-05-06T10:43:37Z",
   "anime": [
     {
       "id": 21,
@@ -32,16 +32,6 @@
       "url": "https://anilist.co/anime/189046"
     },
     {
-      "id": 235,
-      "title": "Case Closed",
-      "score": 8.1,
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "url": "https://anilist.co/anime/235"
-    },
-    {
       "id": 180745,
       "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
       "score": 7.9,
@@ -50,6 +40,16 @@
         "Psychological"
       ],
       "url": "https://anilist.co/anime/180745"
+    },
+    {
+      "id": 235,
+      "title": "Case Closed",
+      "score": 8.1,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "url": "https://anilist.co/anime/235"
     }
   ]
 }
