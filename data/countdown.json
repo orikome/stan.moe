@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-09T15:44:52Z",
+  "updated_at": "2026-05-09T18:45:36Z",
   "shows": [
-    {
-      "slug": "mistress-kanan-is-devilishly-easy",
-      "anilistId": 190704,
-      "title": "Mistress Kanan is Devilishly Easy",
-      "titleRomaji": "Kanan-sama wa Akumade Choroi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-      "siteUrl": "https://anilist.co/anime/190704",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 6,
-      "airingAt": 1778342400
-    },
     {
       "slug": "wistoria-wand-and-sword-season-2",
       "anilistId": 182300,
@@ -376,9 +359,9 @@
       "airingAt": 1778920200
     },
     {
-      "slug": "case-closed",
+      "slug": "detective-conan",
       "anilistId": 235,
-      "title": "Case Closed",
+      "title": "Detective Conan",
       "titleRomaji": "Meitantei Conan",
       "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
       "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
@@ -492,6 +475,23 @@
       "averageScore": 68,
       "nextEpisode": 7,
       "airingAt": 1778945400
+    },
+    {
+      "slug": "mistress-kanan-is-devilishly-easy",
+      "anilistId": 190704,
+      "title": "Mistress Kanan is Devilishly Easy",
+      "titleRomaji": "Kanan-sama wa Akumade Choroi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+      "siteUrl": "https://anilist.co/anime/190704",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 7,
+      "airingAt": 1778947200
     },
     {
       "slug": "pok-mon-horizons-the-series",
