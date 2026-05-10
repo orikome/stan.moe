@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-09T18:45:36Z",
+  "updated_at": "2026-05-10T09:56:42Z",
   "shows": [
-    {
-      "slug": "wistoria-wand-and-sword-season-2",
-      "anilistId": 182300,
-      "title": "Wistoria: Wand and Sword Season 2",
-      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
-      "siteUrl": "https://anilist.co/anime/182300",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 5,
-      "airingAt": 1778398200
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -201,7 +184,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 74,
+      "averageScore": 75,
       "nextEpisode": 6,
       "airingAt": 1778683500
     },
@@ -492,6 +475,23 @@
       "averageScore": 67,
       "nextEpisode": 7,
       "airingAt": 1778947200
+    },
+    {
+      "slug": "wistoria-wand-and-sword-season-2",
+      "anilistId": 182300,
+      "title": "Wistoria: Wand and Sword Season 2",
+      "titleRomaji": "Tsue to Tsurugi no Wistoria Season 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
+      "siteUrl": "https://anilist.co/anime/182300",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 6,
+      "airingAt": 1779003000
     },
     {
       "slug": "pok-mon-horizons-the-series",
