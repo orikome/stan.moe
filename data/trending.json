@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T18:22:47Z",
+  "updated_at": "2026-05-10T10:28:58Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/180745"
     },
     {
-      "id": 235,
-      "title": "Detective Conan",
-      "score": 8.1,
+      "id": 182205,
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "score": 8.0,
       "genres": [
-        "Adventure",
-        "Comedy"
+        "Action",
+        "Adventure"
       ],
-      "url": "https://anilist.co/anime/235"
+      "url": "https://anilist.co/anime/182205"
     }
   ]
 }
