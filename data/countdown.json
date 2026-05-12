@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T16:19:54Z",
+  "updated_at": "2026-05-12T01:11:49Z",
   "shows": [
     {
       "slug": "marriagetoxin",
@@ -115,7 +115,7 @@
         "Comedy",
         "Romance"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 75,
       "nextEpisode": 6,
       "airingAt": 1778683500
