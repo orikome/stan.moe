@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T16:16:13Z",
+  "updated_at": "2026-05-13T01:17:54Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -369,7 +369,7 @@
         "Action",
         "Adventure"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 82,
       "nextEpisode": 6,
       "airingAt": 1779003000
