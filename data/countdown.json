@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-05-14T10:14:06Z",
+  "updated_at": "2026-05-14T13:05:59Z",
   "shows": [
-    {
-      "slug": "the-warrior-princess-and-the-barbaric-king",
-      "anilistId": 182483,
-      "title": "The Warrior Princess and the Barbaric King",
-      "titleRomaji": "Hime Kishi wa Barbaroi no Yome",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/182483",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 6,
-      "airingAt": 1778761800
-    },
-    {
-      "slug": "dr-stone-science-future-cour-3",
-      "anilistId": 199221,
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "titleRomaji": "Dr. STONE: SCIENCE FUTURE Part 3",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
-      "siteUrl": "https://anilist.co/anime/199221",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 82,
-      "nextEpisode": 7,
-      "airingAt": 1778763600
-    },
     {
       "slug": "the-ramparts-of-ice",
       "anilistId": 186497,
@@ -492,6 +458,40 @@
       "averageScore": 75,
       "nextEpisode": 7,
       "airingAt": 1779288300
+    },
+    {
+      "slug": "the-warrior-princess-and-the-barbaric-king",
+      "anilistId": 182483,
+      "title": "The Warrior Princess and the Barbaric King",
+      "titleRomaji": "Hime Kishi wa Barbaroi no Yome",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/182483",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 7,
+      "airingAt": 1779366600
+    },
+    {
+      "slug": "dr-stone-science-future-cour-3",
+      "anilistId": 199221,
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "titleRomaji": "Dr. STONE: SCIENCE FUTURE Part 3",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
+      "siteUrl": "https://anilist.co/anime/199221",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 82,
+      "nextEpisode": 8,
+      "airingAt": 1779368400
     },
     {
       "slug": "pok-mon-horizons-the-series",
