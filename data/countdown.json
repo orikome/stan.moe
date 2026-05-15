@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T16:13:05Z",
+  "updated_at": "2026-05-15T10:15:24Z",
   "shows": [
     {
       "slug": "the-angel-next-door-spoils-me-rotten2",
@@ -82,7 +82,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 76,
       "nextEpisode": 6,
       "airingAt": 1778920200
     },
@@ -200,7 +200,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 68,
+      "averageScore": 67,
       "nextEpisode": 7,
       "airingAt": 1778945400
     },
@@ -217,7 +217,7 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 68,
+      "averageScore": 67,
       "nextEpisode": 7,
       "airingAt": 1778947200
     },
@@ -336,7 +336,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 71,
+      "averageScore": 72,
       "nextEpisode": 6,
       "airingAt": 1779199200
     },
@@ -404,7 +404,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 55,
+      "averageScore": 56,
       "nextEpisode": 8,
       "airingAt": 1779287400
     },
