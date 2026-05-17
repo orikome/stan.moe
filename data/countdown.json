@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-17T10:01:39Z",
+  "updated_at": "2026-05-17T15:46:17Z",
   "shows": [
-    {
-      "slug": "one-piece",
-      "anilistId": 21,
-      "title": "ONE PIECE",
-      "titleRomaji": "ONE PIECE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-      "siteUrl": "https://anilist.co/anime/21",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 87,
-      "nextEpisode": 1162,
-      "airingAt": 1779027360
-    },
     {
       "slug": "farming-life-in-another-world-2",
       "anilistId": 197824,
@@ -492,6 +475,23 @@
       "averageScore": 82,
       "nextEpisode": 7,
       "airingAt": 1779607800
+    },
+    {
+      "slug": "one-piece",
+      "anilistId": 21,
+      "title": "ONE PIECE",
+      "titleRomaji": "ONE PIECE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+      "siteUrl": "https://anilist.co/anime/21",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 87,
+      "nextEpisode": 1163,
+      "airingAt": 1779632160
     },
     {
       "slug": "detective-conan",
