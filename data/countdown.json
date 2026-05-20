@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-05-20T10:30:43Z",
+  "updated_at": "2026-05-20T13:22:35Z",
   "shows": [
-    {
-      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
-      "anilistId": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-      "siteUrl": "https://anilist.co/anime/180745",
-      "genres": [
-        "Drama",
-        "Psychological"
-      ],
-      "totalEpisodes": 16,
-      "averageScore": 79,
-      "nextEpisode": 11,
-      "airingAt": 1779280200
-    },
-    {
-      "slug": "re-zero-starting-life-in-another-world-season-4",
-      "anilistId": 189046,
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "titleRomaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
-      "siteUrl": "https://anilist.co/anime/189046",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 19,
-      "averageScore": 87,
-      "nextEpisode": 7,
-      "airingAt": 1779282000
-    },
     {
       "slug": "the-beginning-after-the-end-season-2",
       "anilistId": 194317,
@@ -492,6 +458,40 @@
       "averageScore": 79,
       "nextEpisode": 8,
       "airingAt": 1779805800
+    },
+    {
+      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
+      "anilistId": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+      "siteUrl": "https://anilist.co/anime/180745",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "totalEpisodes": 16,
+      "averageScore": 79,
+      "nextEpisode": 12,
+      "airingAt": 1779885000
+    },
+    {
+      "slug": "re-zero-starting-life-in-another-world-season-4",
+      "anilistId": 189046,
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "titleRomaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
+      "siteUrl": "https://anilist.co/anime/189046",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 19,
+      "averageScore": 87,
+      "nextEpisode": 8,
+      "airingAt": 1779886800
     },
     {
       "slug": "detective-conan",
