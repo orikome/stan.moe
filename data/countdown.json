@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T21:49:41Z",
+  "updated_at": "2026-05-23T01:17:19Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -97,7 +97,7 @@
       "genres": [
         "Drama"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 76,
       "nextEpisode": 8,
       "airingAt": 1779546600
