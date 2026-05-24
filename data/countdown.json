@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T07:32:09Z",
+  "updated_at": "2026-05-24T10:07:37Z",
   "shows": [
     {
       "slug": "one-piece",
@@ -48,7 +48,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 8,
       "airingAt": 1779719040
     },
@@ -371,7 +371,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 24,
-      "averageScore": 79,
+      "averageScore": 80,
       "nextEpisode": 9,
       "airingAt": 1780133160
     },
