@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-25T10:57:17Z",
+  "updated_at": "2026-05-25T13:39:44Z",
   "shows": [
-    {
-      "slug": "farming-life-in-another-world-2",
-      "anilistId": 197824,
-      "title": "Farming Life in Another World 2",
-      "titleRomaji": "Isekai Nonbiri Nouka 2",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-      "siteUrl": "https://anilist.co/anime/197824",
-      "genres": [
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 74,
-      "nextEpisode": 8,
-      "airingAt": 1779715800
-    },
     {
       "slug": "the-klutzy-class-monitor-and-the-girl-with-the-short-skirt",
       "anilistId": 189987,
@@ -509,6 +492,23 @@
       "averageScore": 87,
       "nextEpisode": 1164,
       "airingAt": 1780236960
+    },
+    {
+      "slug": "farming-life-in-another-world-2",
+      "anilistId": 197824,
+      "title": "Farming Life in Another World 2",
+      "titleRomaji": "Isekai Nonbiri Nouka 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+      "siteUrl": "https://anilist.co/anime/197824",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 74,
+      "nextEpisode": 9,
+      "airingAt": 1780320600
     }
   ]
 }
