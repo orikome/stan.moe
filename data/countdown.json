@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T15:48:59Z",
+  "updated_at": "2026-05-25T10:57:17Z",
   "shows": [
     {
       "slug": "farming-life-in-another-world-2",
@@ -31,7 +31,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 73,
       "nextEpisode": 8,
       "airingAt": 1779719040
     },
@@ -460,23 +460,6 @@
       "airingAt": 1780156800
     },
     {
-      "slug": "rooster-fighter",
-      "anilistId": 179813,
-      "title": "Rooster Fighter",
-      "titleRomaji": "Niwatori Fighter",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-      "siteUrl": "https://anilist.co/anime/179813",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 65,
-      "nextEpisode": 12,
-      "airingAt": 1780200000
-    },
-    {
       "slug": "wistoria-wand-and-sword-season-2",
       "anilistId": 182300,
       "title": "Wistoria: Wand and Sword Season 2",
@@ -492,6 +475,23 @@
       "averageScore": 82,
       "nextEpisode": 8,
       "airingAt": 1780212600
+    },
+    {
+      "slug": "mission-yozakura-family-season-2",
+      "anilistId": 182578,
+      "title": "Mission: Yozakura Family Season 2",
+      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
+      "siteUrl": "https://anilist.co/anime/182578",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 75,
+      "nextEpisode": 8,
+      "airingAt": 1780214400
     },
     {
       "slug": "one-piece",
