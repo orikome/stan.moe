@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-05-27T16:42:45Z",
+  "updated_at": "2026-05-28T13:45:49Z",
   "shows": [
-    {
-      "slug": "the-warrior-princess-and-the-barbaric-king",
-      "anilistId": 182483,
-      "title": "The Warrior Princess and the Barbaric King",
-      "titleRomaji": "Hime Kishi wa Barbaroi no Yome",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
-      "siteUrl": "https://anilist.co/anime/182483",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 8,
-      "airingAt": 1779971400
-    },
-    {
-      "slug": "dr-stone-science-future-cour-3",
-      "anilistId": 199221,
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "titleRomaji": "Dr. STONE: SCIENCE FUTURE Part 3",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
-      "siteUrl": "https://anilist.co/anime/199221",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 82,
-      "nextEpisode": 9,
-      "airingAt": 1779973200
-    },
     {
       "slug": "the-ramparts-of-ice",
       "anilistId": 186497,
@@ -443,6 +409,23 @@
       "airingAt": 1780410600
     },
     {
+      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
+      "anilistId": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+      "siteUrl": "https://anilist.co/anime/180745",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "totalEpisodes": 16,
+      "averageScore": 79,
+      "nextEpisode": 13,
+      "airingAt": 1780486200
+    },
+    {
       "slug": "re-zero-starting-life-in-another-world-season-4",
       "anilistId": 189046,
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
@@ -494,21 +477,38 @@
       "airingAt": 1780497900
     },
     {
-      "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
-      "anilistId": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "titleRomaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-      "siteUrl": "https://anilist.co/anime/180745",
+      "slug": "the-warrior-princess-and-the-barbaric-king",
+      "anilistId": 182483,
+      "title": "The Warrior Princess and the Barbaric King",
+      "titleRomaji": "Hime Kishi wa Barbaroi no Yome",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
+      "siteUrl": "https://anilist.co/anime/182483",
       "genres": [
-        "Drama",
-        "Psychological"
+        "Comedy",
+        "Ecchi"
       ],
-      "totalEpisodes": 16,
-      "averageScore": 79,
-      "nextEpisode": 13,
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 9,
       "airingAt": 1780576200
+    },
+    {
+      "slug": "dr-stone-science-future-cour-3",
+      "anilistId": 199221,
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "titleRomaji": "Dr. STONE: SCIENCE FUTURE Part 3",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
+      "siteUrl": "https://anilist.co/anime/199221",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 82,
+      "nextEpisode": 10,
+      "airingAt": 1780578000
     }
   ]
 }
