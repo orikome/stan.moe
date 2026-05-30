@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-05-30T15:51:17Z",
+  "updated_at": "2026-05-30T18:49:16Z",
   "shows": [
-    {
-      "slug": "mistress-kanan-is-devilishly-easy",
-      "anilistId": 190704,
-      "title": "Mistress Kanan is Devilishly Easy",
-      "titleRomaji": "Kanan-sama wa Akumade Choroi",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-      "siteUrl": "https://anilist.co/anime/190704",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 9,
-      "airingAt": 1780156800
-    },
     {
       "slug": "wistoria-wand-and-sword-season-2",
       "anilistId": 182300,
@@ -509,6 +492,23 @@
       "averageScore": 68,
       "nextEpisode": 10,
       "airingAt": 1780759800
+    },
+    {
+      "slug": "mistress-kanan-is-devilishly-easy",
+      "anilistId": 190704,
+      "title": "Mistress Kanan is Devilishly Easy",
+      "titleRomaji": "Kanan-sama wa Akumade Choroi",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+      "siteUrl": "https://anilist.co/anime/190704",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 67,
+      "nextEpisode": 10,
+      "airingAt": 1780761600
     }
   ]
 }
