@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-06-07T07:45:58Z",
+  "updated_at": "2026-06-07T10:17:34Z",
   "shows": [
-    {
-      "slug": "mission-yozakura-family-season-2",
-      "anilistId": 182578,
-      "title": "Mission: Yozakura Family Season 2",
-      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-      "siteUrl": "https://anilist.co/anime/182578",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 75,
-      "nextEpisode": 9,
-      "airingAt": 1780819200
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -472,7 +455,7 @@
         "Drama"
       ],
       "totalEpisodes": 13,
-      "averageScore": 68,
+      "averageScore": 67,
       "nextEpisode": 11,
       "airingAt": 1781364600
     },
@@ -509,6 +492,23 @@
       "averageScore": 82,
       "nextEpisode": 10,
       "airingAt": 1781422200
+    },
+    {
+      "slug": "mission-yozakura-family-season-2",
+      "anilistId": 182578,
+      "title": "Mission: Yozakura Family Season 2",
+      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
+      "siteUrl": "https://anilist.co/anime/182578",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 75,
+      "nextEpisode": 10,
+      "airingAt": 1781424000
     }
   ]
 }
