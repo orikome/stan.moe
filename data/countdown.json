@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-06-10T13:41:45Z",
+  "updated_at": "2026-06-10T16:41:27Z",
   "shows": [
-    {
-      "slug": "the-beginning-after-the-end-season-2",
-      "anilistId": 194317,
-      "title": "The Beginning After the End Season 2",
-      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/194317",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 57,
-      "nextEpisode": 11,
-      "airingAt": 1781101800
-    },
-    {
-      "slug": "gals-can-t-be-kind-to-otaku",
-      "anilistId": 199588,
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "titleRomaji": "Otaku ni Yasashii Gal wa Inai!?",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
-      "siteUrl": "https://anilist.co/anime/199588",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 76,
-      "nextEpisode": 10,
-      "airingAt": 1781102700
-    },
     {
       "slug": "the-warrior-princess-and-the-barbaric-king",
       "anilistId": 182483,
@@ -509,6 +475,40 @@
       "averageScore": 88,
       "nextEpisode": 11,
       "airingAt": 1781701200
+    },
+    {
+      "slug": "the-beginning-after-the-end-season-2",
+      "anilistId": 194317,
+      "title": "The Beginning After the End Season 2",
+      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/194317",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 57,
+      "nextEpisode": 12,
+      "airingAt": 1781706600
+    },
+    {
+      "slug": "gals-can-t-be-kind-to-otaku",
+      "anilistId": 199588,
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "titleRomaji": "Otaku ni Yasashii Gal wa Inai!?",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199588-M2vtWicvqNbU.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
+      "siteUrl": "https://anilist.co/anime/199588",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 76,
+      "nextEpisode": 11,
+      "airingAt": 1781707500
     }
   ]
 }
