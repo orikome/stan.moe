@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T16:21:18Z",
+  "updated_at": "2026-06-10T10:46:15Z",
   "shows": [
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -116,7 +116,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 79,
       "nextEpisode": 11,
       "airingAt": 1781189760
     },
@@ -197,8 +197,8 @@
       "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-WuaolpHqNqHk.jpg",
       "siteUrl": "https://anilist.co/anime/187869",
       "genres": [
-        "Comedy",
-        "Romance"
+        "Romance",
+        "Slice of Life"
       ],
       "totalEpisodes": 12,
       "averageScore": 78,
