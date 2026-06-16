@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-06-16T14:15:10Z",
+  "updated_at": "2026-06-16T17:12:55Z",
   "shows": [
-    {
-      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
-      "anilistId": 169580,
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
-      "siteUrl": "https://anilist.co/anime/169580",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 80,
-      "nextEpisode": 11,
-      "airingAt": 1781620200
-    },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
       "anilistId": 180745,
@@ -509,6 +492,23 @@
       "averageScore": 72,
       "nextEpisode": 11,
       "airingAt": 1782223200
+    },
+    {
+      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
+      "anilistId": 169580,
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
+      "siteUrl": "https://anilist.co/anime/169580",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 80,
+      "nextEpisode": 12,
+      "airingAt": 1782225000
     }
   ]
 }
