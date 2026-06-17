@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T16:41:39Z",
+  "updated_at": "2026-06-17T19:16:06Z",
   "shows": [
     {
       "slug": "the-warrior-princess-and-the-barbaric-king",
@@ -187,23 +187,6 @@
       "averageScore": 80,
       "nextEpisode": 12,
       "airingAt": 1781947560
-    },
-    {
-      "slug": "yowayowa-sensei",
-      "anilistId": 185211,
-      "title": "Yowayowa Sensei",
-      "titleRomaji": "Yowa Yowa Sensei",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185211-ewfgT5Cn99k0.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
-      "siteUrl": "https://anilist.co/anime/185211",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 62,
-      "nextEpisode": 11,
-      "airingAt": 1781958600
     },
     {
       "slug": "kill-blue",
@@ -475,6 +458,23 @@
       "averageScore": 78,
       "nextEpisode": 16,
       "airingAt": 1782304200
+    },
+    {
+      "slug": "the-beginning-after-the-end-season-2",
+      "anilistId": 194317,
+      "title": "The Beginning After the End Season 2",
+      "titleRomaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/194317",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 57,
+      "nextEpisode": 12,
+      "airingAt": 1782311400
     },
     {
       "slug": "gals-can-t-be-kind-to-otaku",
