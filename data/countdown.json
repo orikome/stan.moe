@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T22:09:06Z",
+  "updated_at": "2026-06-18T10:56:50Z",
   "shows": [
     {
       "slug": "the-warrior-princess-and-the-barbaric-king",
@@ -472,7 +472,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": 57,
+      "averageScore": 58,
       "nextEpisode": 12,
       "airingAt": 1782311400
     },
@@ -506,7 +506,7 @@
         "Adventure"
       ],
       "totalEpisodes": 19,
-      "averageScore": 88,
+      "averageScore": 89,
       "nextEpisode": 12,
       "airingAt": 1786539600
     }
