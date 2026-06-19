@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-06-18T22:13:27Z",
+  "updated_at": "2026-06-19T11:00:23Z",
   "shows": [
-    {
-      "slug": "pok-mon-horizons-the-series",
-      "anilistId": 158871,
-      "title": "Pokémon Horizons: The Series",
-      "titleRomaji": "Pocket Monsters (2023)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-      "siteUrl": "https://anilist.co/anime/158871",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 73,
-      "nextEpisode": 141,
-      "airingAt": 1781862900
-    },
     {
       "slug": "the-angel-next-door-spoils-me-rotten2",
       "anilistId": 170019,
@@ -133,7 +116,7 @@
         "Comedy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 73,
       "nextEpisode": 11,
       "airingAt": 1781964000
     },
@@ -492,6 +475,23 @@
       "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1782401400
+    },
+    {
+      "slug": "pok-mon-horizons-the-series",
+      "anilistId": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "titleRomaji": "Pocket Monsters (2023)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+      "siteUrl": "https://anilist.co/anime/158871",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 142,
+      "airingAt": 1782467700
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
