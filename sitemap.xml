@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=mistress-kanan-is-devilishly-easy</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=wistoria-wand-and-sword-season-2</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -54,6 +48,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=liar-game</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=the-most-heretical-last-boss-queen-from-villainess-to-savior</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -167,12 +167,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=daemons-of-the-shadow-realm</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=agents-of-the-four-seasons-dance-of-spring</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -186,6 +180,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=pok-mon-horizons-the-series</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=daemons-of-the-shadow-realm</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
