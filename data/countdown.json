@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-06-19T21:50:13Z",
+  "updated_at": "2026-06-20T10:20:58Z",
   "shows": [
-    {
-      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
-      "anilistId": 171110,
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-      "siteUrl": "https://anilist.co/anime/171110",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 76,
-      "nextEpisode": 11,
-      "airingAt": 1781944200
-    },
-    {
-      "slug": "detective-conan",
-      "anilistId": 235,
-      "title": "Detective Conan",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1204,
-      "airingAt": 1781946000
-    },
-    {
-      "slug": "welcome-to-demon-school-iruma-kun-season-4",
-      "anilistId": 184492,
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "titleRomaji": "Mairimashita! Iruma-kun 4",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-      "siteUrl": "https://anilist.co/anime/184492",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 80,
-      "nextEpisode": 12,
-      "airingAt": 1781947560
-    },
     {
       "slug": "yowayowa-sensei",
       "anilistId": 185211,
@@ -438,7 +387,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": 60,
+      "averageScore": 59,
       "nextEpisode": 13,
       "airingAt": 1782401400
     },
@@ -475,6 +424,57 @@
       "averageScore": 79,
       "nextEpisode": 12,
       "airingAt": 1782486000
+    },
+    {
+      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
+      "anilistId": 171110,
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+      "siteUrl": "https://anilist.co/anime/171110",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 76,
+      "nextEpisode": 12,
+      "airingAt": 1782549000
+    },
+    {
+      "slug": "detective-conan",
+      "anilistId": 235,
+      "title": "Detective Conan",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1205,
+      "airingAt": 1782550800
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 80,
+      "nextEpisode": 13,
+      "airingAt": 1782552360
     },
     {
       "slug": "pok-mon-horizons-the-series",
