@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T08:07:54Z",
+  "updated_at": "2026-06-21T10:39:59Z",
   "shows": [
     {
       "slug": "one-piece",
@@ -252,7 +252,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 13,
-      "averageScore": 59,
+      "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1782401400
     },
