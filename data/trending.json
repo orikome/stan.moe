@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T09:34:27Z",
+  "updated_at": "2026-06-22T15:41:39Z",
   "anime": [
     {
       "id": 21,
@@ -10,16 +10,6 @@
         "Adventure"
       ],
       "url": "https://anilist.co/anime/21"
-    },
-    {
-      "id": 147105,
-      "title": "Witch Hat Atelier",
-      "score": 8.6,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "url": "https://anilist.co/anime/147105"
     },
     {
       "id": 189046,
@@ -50,6 +40,16 @@
         "Adventure"
       ],
       "url": "https://anilist.co/anime/182205"
+    },
+    {
+      "id": 180745,
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "score": 7.8,
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "url": "https://anilist.co/anime/180745"
     }
   ]
 }
