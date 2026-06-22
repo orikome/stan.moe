@@ -17,18 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=the-klutzy-class-monitor-and-the-girl-with-the-short-skirt</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=liar-game</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-most-heretical-last-boss-queen-from-villainess-to-savior</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -155,6 +143,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://stan.moe/countdown/show.html?slug=scum-of-the-brave</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stan.moe/countdown/show.html?slug=wistoria-wand-and-sword-season-2</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -174,6 +168,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-classroom-of-the-black-cat-and-a-witch</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=liar-game</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
