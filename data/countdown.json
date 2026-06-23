@@ -1,56 +1,22 @@
 {
-  "updated_at": "2026-06-23T13:24:31Z",
+  "updated_at": "2026-06-23T16:16:20Z",
   "shows": [
     {
-      "slug": "marriagetoxin",
-      "anilistId": 199547,
-      "title": "MARRIAGETOXIN",
-      "titleRomaji": "MARRIAGETOXIN",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
-      "siteUrl": "https://anilist.co/anime/199547",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 75,
-      "nextEpisode": 12,
-      "airingAt": 1782223200
-    },
-    {
-      "slug": "i-want-to-end-this-love-game",
-      "anilistId": 194393,
-      "title": "I Want to End this Love Game",
-      "titleRomaji": "Aishiteru Game wo Owarasetai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-      "siteUrl": "https://anilist.co/anime/194393",
+      "slug": "my-ribdiculous-reincarnation",
+      "anilistId": 206951,
+      "title": "My Ribdiculous Reincarnation",
+      "titleRomaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
+      "siteUrl": "https://anilist.co/anime/206951",
       "genres": [
         "Comedy",
-        "Romance"
+        "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
-      "nextEpisode": 11,
-      "airingAt": 1782223200
-    },
-    {
-      "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
-      "anilistId": 169580,
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "titleRomaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169580-nXxpmqu6UVux.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
-      "siteUrl": "https://anilist.co/anime/169580",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 80,
+      "averageScore": 65,
       "nextEpisode": 12,
-      "airingAt": 1782225000
+      "airingAt": 1782233940
     },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
@@ -441,6 +407,40 @@
       "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1782745200
+    },
+    {
+      "slug": "marriagetoxin",
+      "anilistId": 199547,
+      "title": "MARRIAGETOXIN",
+      "titleRomaji": "MARRIAGETOXIN",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199547-LAaG3cmKCGhr.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
+      "siteUrl": "https://anilist.co/anime/199547",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 75,
+      "nextEpisode": 13,
+      "airingAt": 1782828000
+    },
+    {
+      "slug": "i-want-to-end-this-love-game",
+      "anilistId": 194393,
+      "title": "I Want to End this Love Game",
+      "titleRomaji": "Aishiteru Game wo Owarasetai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194393-0H9yYABu6y0i.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+      "siteUrl": "https://anilist.co/anime/194393",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 73,
+      "nextEpisode": 12,
+      "airingAt": 1782828000
     },
     {
       "slug": "pok-mon-horizons-the-series",
