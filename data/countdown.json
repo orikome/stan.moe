@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-06-23T16:16:20Z",
+  "updated_at": "2026-06-23T19:12:16Z",
   "shows": [
-    {
-      "slug": "my-ribdiculous-reincarnation",
-      "anilistId": 206951,
-      "title": "My Ribdiculous Reincarnation",
-      "titleRomaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206951-qiHcrw7pwzuq.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
-      "siteUrl": "https://anilist.co/anime/206951",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 65,
-      "nextEpisode": 12,
-      "airingAt": 1782233940
-    },
     {
       "slug": "classroom-of-the-elite-4th-season-second-year-first-semester",
       "anilistId": 180745,
