@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T15:41:39Z",
+  "updated_at": "2026-06-24T14:59:46Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/182205"
     },
     {
-      "id": 180745,
-      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "score": 7.8,
+      "id": 182300,
+      "title": "Wistoria: Wand and Sword Season 2",
+      "score": 8.2,
       "genres": [
-        "Drama",
-        "Psychological"
+        "Action",
+        "Adventure"
       ],
-      "url": "https://anilist.co/anime/180745"
+      "url": "https://anilist.co/anime/182300"
     }
   ]
 }
