@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-06-24T19:02:34Z",
+  "updated_at": "2026-06-25T13:14:16Z",
   "shows": [
-    {
-      "slug": "the-warrior-princess-and-the-barbaric-king",
-      "anilistId": 182483,
-      "title": "The Warrior Princess and the Barbaric King",
-      "titleRomaji": "Hime Kishi wa Barbaroi no Yome",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182483-La7chs6htDWr.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
-      "siteUrl": "https://anilist.co/anime/182483",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 67,
-      "nextEpisode": 12,
-      "airingAt": 1782390600
-    },
-    {
-      "slug": "dr-stone-science-future-cour-3",
-      "anilistId": 199221,
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "titleRomaji": "Dr. STONE: SCIENCE FUTURE Part 3",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
-      "siteUrl": "https://anilist.co/anime/199221",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 82,
-      "nextEpisode": 13,
-      "airingAt": 1782392400
-    },
     {
       "slug": "the-ramparts-of-ice",
       "anilistId": 186497,
@@ -85,6 +51,23 @@
       "averageScore": 67,
       "nextEpisode": 12,
       "airingAt": 1782405900
+    },
+    {
+      "slug": "chiikawa",
+      "anilistId": 140842,
+      "title": "Chiikawa",
+      "titleRomaji": "Chiikawa",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+      "siteUrl": "https://anilist.co/anime/140842",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 83,
+      "nextEpisode": 355,
+      "airingAt": 1782427200
     },
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
@@ -441,6 +424,22 @@
       "averageScore": 67,
       "nextEpisode": 13,
       "airingAt": 1782829800
+    },
+    {
+      "slug": "eren-the-southpaw",
+      "anilistId": 158036,
+      "title": "Eren the Southpaw",
+      "titleRomaji": "Hidarikiki no Eren",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158036-KfXv0BFBUsWl.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158036-gWgQ6wMNsqW7.jpg",
+      "siteUrl": "https://anilist.co/anime/158036",
+      "genres": [
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 56,
+      "nextEpisode": 13,
+      "airingAt": 1782831600
     },
     {
       "slug": "pok-mon-horizons-the-series",
