@@ -83,6 +83,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://stan.moe/countdown/show.html?slug=star-detective-precure</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stan.moe/countdown/show.html?slug=wistoria-wand-and-sword-season-2</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
