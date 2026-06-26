@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-06-25T16:15:37Z",
+  "updated_at": "2026-06-26T01:25:30Z",
   "shows": [
-    {
-      "slug": "chiikawa",
-      "anilistId": 140842,
-      "title": "Chiikawa",
-      "titleRomaji": "Chiikawa",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-      "siteUrl": "https://anilist.co/anime/140842",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 83,
-      "nextEpisode": 355,
-      "airingAt": 1782427200
-    },
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
       "anilistId": 182205,
@@ -338,6 +321,23 @@
       "averageScore": 60,
       "nextEpisode": 13,
       "airingAt": 1782745200
+    },
+    {
+      "slug": "chiikawa",
+      "anilistId": 140842,
+      "title": "Chiikawa",
+      "titleRomaji": "Chiikawa",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+      "siteUrl": "https://anilist.co/anime/140842",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 83,
+      "nextEpisode": 356,
+      "airingAt": 1782772800
     },
     {
       "slug": "marriagetoxin",
