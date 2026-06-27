@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:05:07Z",
+  "updated_at": "2026-06-27T04:45:04Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -439,6 +439,23 @@
       "averageScore": 81,
       "nextEpisode": 13,
       "airingAt": 1783087200
+    },
+    {
+      "slug": "the-drops-of-god",
+      "anilistId": 202508,
+      "title": "The Drops of God",
+      "titleRomaji": "Kami no Shizuku",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+      "siteUrl": "https://anilist.co/anime/202508",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 54,
+      "nextEpisode": 13,
+      "airingAt": 1783089000
     },
     {
       "slug": "daemons-of-the-shadow-realm",
