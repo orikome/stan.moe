@@ -17,12 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=yowayowa-sensei</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=kill-blue</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -132,6 +126,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=pok-mon-horizons-the-series</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=beyblade-x</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
