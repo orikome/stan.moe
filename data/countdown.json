@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-06-27T07:30:47Z",
+  "updated_at": "2026-06-27T10:12:55Z",
   "shows": [
-    {
-      "slug": "doraemon-2005",
-      "anilistId": 8687,
-      "title": "Doraemon (2005)",
-      "titleRomaji": "Doraemon (2005)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-      "siteUrl": "https://anilist.co/anime/8687",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 76,
-      "nextEpisode": 921,
-      "airingAt": 1782547200
-    },
-    {
-      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
-      "anilistId": 171110,
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-      "siteUrl": "https://anilist.co/anime/171110",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 76,
-      "nextEpisode": 12,
-      "airingAt": 1782549000
-    },
-    {
-      "slug": "detective-conan",
-      "anilistId": 235,
-      "title": "Detective Conan",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1205,
-      "airingAt": 1782550800
-    },
-    {
-      "slug": "welcome-to-demon-school-iruma-kun-season-4",
-      "anilistId": 184492,
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "titleRomaji": "Mairimashita! Iruma-kun 4",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-      "siteUrl": "https://anilist.co/anime/184492",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 80,
-      "nextEpisode": 13,
-      "airingAt": 1782552360
-    },
     {
       "slug": "yowayowa-sensei",
       "anilistId": 185211,
@@ -116,7 +48,7 @@
         "Mystery"
       ],
       "totalEpisodes": 26,
-      "averageScore": 66,
+      "averageScore": 65,
       "nextEpisode": 13,
       "airingAt": 1782571560
     },
@@ -456,6 +388,74 @@
       "averageScore": 77,
       "nextEpisode": 1342,
       "airingAt": 1783150200
+    },
+    {
+      "slug": "doraemon-2005",
+      "anilistId": 8687,
+      "title": "Doraemon (2005)",
+      "titleRomaji": "Doraemon (2005)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+      "siteUrl": "https://anilist.co/anime/8687",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 76,
+      "nextEpisode": 922,
+      "airingAt": 1783152000
+    },
+    {
+      "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
+      "anilistId": 171110,
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "titleRomaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+      "siteUrl": "https://anilist.co/anime/171110",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 76,
+      "nextEpisode": 13,
+      "airingAt": 1783153800
+    },
+    {
+      "slug": "detective-conan",
+      "anilistId": 235,
+      "title": "Detective Conan",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1206,
+      "airingAt": 1783155600
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 80,
+      "nextEpisode": 14,
+      "airingAt": 1783157160
     },
     {
       "slug": "daemons-of-the-shadow-realm",
