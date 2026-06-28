@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T18:50:18Z",
+  "updated_at": "2026-06-28T21:47:39Z",
   "shows": [
     {
       "slug": "liar-game",
@@ -217,7 +217,7 @@
         "Comedy"
       ],
       "totalEpisodes": null,
-      "averageScore": 76,
+      "averageScore": 77,
       "nextEpisode": 922,
       "airingAt": 1783152000
     },
