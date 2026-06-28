@@ -1,56 +1,6 @@
 {
-  "updated_at": "2026-06-28T07:45:04Z",
+  "updated_at": "2026-06-28T10:16:48Z",
   "shows": [
-    {
-      "slug": "mission-yozakura-family-season-2",
-      "anilistId": 182578,
-      "title": "Mission: Yozakura Family Season 2",
-      "titleRomaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182578-Te8W0EwesgrS.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-      "siteUrl": "https://anilist.co/anime/182578",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 75,
-      "nextEpisode": 12,
-      "airingAt": 1782633600
-    },
-    {
-      "slug": "ace-of-the-diamond-act-ii-second-season",
-      "anilistId": 177634,
-      "title": "Ace of the Diamond act II -Second Season-",
-      "titleRomaji": "Diamond no Ace act II: Second Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177634-jYdKdbPOwWhR.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
-      "siteUrl": "https://anilist.co/anime/177634",
-      "genres": [
-        "Sports"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 78,
-      "nextEpisode": 13,
-      "airingAt": 1782635400
-    },
-    {
-      "slug": "sazae-san",
-      "anilistId": 2406,
-      "title": "Sazae-san",
-      "titleRomaji": "Sazae-san",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
-      "siteUrl": "https://anilist.co/anime/2406",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 55,
-      "nextEpisode": 2838,
-      "airingAt": 1782639000
-    },
     {
       "slug": "one-piece",
       "anilistId": 21,
@@ -254,6 +204,23 @@
       "airingAt": 1783089000
     },
     {
+      "slug": "rilakkuma",
+      "anilistId": 183231,
+      "title": "RILAKKUMA",
+      "titleRomaji": "Rilakkuma",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+      "siteUrl": "https://anilist.co/anime/183231",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 58,
+      "nextEpisode": 14,
+      "airingAt": 1783124760
+    },
+    {
       "slug": "shin-chan",
       "anilistId": 966,
       "title": "Shin Chan",
@@ -404,6 +371,23 @@
       "averageScore": 68,
       "nextEpisode": 37,
       "airingAt": 1783209600
+    },
+    {
+      "slug": "sazae-san",
+      "anilistId": 2406,
+      "title": "Sazae-san",
+      "titleRomaji": "Sazae-san",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
+      "siteUrl": "https://anilist.co/anime/2406",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 55,
+      "nextEpisode": 2839,
+      "airingAt": 1783243800
     },
     {
       "slug": "cheongchun-blossom-uriui-bom",

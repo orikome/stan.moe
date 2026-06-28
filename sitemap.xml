@@ -17,24 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=mission-yozakura-family-season-2</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=ace-of-the-diamond-act-ii-second-season</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=sazae-san</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=one-piece</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -107,6 +89,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://stan.moe/countdown/show.html?slug=rilakkuma</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -156,6 +144,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=digimon-beatbreak</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=sazae-san</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
