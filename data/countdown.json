@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:16:48Z",
+  "updated_at": "2026-06-28T12:57:39Z",
   "shows": [
     {
       "slug": "one-piece",
@@ -64,7 +64,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 84,
+      "averageScore": 83,
       "nextEpisode": 356,
       "airingAt": 1782772800
     },
