@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T14:59:46Z",
+  "updated_at": "2026-06-28T09:06:18Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/182205"
     },
     {
-      "id": 182300,
-      "title": "Wistoria: Wand and Sword Season 2",
-      "score": 8.2,
+      "id": 235,
+      "title": "Detective Conan",
+      "score": 8.1,
       "genres": [
-        "Action",
-        "Adventure"
+        "Adventure",
+        "Comedy"
       ],
-      "url": "https://anilist.co/anime/182300"
+      "url": "https://anilist.co/anime/235"
     }
   ]
 }
