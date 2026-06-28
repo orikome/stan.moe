@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T15:54:10Z",
+  "updated_at": "2026-06-28T18:50:18Z",
   "shows": [
     {
       "slug": "liar-game",
@@ -222,23 +222,6 @@
       "airingAt": 1783152000
     },
     {
-      "slug": "detective-conan",
-      "anilistId": 235,
-      "title": "Detective Conan",
-      "titleRomaji": "Meitantei Conan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-      "siteUrl": "https://anilist.co/anime/235",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 1206,
-      "airingAt": 1783155600
-    },
-    {
       "slug": "welcome-to-demon-school-iruma-kun-season-4",
       "anilistId": 184492,
       "title": "Welcome to Demon School! Iruma-kun Season 4",
@@ -357,23 +340,6 @@
       "airingAt": 1783243800
     },
     {
-      "slug": "one-piece",
-      "anilistId": 21,
-      "title": "ONE PIECE",
-      "titleRomaji": "ONE PIECE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-      "siteUrl": "https://anilist.co/anime/21",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 87,
-      "nextEpisode": 1169,
-      "airingAt": 1783260960
-    },
-    {
       "slug": "the-classroom-of-the-black-cat-and-a-witch",
       "anilistId": 196974,
       "title": "The Classroom of the Black Cat and a Witch",
@@ -421,6 +387,40 @@
       "averageScore": 76,
       "nextEpisode": 13,
       "airingAt": 1783758600
+    },
+    {
+      "slug": "detective-conan",
+      "anilistId": 235,
+      "title": "Detective Conan",
+      "titleRomaji": "Meitantei Conan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+      "siteUrl": "https://anilist.co/anime/235",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 1206,
+      "airingAt": 1783760400
+    },
+    {
+      "slug": "one-piece",
+      "anilistId": 21,
+      "title": "ONE PIECE",
+      "titleRomaji": "ONE PIECE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+      "siteUrl": "https://anilist.co/anime/21",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 87,
+      "nextEpisode": 1169,
+      "airingAt": 1783865760
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
