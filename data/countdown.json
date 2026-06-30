@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:35:59Z",
+  "updated_at": "2026-06-30T13:11:16Z",
   "shows": [
     {
       "slug": "marriagetoxin",
@@ -354,6 +354,23 @@
       "averageScore": 60,
       "nextEpisode": 14,
       "airingAt": 1783350000
+    },
+    {
+      "slug": "the-oblivious-saint-can-t-contain-her-power",
+      "anilistId": 196219,
+      "title": "The Oblivious Saint Can't Contain Her Power",
+      "titleRomaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-dMT6uXIrecXk.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/196219",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783429200
     },
     {
       "slug": "cheongchun-blossom-uriui-bom",
