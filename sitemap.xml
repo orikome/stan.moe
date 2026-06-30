@@ -17,30 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=marriagetoxin</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=i-want-to-end-this-love-game</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=even-a-replica-can-fall-in-love</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=eren-the-southpaw</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-ramparts-of-ice</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
@@ -66,6 +42,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=the-drops-of-god</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=ninjala-the-animation</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
