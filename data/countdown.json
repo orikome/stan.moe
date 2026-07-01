@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T19:05:46Z",
+  "updated_at": "2026-07-01T10:43:21Z",
   "shows": [
     {
       "slug": "the-ramparts-of-ice",
@@ -31,7 +31,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 83,
+      "averageScore": 84,
       "nextEpisode": 357,
       "airingAt": 1783032000
     },
@@ -201,7 +201,7 @@
         "Mystery"
       ],
       "totalEpisodes": 26,
-      "averageScore": 66,
+      "averageScore": 65,
       "nextEpisode": 14,
       "airingAt": 1783176360
     },
@@ -217,7 +217,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 68,
+      "averageScore": 69,
       "nextEpisode": 66,
       "airingAt": 1783206000
     },
@@ -318,7 +318,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1783429200
     },
