@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T19:08:02Z",
+  "updated_at": "2026-07-02T01:22:09Z",
   "shows": [
     {
       "slug": "the-ramparts-of-ice",
@@ -310,7 +310,7 @@
       "anilistId": 196219,
       "title": "The Oblivious Saint Can't Contain Her Power",
       "titleRomaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-WofGyq2depPi.jpg",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
       "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
       "siteUrl": "https://anilist.co/anime/196219",
       "genres": [
@@ -337,23 +337,6 @@
       "averageScore": null,
       "nextEpisode": 9,
       "airingAt": 1783498500
-    },
-    {
-      "slug": "hana-kimi-season-2",
-      "anilistId": 209669,
-      "title": "Hana-Kimi Season 2",
-      "titleRomaji": "Hanazakari no Kimitachi e 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/209669",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": null,
-      "averageScore": null,
-      "nextEpisode": 2,
-      "airingAt": 1783524600
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
