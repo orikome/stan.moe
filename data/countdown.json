@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T10:20:36Z",
+  "updated_at": "2026-07-02T13:06:37Z",
   "shows": [
     {
       "slug": "the-ramparts-of-ice",
@@ -31,7 +31,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 84,
+      "averageScore": 83,
       "nextEpisode": 357,
       "airingAt": 1783032000
     },
@@ -337,6 +337,40 @@
       "averageScore": null,
       "nextEpisode": 9,
       "airingAt": 1783498500
+    },
+    {
+      "slug": "dara-san-of-the-reiwa-era",
+      "anilistId": 203880,
+      "title": "Dara-san of the Reiwa Era",
+      "titleRomaji": "Reiwa no Dara-san",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/203880",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783600200
+    },
+    {
+      "slug": "bungo-stray-dogs-wan-2",
+      "anilistId": 201667,
+      "title": "Bungo Stray Dogs WAN! 2",
+      "titleRomaji": "Bungou Stray Dogs Wan! 2",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
+      "siteUrl": "https://anilist.co/anime/201667",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783600800
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
