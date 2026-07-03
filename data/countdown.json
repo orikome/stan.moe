@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-07-03T13:07:27Z",
+  "updated_at": "2026-07-03T16:02:15Z",
   "shows": [
-    {
-      "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
-      "anilistId": 182205,
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "titleRomaji": "Tensei Shitara Slime Datta Ken 4th Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
-      "siteUrl": "https://anilist.co/anime/182205",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 81,
-      "nextEpisode": 13,
-      "airingAt": 1783087200
-    },
-    {
-      "slug": "the-drops-of-god",
-      "anilistId": 202508,
-      "title": "The Drops of God",
-      "titleRomaji": "Kami no Shizuku",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
-      "siteUrl": "https://anilist.co/anime/202508",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 54,
-      "nextEpisode": 13,
-      "airingAt": 1783089000
-    },
     {
       "slug": "shin-chan",
       "anilistId": 966,
@@ -169,23 +135,6 @@
       "averageScore": 68,
       "nextEpisode": 37,
       "airingAt": 1783209600
-    },
-    {
-      "slug": "sazae-san",
-      "anilistId": 2406,
-      "title": "Sazae-san",
-      "titleRomaji": "Sazae-san",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
-      "siteUrl": "https://anilist.co/anime/2406",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 55,
-      "nextEpisode": 2839,
-      "airingAt": 1783243800
     },
     {
       "slug": "the-classroom-of-the-black-cat-and-a-witch",
@@ -387,6 +336,91 @@
       "averageScore": 73,
       "nextEpisode": 143,
       "airingAt": 1783677300
+    },
+    {
+      "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
+      "anilistId": 182205,
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "titleRomaji": "Tensei Shitara Slime Datta Ken 4th Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+      "siteUrl": "https://anilist.co/anime/182205",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 81,
+      "nextEpisode": 14,
+      "airingAt": 1783692000
+    },
+    {
+      "slug": "the-drops-of-god",
+      "anilistId": 202508,
+      "title": "The Drops of God",
+      "titleRomaji": "Kami no Shizuku",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+      "siteUrl": "https://anilist.co/anime/202508",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 54,
+      "nextEpisode": 14,
+      "airingAt": 1783693800
+    },
+    {
+      "slug": "draw-this-then-die",
+      "anilistId": 188525,
+      "title": "Draw This, Then Die!",
+      "titleRomaji": "Kore Kaite Shine",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-TBVfJaCZrcfg.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/188525",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783693800
+    },
+    {
+      "slug": "please-excuse-my-younger-brothers",
+      "anilistId": 203490,
+      "title": "Please Excuse My Younger Brothers",
+      "titleRomaji": "Uchi no Otouto-domo ga Sumimasen",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/203490",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783695600
+    },
+    {
+      "slug": "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-m",
+      "anilistId": 209983,
+      "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "titleRomaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/209983",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783699200
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
