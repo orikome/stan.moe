@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T18:50:45Z",
+  "updated_at": "2026-07-03T21:48:23Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -321,23 +321,6 @@
       "airingAt": 1783614480
     },
     {
-      "slug": "pok-mon-horizons-the-series",
-      "anilistId": 158871,
-      "title": "Pokémon Horizons: The Series",
-      "titleRomaji": "Pocket Monsters (2023)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-      "siteUrl": "https://anilist.co/anime/158871",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 73,
-      "nextEpisode": 143,
-      "airingAt": 1783677300
-    },
-    {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
       "anilistId": 182205,
       "title": "That Time I Got Reincarnated as a Slime Season 4",
@@ -417,7 +400,7 @@
         "Comedy",
         "Ecchi"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783701000
@@ -472,6 +455,23 @@
       "averageScore": 87,
       "nextEpisode": 1169,
       "airingAt": 1783865760
+    },
+    {
+      "slug": "pok-mon-horizons-the-series",
+      "anilistId": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "titleRomaji": "Pocket Monsters (2023)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+      "siteUrl": "https://anilist.co/anime/158871",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 143,
+      "airingAt": 1784282100
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
