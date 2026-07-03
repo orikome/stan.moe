@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-03T01:04:15Z",
+  "updated_at": "2026-07-03T10:19:21Z",
   "shows": [
-    {
-      "slug": "pok-mon-horizons-the-series",
-      "anilistId": 158871,
-      "title": "Pokémon Horizons: The Series",
-      "titleRomaji": "Pocket Monsters (2023)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-      "siteUrl": "https://anilist.co/anime/158871",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 73,
-      "nextEpisode": 142,
-      "airingAt": 1783072500
-    },
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
       "anilistId": 182205,
@@ -300,7 +283,7 @@
         "Horror"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 59,
       "nextEpisode": 2,
       "airingAt": 1783600200
     },
@@ -317,7 +300,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1783600800
     },
@@ -333,7 +316,7 @@
         "Music"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 67,
       "nextEpisode": 4,
       "airingAt": 1783605600
     },
@@ -350,7 +333,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 26,
-      "averageScore": null,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1783610760
     },
@@ -367,7 +350,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 67,
       "nextEpisode": 2,
       "airingAt": 1783611000
     },
@@ -384,9 +367,26 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 72,
       "nextEpisode": 2,
       "airingAt": 1783614480
+    },
+    {
+      "slug": "pok-mon-horizons-the-series",
+      "anilistId": 158871,
+      "title": "Pokémon Horizons: The Series",
+      "titleRomaji": "Pocket Monsters (2023)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+      "siteUrl": "https://anilist.co/anime/158871",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 143,
+      "airingAt": 1783677300
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
