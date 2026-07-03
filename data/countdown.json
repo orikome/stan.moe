@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T16:02:15Z",
+  "updated_at": "2026-07-03T18:50:45Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -389,26 +389,9 @@
       "airingAt": 1783693800
     },
     {
-      "slug": "please-excuse-my-younger-brothers",
-      "anilistId": 203490,
-      "title": "Please Excuse My Younger Brothers",
-      "titleRomaji": "Uchi no Otouto-domo ga Sumimasen",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/203490",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": null,
-      "nextEpisode": 2,
-      "airingAt": 1783695600
-    },
-    {
-      "slug": "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-m",
+      "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
       "anilistId": 209983,
-      "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
       "titleRomaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
       "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
       "bannerImage": "",
@@ -421,6 +404,23 @@
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783699200
+    },
+    {
+      "slug": "kamui-he-s-behind-you",
+      "anilistId": 207674,
+      "title": "KAMUI ---He's behind you",
+      "titleRomaji": "Ushiro no Shoumen Kamui-san",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/207674",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783701000
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
