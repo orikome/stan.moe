@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T10:40:13Z",
+  "updated_at": "2026-07-04T12:28:08Z",
   "anime": [
     {
       "id": 21,
@@ -42,14 +42,14 @@
       "url": "https://anilist.co/anime/182205"
     },
     {
-      "id": 235,
-      "title": "Detective Conan",
-      "score": 8.1,
+      "id": 178789,
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "score": null,
       "genres": [
         "Adventure",
-        "Comedy"
+        "Drama"
       ],
-      "url": "https://anilist.co/anime/235"
+      "url": "https://anilist.co/anime/178789"
     }
   ]
 }
