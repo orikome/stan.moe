@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-07-04T01:02:52Z",
+  "updated_at": "2026-07-04T10:13:04Z",
   "shows": [
-    {
-      "slug": "shin-chan",
-      "anilistId": 966,
-      "title": "Shin Chan",
-      "titleRomaji": "Crayon Shin-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-      "siteUrl": "https://anilist.co/anime/966",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 1342,
-      "airingAt": 1783150200
-    },
-    {
-      "slug": "doraemon-2005",
-      "anilistId": 8687,
-      "title": "Doraemon (2005)",
-      "titleRomaji": "Doraemon (2005)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-      "siteUrl": "https://anilist.co/anime/8687",
-      "genres": [
-        "Adventure",
-        "Comedy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 77,
-      "nextEpisode": 922,
-      "airingAt": 1783152000
-    },
-    {
-      "slug": "welcome-to-demon-school-iruma-kun-season-4",
-      "anilistId": 184492,
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "titleRomaji": "Mairimashita! Iruma-kun 4",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
-      "siteUrl": "https://anilist.co/anime/184492",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 80,
-      "nextEpisode": 14,
-      "airingAt": 1783157160
-    },
     {
       "slug": "daemons-of-the-shadow-realm",
       "anilistId": 195600,
@@ -85,22 +34,6 @@
       "averageScore": 65,
       "nextEpisode": 14,
       "airingAt": 1783176360
-    },
-    {
-      "slug": "koupen-chan",
-      "anilistId": 185646,
-      "title": "Koupen-chan",
-      "titleRomaji": "Koupen-chan",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
-      "siteUrl": "https://anilist.co/anime/185646",
-      "genres": [
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 69,
-      "nextEpisode": 66,
-      "airingAt": 1783206000
     },
     {
       "slug": "star-detective-precure",
@@ -232,7 +165,7 @@
         "Horror"
       ],
       "totalEpisodes": 13,
-      "averageScore": 59,
+      "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1783600200
     },
@@ -265,7 +198,7 @@
         "Music"
       ],
       "totalEpisodes": 13,
-      "averageScore": 67,
+      "averageScore": 69,
       "nextEpisode": 4,
       "airingAt": 1783605600
     },
@@ -282,7 +215,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 26,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 2,
       "airingAt": 1783610760
     },
@@ -316,7 +249,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 72,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1783614480
     },
@@ -333,7 +266,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 81,
+      "averageScore": 82,
       "nextEpisode": 14,
       "airingAt": 1783692000
     },
@@ -367,9 +300,26 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1783693800
+    },
+    {
+      "slug": "please-excuse-my-younger-brothers",
+      "anilistId": 203490,
+      "title": "Please Excuse My Younger Brothers",
+      "titleRomaji": "Uchi no Otouto-domo ga Sumimasen",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/203490",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 62,
+      "nextEpisode": 2,
+      "airingAt": 1783695600
     },
     {
       "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
@@ -384,7 +334,7 @@
         "Adventure"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1783699200
     },
@@ -401,9 +351,43 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 53,
       "nextEpisode": 2,
       "airingAt": 1783701000
+    },
+    {
+      "slug": "shin-chan",
+      "anilistId": 966,
+      "title": "Shin Chan",
+      "titleRomaji": "Crayon Shin-chan",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+      "siteUrl": "https://anilist.co/anime/966",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 1343,
+      "airingAt": 1783755000
+    },
+    {
+      "slug": "doraemon-2005",
+      "anilistId": 8687,
+      "title": "Doraemon (2005)",
+      "titleRomaji": "Doraemon (2005)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+      "siteUrl": "https://anilist.co/anime/8687",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 77,
+      "nextEpisode": 923,
+      "airingAt": 1783756800
     },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
@@ -438,6 +422,23 @@
       "averageScore": 81,
       "nextEpisode": 1206,
       "airingAt": 1783760400
+    },
+    {
+      "slug": "welcome-to-demon-school-iruma-kun-season-4",
+      "anilistId": 184492,
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "titleRomaji": "Mairimashita! Iruma-kun 4",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+      "siteUrl": "https://anilist.co/anime/184492",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 80,
+      "nextEpisode": 15,
+      "airingAt": 1783761960
     },
     {
       "slug": "one-piece",
