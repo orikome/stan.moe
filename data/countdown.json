@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T21:48:23Z",
+  "updated_at": "2026-07-04T01:02:52Z",
   "shows": [
     {
       "slug": "shin-chan",
@@ -248,7 +248,7 @@
         "Comedy",
         "Slice of Life"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1783600800
@@ -366,7 +366,7 @@
         "Comedy",
         "Slice of Life"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783693800
@@ -383,7 +383,7 @@
         "Action",
         "Adventure"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 13,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783699200
