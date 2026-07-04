@@ -65,19 +65,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=cheongchun-blossom-uriui-bom</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=dara-san-of-the-reiwa-era</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=bungo-stray-dogs-wan-2</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -174,6 +162,18 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=one-piece</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=mushoku-tensei-jobless-reincarnation-season-3</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=skeleton-knight-in-another-world-season-2</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

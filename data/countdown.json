@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T10:13:04Z",
+  "updated_at": "2026-07-04T12:48:44Z",
   "shows": [
     {
       "slug": "daemons-of-the-shadow-realm",
@@ -137,22 +137,6 @@
       "airingAt": 1783429200
     },
     {
-      "slug": "cheongchun-blossom-uriui-bom",
-      "anilistId": 163793,
-      "title": "Cheongchun Blossom: Uriui Bom",
-      "titleRomaji": "Cheongchun Blossom: Uriui Bom",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/163793",
-      "genres": [
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": null,
-      "nextEpisode": 9,
-      "airingAt": 1783498500
-    },
-    {
       "slug": "dara-san-of-the-reiwa-era",
       "anilistId": 203880,
       "title": "Dara-san of the Reiwa Era",
@@ -168,23 +152,6 @@
       "averageScore": 60,
       "nextEpisode": 2,
       "airingAt": 1783600200
-    },
-    {
-      "slug": "bungo-stray-dogs-wan-2",
-      "anilistId": 201667,
-      "title": "Bungo Stray Dogs WAN! 2",
-      "titleRomaji": "Bungou Stray Dogs Wan! 2",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
-      "siteUrl": "https://anilist.co/anime/201667",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 69,
-      "nextEpisode": 2,
-      "airingAt": 1783600800
     },
     {
       "slug": "bang-dream-yume-mita",
@@ -456,6 +423,40 @@
       "averageScore": 87,
       "nextEpisode": 1169,
       "airingAt": 1783865760
+    },
+    {
+      "slug": "mushoku-tensei-jobless-reincarnation-season-3",
+      "anilistId": 178789,
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "titleRomaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+      "siteUrl": "https://anilist.co/anime/178789",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 3,
+      "airingAt": 1783868400
+    },
+    {
+      "slug": "skeleton-knight-in-another-world-season-2",
+      "anilistId": 185542,
+      "title": "Skeleton Knight in Another World Season 2",
+      "titleRomaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/185542",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783947600
     },
     {
       "slug": "pok-mon-horizons-the-series",
