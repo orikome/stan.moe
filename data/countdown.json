@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-07-04T12:48:44Z",
+  "updated_at": "2026-07-04T15:48:14Z",
   "shows": [
-    {
-      "slug": "daemons-of-the-shadow-realm",
-      "anilistId": 195600,
-      "title": "Daemons of the Shadow Realm",
-      "titleRomaji": "Yomi no Tsugai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
-      "siteUrl": "https://anilist.co/anime/195600",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 78,
-      "nextEpisode": 13,
-      "airingAt": 1783175400
-    },
-    {
-      "slug": "mao",
-      "anilistId": 196012,
-      "title": "MAO",
-      "titleRomaji": "MAO",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
-      "siteUrl": "https://anilist.co/anime/196012",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "totalEpisodes": 26,
-      "averageScore": 65,
-      "nextEpisode": 14,
-      "airingAt": 1783176360
-    },
     {
       "slug": "star-detective-precure",
       "anilistId": 202957,
@@ -154,22 +120,6 @@
       "airingAt": 1783600200
     },
     {
-      "slug": "bang-dream-yume-mita",
-      "anilistId": 198376,
-      "title": "BanG Dream! YUME∞MITA",
-      "titleRomaji": "BanG Dream! Yume∞Mita",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198376-sc5qcFv0RSH9.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198376-1b4DxjIUwMIY.jpg",
-      "siteUrl": "https://anilist.co/anime/198376",
-      "genres": [
-        "Music"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 69,
-      "nextEpisode": 4,
-      "airingAt": 1783605600
-    },
-    {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
       "anilistId": 180136,
       "title": "The Exiled Heavy Knight Knows How to Game the System",
@@ -253,40 +203,6 @@
       "averageScore": 54,
       "nextEpisode": 14,
       "airingAt": 1783693800
-    },
-    {
-      "slug": "draw-this-then-die",
-      "anilistId": 188525,
-      "title": "Draw This, Then Die!",
-      "titleRomaji": "Kore Kaite Shine",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-TBVfJaCZrcfg.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/188525",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 66,
-      "nextEpisode": 2,
-      "airingAt": 1783693800
-    },
-    {
-      "slug": "please-excuse-my-younger-brothers",
-      "anilistId": 203490,
-      "title": "Please Excuse My Younger Brothers",
-      "titleRomaji": "Uchi no Otouto-domo ga Sumimasen",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/203490",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 62,
-      "nextEpisode": 2,
-      "airingAt": 1783695600
     },
     {
       "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
@@ -406,6 +322,90 @@
       "averageScore": 80,
       "nextEpisode": 15,
       "airingAt": 1783761960
+    },
+    {
+      "slug": "black-torch",
+      "anilistId": 187538,
+      "title": "BLACK TORCH",
+      "titleRomaji": "BLACK TORCH",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
+      "siteUrl": "https://anilist.co/anime/187538",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783774800
+    },
+    {
+      "slug": "daemons-of-the-shadow-realm",
+      "anilistId": 195600,
+      "title": "Daemons of the Shadow Realm",
+      "titleRomaji": "Yomi no Tsugai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+      "siteUrl": "https://anilist.co/anime/195600",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 24,
+      "averageScore": 78,
+      "nextEpisode": 14,
+      "airingAt": 1783780200
+    },
+    {
+      "slug": "jaadugar-a-witch-in-mongolia",
+      "anilistId": 190569,
+      "title": "Jaadugar: A Witch in Mongolia",
+      "titleRomaji": "Tenmaku no Jaadugar",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+      "siteUrl": "https://anilist.co/anime/190569",
+      "genres": [
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 3,
+      "airingAt": 1783780200
+    },
+    {
+      "slug": "mao",
+      "anilistId": 196012,
+      "title": "MAO",
+      "titleRomaji": "MAO",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+      "siteUrl": "https://anilist.co/anime/196012",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": 26,
+      "averageScore": 65,
+      "nextEpisode": 15,
+      "airingAt": 1783781160
+    },
+    {
+      "slug": "the-ogre-s-bride",
+      "anilistId": 194219,
+      "title": "The Ogre's Bride",
+      "titleRomaji": "Oni no Hanayome",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/194219",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783783800
     },
     {
       "slug": "one-piece",
