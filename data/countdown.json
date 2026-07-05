@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T01:08:33Z",
+  "updated_at": "2026-07-05T10:13:55Z",
   "shows": [
     {
       "slug": "the-classroom-of-the-black-cat-and-a-witch",
@@ -64,7 +64,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": 60,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1783429200
     },
@@ -81,7 +81,7 @@
         "Horror"
       ],
       "totalEpisodes": 13,
-      "averageScore": 60,
+      "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1783600200
     },
@@ -98,7 +98,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 26,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 2,
       "airingAt": 1783610760
     },
@@ -115,7 +115,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 67,
+      "averageScore": 66,
       "nextEpisode": 2,
       "airingAt": 1783611000
     },
@@ -154,23 +154,6 @@
       "airingAt": 1783692000
     },
     {
-      "slug": "the-drops-of-god",
-      "anilistId": 202508,
-      "title": "The Drops of God",
-      "titleRomaji": "Kami no Shizuku",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
-      "siteUrl": "https://anilist.co/anime/202508",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "totalEpisodes": 24,
-      "averageScore": 54,
-      "nextEpisode": 14,
-      "airingAt": 1783693800
-    },
-    {
       "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
       "anilistId": 209983,
       "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
@@ -183,7 +166,7 @@
         "Adventure"
       ],
       "totalEpisodes": 13,
-      "averageScore": 69,
+      "averageScore": 70,
       "nextEpisode": 2,
       "airingAt": 1783699200
     },
@@ -200,7 +183,7 @@
         "Ecchi"
       ],
       "totalEpisodes": 12,
-      "averageScore": 53,
+      "averageScore": 55,
       "nextEpisode": 2,
       "airingAt": 1783701000
     },
@@ -302,7 +285,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 70,
       "nextEpisode": 2,
       "airingAt": 1783774800
     },
@@ -335,7 +318,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 75,
       "nextEpisode": 3,
       "airingAt": 1783780200
     },
@@ -369,7 +352,7 @@
         "Fantasy"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 62,
       "nextEpisode": 2,
       "airingAt": 1783783800
     },
@@ -386,7 +369,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 70,
       "nextEpisode": 2,
       "airingAt": 1783791480
     },
@@ -425,6 +408,23 @@
       "airingAt": 1783814400
     },
     {
+      "slug": "you-and-i-are-polar-opposites-season-2",
+      "anilistId": 210031,
+      "title": "You and I Are Polar Opposites Season 2",
+      "titleRomaji": "Seihantai na Kimi to Boku 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+      "siteUrl": "https://anilist.co/anime/210031",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 73,
+      "nextEpisode": 2,
+      "airingAt": 1783843200
+    },
+    {
       "slug": "one-piece",
       "anilistId": 21,
       "title": "ONE PIECE",
@@ -454,7 +454,7 @@
         "Drama"
       ],
       "totalEpisodes": 14,
-      "averageScore": null,
+      "averageScore": 86,
       "nextEpisode": 3,
       "airingAt": 1783868400
     },
@@ -471,7 +471,7 @@
         "Adventure"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 70,
       "nextEpisode": 2,
       "airingAt": 1783947600
     },
