@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-07-05T10:13:55Z",
+  "updated_at": "2026-07-05T15:51:29Z",
   "shows": [
-    {
-      "slug": "the-classroom-of-the-black-cat-and-a-witch",
-      "anilistId": 196974,
-      "title": "The Classroom of the Black Cat and a Witch",
-      "titleRomaji": "Kuroneko to Majo no Kyoushitsu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
-      "siteUrl": "https://anilist.co/anime/196974",
-      "genres": [
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 62,
-      "nextEpisode": 13,
-      "airingAt": 1783261800
-    },
     {
       "slug": "liar-game",
       "anilistId": 197754,
@@ -67,23 +51,6 @@
       "averageScore": 61,
       "nextEpisode": 2,
       "airingAt": 1783429200
-    },
-    {
-      "slug": "dara-san-of-the-reiwa-era",
-      "anilistId": 203880,
-      "title": "Dara-san of the Reiwa Era",
-      "titleRomaji": "Reiwa no Dara-san",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/203880",
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 61,
-      "nextEpisode": 2,
-      "airingAt": 1783600200
     },
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -340,23 +307,6 @@
       "airingAt": 1783781160
     },
     {
-      "slug": "the-ogre-s-bride",
-      "anilistId": 194219,
-      "title": "The Ogre's Bride",
-      "titleRomaji": "Oni no Hanayome",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194219-qf7L0SfVi6nc.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/194219",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 62,
-      "nextEpisode": 2,
-      "airingAt": 1783783800
-    },
-    {
       "slug": "rich-girl-caretaker-i-m-secretly-the-caregiver-of-the-most-p",
       "anilistId": 201514,
       "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
@@ -372,23 +322,6 @@
       "averageScore": 70,
       "nextEpisode": 2,
       "airingAt": 1783791480
-    },
-    {
-      "slug": "star-detective-precure",
-      "anilistId": 202957,
-      "title": "Star Detective Precure!",
-      "titleRomaji": "Meitantei Precure!",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
-      "siteUrl": "https://anilist.co/anime/202957",
-      "genres": [
-        "Mahou Shoujo",
-        "Mystery"
-      ],
-      "totalEpisodes": 51,
-      "averageScore": 74,
-      "nextEpisode": 24,
-      "airingAt": 1783812600
     },
     {
       "slug": "digimon-beatbreak",
@@ -425,6 +358,40 @@
       "airingAt": 1783843200
     },
     {
+      "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
+      "anilistId": 200637,
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "titleRomaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/200637",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783863000
+    },
+    {
+      "slug": "sparks-of-tomorrow",
+      "anilistId": 103303,
+      "title": "Sparks of Tomorrow",
+      "titleRomaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-ORmCjr9wDgbM.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+      "siteUrl": "https://anilist.co/anime/103303",
+      "genres": [
+        "Adventure",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783864800
+    },
+    {
       "slug": "one-piece",
       "anilistId": 21,
       "title": "ONE PIECE",
@@ -442,6 +409,22 @@
       "airingAt": 1783865760
     },
     {
+      "slug": "the-classroom-of-the-black-cat-and-a-witch",
+      "anilistId": 196974,
+      "title": "The Classroom of the Black Cat and a Witch",
+      "titleRomaji": "Kuroneko to Majo no Kyoushitsu",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+      "siteUrl": "https://anilist.co/anime/196974",
+      "genres": [
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 62,
+      "nextEpisode": 14,
+      "airingAt": 1783866600
+    },
+    {
       "slug": "mushoku-tensei-jobless-reincarnation-season-3",
       "anilistId": 178789,
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -457,6 +440,23 @@
       "averageScore": 86,
       "nextEpisode": 3,
       "airingAt": 1783868400
+    },
+    {
+      "slug": "goodbye-lara",
+      "anilistId": 177637,
+      "title": "Goodbye, Lara",
+      "titleRomaji": "Sayonara Lara",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+      "siteUrl": "https://anilist.co/anime/177637",
+      "genres": [
+        "Romance",
+        "Supernatural"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783870200
     },
     {
       "slug": "skeleton-knight-in-another-world-season-2",
