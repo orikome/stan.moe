@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:54:55Z",
+  "updated_at": "2026-07-06T07:59:44Z",
   "shows": [
     {
       "slug": "liar-game",
@@ -369,7 +369,7 @@
         "Adventure",
         "Romance"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 13,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783864800
