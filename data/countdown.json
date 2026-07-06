@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T11:04:52Z",
+  "updated_at": "2026-07-06T13:43:52Z",
   "shows": [
     {
       "slug": "liar-game",
@@ -136,23 +136,6 @@
       "averageScore": 71,
       "nextEpisode": 2,
       "airingAt": 1783699200
-    },
-    {
-      "slug": "kamui-he-s-behind-you",
-      "anilistId": 207674,
-      "title": "KAMUI ---He's behind you",
-      "titleRomaji": "Ushiro no Shoumen Kamui-san",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/207674",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 55,
-      "nextEpisode": 2,
-      "airingAt": 1783701000
     },
     {
       "slug": "shin-chan",
@@ -370,7 +353,7 @@
         "Romance"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1783864800
     },
@@ -440,6 +423,23 @@
       "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1783870200
+    },
+    {
+      "slug": "love-unseen-beneath-the-clear-night-sky",
+      "anilistId": 202269,
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "titleRomaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/202269",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783944000
     },
     {
       "slug": "skeleton-knight-in-another-world-season-2",

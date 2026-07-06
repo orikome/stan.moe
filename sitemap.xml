@@ -65,12 +65,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=kamui-he-s-behind-you</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=shin-chan</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
@@ -168,6 +162,12 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=goodbye-lara</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=love-unseen-beneath-the-clear-night-sky</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
