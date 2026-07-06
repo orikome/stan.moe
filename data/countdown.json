@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T01:08:15Z",
+  "updated_at": "2026-07-06T04:54:55Z",
   "shows": [
     {
       "slug": "liar-game",
@@ -290,23 +290,6 @@
       "airingAt": 1783780200
     },
     {
-      "slug": "mao",
-      "anilistId": 196012,
-      "title": "MAO",
-      "titleRomaji": "MAO",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
-      "siteUrl": "https://anilist.co/anime/196012",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "totalEpisodes": 26,
-      "averageScore": 65,
-      "nextEpisode": 15,
-      "airingAt": 1783781160
-    },
-    {
       "slug": "rich-girl-caretaker-i-m-secretly-the-caregiver-of-the-most-p",
       "anilistId": 201514,
       "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
@@ -491,6 +474,23 @@
       "averageScore": 73,
       "nextEpisode": 143,
       "airingAt": 1784282100
+    },
+    {
+      "slug": "mao",
+      "anilistId": 196012,
+      "title": "MAO",
+      "titleRomaji": "MAO",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+      "siteUrl": "https://anilist.co/anime/196012",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "totalEpisodes": 26,
+      "averageScore": 65,
+      "nextEpisode": 15,
+      "airingAt": 1784385960
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
