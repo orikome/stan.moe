@@ -1,57 +1,6 @@
 {
-  "updated_at": "2026-07-06T13:43:52Z",
+  "updated_at": "2026-07-06T16:32:11Z",
   "shows": [
-    {
-      "slug": "liar-game",
-      "anilistId": 197754,
-      "title": "LIAR GAME",
-      "titleRomaji": "LIAR GAME",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-      "siteUrl": "https://anilist.co/anime/197754",
-      "genres": [
-        "Drama",
-        "Psychological"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 60,
-      "nextEpisode": 14,
-      "airingAt": 1783350000
-    },
-    {
-      "slug": "chiikawa",
-      "anilistId": 140842,
-      "title": "Chiikawa",
-      "titleRomaji": "Chiikawa",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140842-T0geOCa3zS0A.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-      "siteUrl": "https://anilist.co/anime/140842",
-      "genres": [
-        "Comedy",
-        "Slice of Life"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 83,
-      "nextEpisode": 358,
-      "airingAt": 1783377600
-    },
-    {
-      "slug": "the-oblivious-saint-can-t-contain-her-power",
-      "anilistId": 196219,
-      "title": "The Oblivious Saint Can't Contain Her Power",
-      "titleRomaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
-      "siteUrl": "https://anilist.co/anime/196219",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 61,
-      "nextEpisode": 2,
-      "airingAt": 1783429200
-    },
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
       "anilistId": 180136,
@@ -457,6 +406,57 @@
       "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1783947600
+    },
+    {
+      "slug": "oh-boy-was-i-wrong-about-her",
+      "anilistId": 169583,
+      "title": "Oh Boy, Was I Wrong About Her",
+      "titleRomaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/169583",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783953000
+    },
+    {
+      "slug": "liar-game",
+      "anilistId": 197754,
+      "title": "LIAR GAME",
+      "titleRomaji": "LIAR GAME",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+      "siteUrl": "https://anilist.co/anime/197754",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 60,
+      "nextEpisode": 15,
+      "airingAt": 1783954800
+    },
+    {
+      "slug": "grand-blue-dreaming-season-3",
+      "anilistId": 199111,
+      "title": "Grand Blue Dreaming Season 3",
+      "titleRomaji": "Grand Blue Season 3",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
+      "siteUrl": "https://anilist.co/anime/199111",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1783954800
     },
     {
       "slug": "pok-mon-horizons-the-series",
