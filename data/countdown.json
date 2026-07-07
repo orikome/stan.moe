@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T10:33:19Z",
+  "updated_at": "2026-07-07T13:14:55Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -222,23 +222,6 @@
       "airingAt": 1783791480
     },
     {
-      "slug": "digimon-beatbreak",
-      "anilistId": 188388,
-      "title": "DIGIMON BEATBREAK",
-      "titleRomaji": "DIGIMON BEATBREAK",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-      "siteUrl": "https://anilist.co/anime/188388",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 68,
-      "nextEpisode": 38,
-      "airingAt": 1783814400
-    },
-    {
       "slug": "you-and-i-are-polar-opposites-season-2",
       "anilistId": 210031,
       "title": "You and I Are Polar Opposites Season 2",
@@ -254,23 +237,6 @@
       "averageScore": 81,
       "nextEpisode": 2,
       "airingAt": 1783843200
-    },
-    {
-      "slug": "the-world-s-strongest-rearguard",
-      "anilistId": 198409,
-      "title": "The World's Strongest Rearguard",
-      "titleRomaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/198409",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 59,
-      "nextEpisode": 2,
-      "airingAt": 1783861200
     },
     {
       "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
@@ -457,6 +423,39 @@
       "averageScore": 82,
       "nextEpisode": 2,
       "airingAt": 1783954800
+    },
+    {
+      "slug": "young-ladies-don-t-play-fighting-games",
+      "anilistId": 128757,
+      "title": "Young Ladies Don't Play Fighting Games",
+      "titleRomaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/128757",
+      "genres": [
+        "Drama"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1784028600
+    },
+    {
+      "slug": "i-want-to-love-you-till-your-dying-day",
+      "anilistId": 187260,
+      "title": "I Want to Love You Till Your Dying Day",
+      "titleRomaji": "Kimi ga Shinu made Koi wo Shitai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+      "siteUrl": "https://anilist.co/anime/187260",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1784032200
     },
     {
       "slug": "pok-mon-horizons-the-series",
