@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T16:32:11Z",
+  "updated_at": "2026-07-07T07:43:21Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -419,7 +419,7 @@
         "Comedy",
         "Romance"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783953000
@@ -453,7 +453,7 @@
         "Comedy",
         "Slice of Life"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1783954800
