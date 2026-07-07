@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T13:14:55Z",
+  "updated_at": "2026-07-07T16:15:59Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -268,7 +268,7 @@
         "Romance"
       ],
       "totalEpisodes": 13,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1783864800
     },
@@ -425,22 +425,6 @@
       "airingAt": 1783954800
     },
     {
-      "slug": "young-ladies-don-t-play-fighting-games",
-      "anilistId": 128757,
-      "title": "Young Ladies Don't Play Fighting Games",
-      "titleRomaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128757-Iqc6hTjEYIz4.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/128757",
-      "genres": [
-        "Drama"
-      ],
-      "totalEpisodes": null,
-      "averageScore": null,
-      "nextEpisode": 2,
-      "airingAt": 1784028600
-    },
-    {
       "slug": "i-want-to-love-you-till-your-dying-day",
       "anilistId": 187260,
       "title": "I Want to Love You Till Your Dying Day",
@@ -452,10 +436,27 @@
         "Drama",
         "Fantasy"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 13,
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1784032200
+    },
+    {
+      "slug": "the-ghost-in-the-shell",
+      "anilistId": 177699,
+      "title": "THE GHOST IN THE SHELL",
+      "titleRomaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
+      "siteUrl": "https://anilist.co/anime/177699",
+      "genres": [
+        "Action",
+        "Psychological"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1784037600
     },
     {
       "slug": "pok-mon-horizons-the-series",
