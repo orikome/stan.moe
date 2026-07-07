@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T07:43:21Z",
+  "updated_at": "2026-07-07T10:33:19Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -31,7 +31,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 66,
+      "averageScore": 67,
       "nextEpisode": 2,
       "airingAt": 1783611000
     },
@@ -167,7 +167,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 71,
+      "averageScore": 72,
       "nextEpisode": 2,
       "airingAt": 1783774800
     },
@@ -200,7 +200,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 78,
       "nextEpisode": 3,
       "airingAt": 1783780200
     },
@@ -217,7 +217,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 71,
+      "averageScore": 72,
       "nextEpisode": 2,
       "airingAt": 1783791480
     },
@@ -369,7 +369,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 12,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1783870200
     },
@@ -386,7 +386,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 73,
       "nextEpisode": 2,
       "airingAt": 1783944000
     },
@@ -420,7 +420,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 67,
       "nextEpisode": 2,
       "airingAt": 1783953000
     },
@@ -454,7 +454,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 82,
       "nextEpisode": 2,
       "airingAt": 1783954800
     },
