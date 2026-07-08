@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T16:08:25Z",
+  "updated_at": "2026-07-08T18:55:14Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -408,6 +408,23 @@
       "airingAt": 1784037600
     },
     {
+      "slug": "clevatess-season-2",
+      "anilistId": 198946,
+      "title": "Clevatess Season 2",
+      "titleRomaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/198946",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1784116800
+    },
+    {
       "slug": "saga-of-tanya-the-evil-season-2",
       "anilistId": 135865,
       "title": "Saga of Tanya the Evil Season 2",
@@ -423,23 +440,6 @@
       "averageScore": null,
       "nextEpisode": 2,
       "airingAt": 1784118600
-    },
-    {
-      "slug": "clevatess-season-2",
-      "anilistId": 198946,
-      "title": "Clevatess Season 2",
-      "titleRomaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/198946",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": null,
-      "nextEpisode": 2,
-      "airingAt": 1784120400
     },
     {
       "slug": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-fo",
