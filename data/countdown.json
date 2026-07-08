@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T16:15:59Z",
+  "updated_at": "2026-07-08T10:14:06Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -200,7 +200,7 @@
         "Drama"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 79,
       "nextEpisode": 3,
       "airingAt": 1783780200
     },
@@ -335,7 +335,7 @@
         "Supernatural"
       ],
       "totalEpisodes": 12,
-      "averageScore": 74,
+      "averageScore": 75,
       "nextEpisode": 2,
       "airingAt": 1783870200
     },
@@ -352,7 +352,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 73,
+      "averageScore": 74,
       "nextEpisode": 2,
       "airingAt": 1783944000
     },
@@ -386,7 +386,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 2,
       "airingAt": 1783953000
     },
@@ -437,7 +437,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 13,
-      "averageScore": null,
+      "averageScore": 75,
       "nextEpisode": 2,
       "airingAt": 1784032200
     },
@@ -454,7 +454,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 77,
       "nextEpisode": 2,
       "airingAt": 1784037600
     },
