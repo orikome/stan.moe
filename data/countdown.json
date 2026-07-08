@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T10:14:06Z",
+  "updated_at": "2026-07-08T12:59:25Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -323,23 +323,6 @@
       "airingAt": 1783868400
     },
     {
-      "slug": "goodbye-lara",
-      "anilistId": 177637,
-      "title": "Goodbye, Lara",
-      "titleRomaji": "Sayonara Lara",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
-      "siteUrl": "https://anilist.co/anime/177637",
-      "genres": [
-        "Romance",
-        "Supernatural"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 75,
-      "nextEpisode": 2,
-      "airingAt": 1783870200
-    },
-    {
       "slug": "love-unseen-beneath-the-clear-night-sky",
       "anilistId": 202269,
       "title": "Love Unseen Beneath the Clear Night Sky",
@@ -457,6 +440,23 @@
       "averageScore": 77,
       "nextEpisode": 2,
       "airingAt": 1784037600
+    },
+    {
+      "slug": "saga-of-tanya-the-evil-season-2",
+      "anilistId": 135865,
+      "title": "Saga of Tanya the Evil Season 2",
+      "titleRomaji": "Youjo Senki II",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/135865",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "totalEpisodes": null,
+      "averageScore": null,
+      "nextEpisode": 2,
+      "airingAt": 1784118600
     },
     {
       "slug": "pok-mon-horizons-the-series",
