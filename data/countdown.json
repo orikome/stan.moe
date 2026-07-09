@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T10:32:58Z",
+  "updated_at": "2026-07-09T13:29:05Z",
   "shows": [
     {
       "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -437,7 +437,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": null,
+      "averageScore": 81,
       "nextEpisode": 2,
       "airingAt": 1784118600
     },
