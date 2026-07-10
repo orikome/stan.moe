@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T10:31:08Z",
+  "updated_at": "2026-07-10T13:13:17Z",
   "shows": [
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
@@ -419,7 +419,7 @@
         "Comedy",
         "Romance"
       ],
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "averageScore": 83,
       "nextEpisode": 2,
       "airingAt": 1784213760
