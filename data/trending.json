@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T10:44:53Z",
+  "updated_at": "2026-07-10T11:03:01Z",
   "anime": [
     {
       "id": 21,
@@ -32,16 +32,6 @@
       "url": "https://anilist.co/anime/195600"
     },
     {
-      "id": 182205,
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "score": 8.2,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "url": "https://anilist.co/anime/182205"
-    },
-    {
       "id": 178789,
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
       "score": 8.6,
@@ -50,6 +40,16 @@
         "Drama"
       ],
       "url": "https://anilist.co/anime/178789"
+    },
+    {
+      "id": 182205,
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "score": 8.2,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/182205"
     }
   ]
 }
