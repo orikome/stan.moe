@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T19:01:51Z",
+  "updated_at": "2026-07-10T10:31:08Z",
   "shows": [
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-season-4",
@@ -386,7 +386,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 70,
+      "averageScore": 69,
       "nextEpisode": 2,
       "airingAt": 1784125800
     },
@@ -403,7 +403,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 70,
+      "averageScore": 71,
       "nextEpisode": 2,
       "airingAt": 1784126760
     },
@@ -420,7 +420,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": null,
+      "averageScore": 83,
       "nextEpisode": 2,
       "airingAt": 1784213760
     },
@@ -471,7 +471,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 74,
+      "averageScore": 75,
       "nextEpisode": 3,
       "airingAt": 1784219280
     },
