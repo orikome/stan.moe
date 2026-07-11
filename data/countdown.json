@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-11T15:45:15Z",
+  "updated_at": "2026-07-11T18:45:19Z",
   "shows": [
-    {
-      "slug": "rich-girl-caretaker-i-m-secretly-the-caregiver-of-the-most-p",
-      "anilistId": 201514,
-      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-      "titleRomaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara O",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/201514",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 72,
-      "nextEpisode": 2,
-      "airingAt": 1783791480
-    },
     {
       "slug": "you-and-i-are-polar-opposites-season-2",
       "anilistId": 210031,
@@ -491,6 +474,23 @@
       "averageScore": 80,
       "nextEpisode": 4,
       "airingAt": 1784385000
+    },
+    {
+      "slug": "rich-girl-caretaker-i-m-secretly-the-caregiver-of-the-most-p",
+      "anilistId": 201514,
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "titleRomaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara O",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201514-BHAeWhSbcBrT.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/201514",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 72,
+      "nextEpisode": 3,
+      "airingAt": 1784396280
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
