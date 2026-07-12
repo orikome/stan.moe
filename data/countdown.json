@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-07-12T10:01:58Z",
+  "updated_at": "2026-07-12T15:45:55Z",
   "shows": [
-    {
-      "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
-      "anilistId": 200637,
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "titleRomaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/200637",
-      "genres": [
-        "Comedy",
-        "Ecchi"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 80,
-      "nextEpisode": 2,
-      "airingAt": 1783863000
-    },
-    {
-      "slug": "sparks-of-tomorrow",
-      "anilistId": 103303,
-      "title": "Sparks of Tomorrow",
-      "titleRomaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
-      "siteUrl": "https://anilist.co/anime/103303",
-      "genres": [
-        "Adventure",
-        "Romance"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 75,
-      "nextEpisode": 2,
-      "airingAt": 1783864800
-    },
-    {
-      "slug": "one-piece",
-      "anilistId": 21,
-      "title": "ONE PIECE",
-      "titleRomaji": "ONE PIECE",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-      "siteUrl": "https://anilist.co/anime/21",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 87,
-      "nextEpisode": 1169,
-      "airingAt": 1783865760
-    },
-    {
-      "slug": "mushoku-tensei-jobless-reincarnation-season-3",
-      "anilistId": 178789,
-      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
-      "titleRomaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
-      "siteUrl": "https://anilist.co/anime/178789",
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "totalEpisodes": 14,
-      "averageScore": 86,
-      "nextEpisode": 3,
-      "airingAt": 1783868400
-    },
     {
       "slug": "love-unseen-beneath-the-clear-night-sky",
       "anilistId": 202269,
@@ -492,6 +424,74 @@
       "averageScore": 81,
       "nextEpisode": 3,
       "airingAt": 1784448000
+    },
+    {
+      "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
+      "anilistId": 200637,
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "titleRomaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/200637",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 80,
+      "nextEpisode": 3,
+      "airingAt": 1784467800
+    },
+    {
+      "slug": "sparks-of-tomorrow",
+      "anilistId": 103303,
+      "title": "Sparks of Tomorrow",
+      "titleRomaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+      "siteUrl": "https://anilist.co/anime/103303",
+      "genres": [
+        "Adventure",
+        "Romance"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 75,
+      "nextEpisode": 3,
+      "airingAt": 1784469600
+    },
+    {
+      "slug": "one-piece",
+      "anilistId": 21,
+      "title": "ONE PIECE",
+      "titleRomaji": "ONE PIECE",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+      "siteUrl": "https://anilist.co/anime/21",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 87,
+      "nextEpisode": 1170,
+      "airingAt": 1784470560
+    },
+    {
+      "slug": "mushoku-tensei-jobless-reincarnation-season-3",
+      "anilistId": 178789,
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "titleRomaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+      "siteUrl": "https://anilist.co/anime/178789",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "totalEpisodes": 14,
+      "averageScore": 86,
+      "nextEpisode": 4,
+      "airingAt": 1784473200
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
