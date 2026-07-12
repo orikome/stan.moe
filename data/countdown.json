@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-11T18:45:19Z",
+  "updated_at": "2026-07-12T10:01:58Z",
   "shows": [
-    {
-      "slug": "you-and-i-are-polar-opposites-season-2",
-      "anilistId": 210031,
-      "title": "You and I Are Polar Opposites Season 2",
-      "titleRomaji": "Seihantai na Kimi to Boku 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
-      "siteUrl": "https://anilist.co/anime/210031",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 81,
-      "nextEpisode": 2,
-      "airingAt": 1783843200
-    },
     {
       "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
       "anilistId": 200637,
@@ -70,22 +53,6 @@
       "airingAt": 1783865760
     },
     {
-      "slug": "the-classroom-of-the-black-cat-and-a-witch",
-      "anilistId": 196974,
-      "title": "The Classroom of the Black Cat and a Witch",
-      "titleRomaji": "Kuroneko to Majo no Kyoushitsu",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
-      "siteUrl": "https://anilist.co/anime/196974",
-      "genres": [
-        "Fantasy"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 62,
-      "nextEpisode": 14,
-      "airingAt": 1783866600
-    },
-    {
       "slug": "mushoku-tensei-jobless-reincarnation-season-3",
       "anilistId": 178789,
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -101,6 +68,23 @@
       "averageScore": 86,
       "nextEpisode": 3,
       "airingAt": 1783868400
+    },
+    {
+      "slug": "love-unseen-beneath-the-clear-night-sky",
+      "anilistId": 202269,
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "titleRomaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/202269",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 75,
+      "nextEpisode": 2,
+      "airingAt": 1783944000
     },
     {
       "slug": "skeleton-knight-in-another-world-season-2",
@@ -183,7 +167,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 77,
+      "averageScore": 78,
       "nextEpisode": 2,
       "airingAt": 1784037600
     },
@@ -302,7 +286,7 @@
         "Slice of Life"
       ],
       "totalEpisodes": null,
-      "averageScore": 67,
+      "averageScore": 68,
       "nextEpisode": 3,
       "airingAt": 1784215800
     },
@@ -491,6 +475,23 @@
       "averageScore": 72,
       "nextEpisode": 3,
       "airingAt": 1784396280
+    },
+    {
+      "slug": "you-and-i-are-polar-opposites-season-2",
+      "anilistId": 210031,
+      "title": "You and I Are Polar Opposites Season 2",
+      "titleRomaji": "Seihantai na Kimi to Boku 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+      "siteUrl": "https://anilist.co/anime/210031",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 81,
+      "nextEpisode": 3,
+      "airingAt": 1784448000
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
