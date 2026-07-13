@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-07-13T10:35:02Z",
+  "updated_at": "2026-07-13T13:15:08Z",
   "shows": [
-    {
-      "slug": "love-unseen-beneath-the-clear-night-sky",
-      "anilistId": 202269,
-      "title": "Love Unseen Beneath the Clear Night Sky",
-      "titleRomaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/202269",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 75,
-      "nextEpisode": 2,
-      "airingAt": 1783944000
-    },
-    {
-      "slug": "skeleton-knight-in-another-world-season-2",
-      "anilistId": 185542,
-      "title": "Skeleton Knight in Another World Season 2",
-      "titleRomaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/185542",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 69,
-      "nextEpisode": 2,
-      "airingAt": 1783947600
-    },
     {
       "slug": "liar-game",
       "anilistId": 197754,
@@ -492,6 +458,40 @@
       "averageScore": 86,
       "nextEpisode": 4,
       "airingAt": 1784473200
+    },
+    {
+      "slug": "love-unseen-beneath-the-clear-night-sky",
+      "anilistId": 202269,
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "titleRomaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202269-7KNj8s2fSsJJ.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/202269",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 75,
+      "nextEpisode": 3,
+      "airingAt": 1784548800
+    },
+    {
+      "slug": "skeleton-knight-in-another-world-season-2",
+      "anilistId": 185542,
+      "title": "Skeleton Knight in Another World Season 2",
+      "titleRomaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/185542",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 69,
+      "nextEpisode": 3,
+      "airingAt": 1784552400
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
