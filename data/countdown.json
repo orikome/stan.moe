@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-14T10:07:43Z",
+  "updated_at": "2026-07-14T12:51:46Z",
   "shows": [
-    {
-      "slug": "i-want-to-love-you-till-your-dying-day",
-      "anilistId": 187260,
-      "title": "I Want to Love You Till Your Dying Day",
-      "titleRomaji": "Kimi ga Shinu made Koi wo Shitai",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
-      "siteUrl": "https://anilist.co/anime/187260",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 75,
-      "nextEpisode": 2,
-      "airingAt": 1784032200
-    },
     {
       "slug": "the-ghost-in-the-shell",
       "anilistId": 177699,
@@ -492,6 +475,23 @@
       "averageScore": 82,
       "nextEpisode": 3,
       "airingAt": 1784559600
+    },
+    {
+      "slug": "i-want-to-love-you-till-your-dying-day",
+      "anilistId": 187260,
+      "title": "I Want to Love You Till Your Dying Day",
+      "titleRomaji": "Kimi ga Shinu made Koi wo Shitai",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+      "siteUrl": "https://anilist.co/anime/187260",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 75,
+      "nextEpisode": 3,
+      "airingAt": 1784637000
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
