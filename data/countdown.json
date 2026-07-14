@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-14T12:51:46Z",
+  "updated_at": "2026-07-14T15:58:03Z",
   "shows": [
-    {
-      "slug": "the-ghost-in-the-shell",
-      "anilistId": 177699,
-      "title": "THE GHOST IN THE SHELL",
-      "titleRomaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
-      "siteUrl": "https://anilist.co/anime/177699",
-      "genres": [
-        "Action",
-        "Psychological"
-      ],
-      "totalEpisodes": null,
-      "averageScore": 78,
-      "nextEpisode": 2,
-      "airingAt": 1784037600
-    },
     {
       "slug": "clevatess-season-2",
       "anilistId": 198946,
@@ -492,6 +475,23 @@
       "averageScore": 75,
       "nextEpisode": 3,
       "airingAt": 1784637000
+    },
+    {
+      "slug": "the-ghost-in-the-shell",
+      "anilistId": 177699,
+      "title": "THE GHOST IN THE SHELL",
+      "titleRomaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-hnzc1CS5ZSM2.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
+      "siteUrl": "https://anilist.co/anime/177699",
+      "genres": [
+        "Action",
+        "Psychological"
+      ],
+      "totalEpisodes": null,
+      "averageScore": 78,
+      "nextEpisode": 3,
+      "airingAt": 1784642400
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
