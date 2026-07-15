@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T15:58:03Z",
+  "updated_at": "2026-07-15T10:10:22Z",
   "shows": [
     {
       "slug": "clevatess-season-2",
@@ -82,7 +82,7 @@
         "Romance"
       ],
       "totalEpisodes": 12,
-      "averageScore": 83,
+      "averageScore": 82,
       "nextEpisode": 2,
       "airingAt": 1784213760
     },
@@ -404,7 +404,7 @@
         "Romance"
       ],
       "totalEpisodes": null,
-      "averageScore": 76,
+      "averageScore": 77,
       "nextEpisode": 3,
       "airingAt": 1784548800
     },
