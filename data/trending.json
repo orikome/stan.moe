@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:03:47Z",
+  "updated_at": "2026-07-15T10:35:18Z",
   "anime": [
     {
       "id": 21,
@@ -12,16 +12,6 @@
       "url": "https://anilist.co/anime/21"
     },
     {
-      "id": 189046,
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "score": 9.0,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "url": "https://anilist.co/anime/189046"
-    },
-    {
       "id": 178789,
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
       "score": 8.6,
@@ -30,6 +20,16 @@
         "Drama"
       ],
       "url": "https://anilist.co/anime/178789"
+    },
+    {
+      "id": 189046,
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "score": 9.0,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://anilist.co/anime/189046"
     },
     {
       "id": 195600,
