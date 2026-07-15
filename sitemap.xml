@@ -17,18 +17,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stan.moe/countdown/show.html?slug=trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-fo</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://stan.moe/countdown/show.html?slug=from-old-country-bumpkin-to-master-swordsman-ii</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://stan.moe/countdown/show.html?slug=smoking-behind-the-supermarket-with-you</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -186,6 +174,18 @@
   </url>
   <url>
     <loc>https://stan.moe/countdown/show.html?slug=saga-of-tanya-the-evil-season-2</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-fo</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://stan.moe/countdown/show.html?slug=from-old-country-bumpkin-to-master-swordsman-ii</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
