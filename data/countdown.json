@@ -1,40 +1,6 @@
 {
-  "updated_at": "2026-07-15T10:10:22Z",
+  "updated_at": "2026-07-15T12:55:08Z",
   "shows": [
-    {
-      "slug": "clevatess-season-2",
-      "anilistId": 198946,
-      "title": "Clevatess Season 2",
-      "titleRomaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/198946",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 75,
-      "nextEpisode": 2,
-      "airingAt": 1784116800
-    },
-    {
-      "slug": "saga-of-tanya-the-evil-season-2",
-      "anilistId": 135865,
-      "title": "Saga of Tanya the Evil Season 2",
-      "titleRomaji": "Youjo Senki II",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/135865",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "totalEpisodes": 12,
-      "averageScore": 81,
-      "nextEpisode": 2,
-      "airingAt": 1784118600
-    },
     {
       "slug": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-fo",
       "anilistId": 159309,
@@ -48,7 +14,7 @@
         "Fantasy"
       ],
       "totalEpisodes": 12,
-      "averageScore": 69,
+      "averageScore": 68,
       "nextEpisode": 2,
       "airingAt": 1784125800
     },
@@ -492,6 +458,40 @@
       "averageScore": 78,
       "nextEpisode": 3,
       "airingAt": 1784642400
+    },
+    {
+      "slug": "clevatess-season-2",
+      "anilistId": 198946,
+      "title": "Clevatess Season 2",
+      "titleRomaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198946-IGXmbqBEYRYD.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/198946",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 75,
+      "nextEpisode": 3,
+      "airingAt": 1784721600
+    },
+    {
+      "slug": "saga-of-tanya-the-evil-season-2",
+      "anilistId": 135865,
+      "title": "Saga of Tanya the Evil Season 2",
+      "titleRomaji": "Youjo Senki II",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/135865",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "totalEpisodes": 12,
+      "averageScore": 81,
+      "nextEpisode": 3,
+      "airingAt": 1784723400
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
