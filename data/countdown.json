@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-17T15:57:45Z",
+  "updated_at": "2026-07-17T18:46:03Z",
   "shows": [
-    {
-      "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
-      "anilistId": 209983,
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "titleRomaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
-      "bannerImage": "",
-      "siteUrl": "https://anilist.co/anime/209983",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 72,
-      "nextEpisode": 3,
-      "airingAt": 1784304000
-    },
     {
       "slug": "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke",
       "anilistId": 171110,
@@ -492,6 +475,23 @@
       "averageScore": 82,
       "nextEpisode": 16,
       "airingAt": 1784901600
+    },
+    {
+      "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with",
+      "anilistId": 209983,
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "titleRomaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
+      "bannerImage": "",
+      "siteUrl": "https://anilist.co/anime/209983",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 72,
+      "nextEpisode": 4,
+      "airingAt": 1784908800
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
