@@ -1,9 +1,10 @@
 name: Fetch Trending Anime
 
 on:
-  schedule:
-    - cron: "0 */2 * * *" # every 2 hours
-  workflow_dispatch: # allow manual runs from GitHub UI
+  # schedule disabled — re-add to resume automatic updates
+  # schedule:
+  #   - cron: "0 */2 * * *" # every 2 hours
+  workflow_dispatch: # manual runs only
 
 permissions:
   contents: write
