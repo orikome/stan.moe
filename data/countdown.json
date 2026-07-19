@@ -1,23 +1,6 @@
 {
-  "updated_at": "2026-07-18T18:45:25Z",
+  "updated_at": "2026-07-19T10:01:58Z",
   "shows": [
-    {
-      "slug": "you-and-i-are-polar-opposites-season-2",
-      "anilistId": 210031,
-      "title": "You and I Are Polar Opposites Season 2",
-      "titleRomaji": "Seihantai na Kimi to Boku 2nd Season",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
-      "siteUrl": "https://anilist.co/anime/210031",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "totalEpisodes": 13,
-      "averageScore": 82,
-      "nextEpisode": 3,
-      "airingAt": 1784448000
-    },
     {
       "slug": "the-100-girlfriends-who-really-really-really-really-really-l",
       "anilistId": 200637,
@@ -201,7 +184,7 @@
         "Psychological"
       ],
       "totalEpisodes": null,
-      "averageScore": 78,
+      "averageScore": 77,
       "nextEpisode": 3,
       "airingAt": 1784642400
     },
@@ -439,7 +422,7 @@
         "Adventure"
       ],
       "totalEpisodes": null,
-      "averageScore": 73,
+      "averageScore": 72,
       "nextEpisode": 4,
       "airingAt": 1784984400
     },
@@ -492,6 +475,23 @@
       "averageScore": 72,
       "nextEpisode": 4,
       "airingAt": 1785001080
+    },
+    {
+      "slug": "you-and-i-are-polar-opposites-season-2",
+      "anilistId": 210031,
+      "title": "You and I Are Polar Opposites Season 2",
+      "titleRomaji": "Seihantai na Kimi to Boku 2nd Season",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+      "siteUrl": "https://anilist.co/anime/210031",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "totalEpisodes": 13,
+      "averageScore": 82,
+      "nextEpisode": 4,
+      "airingAt": 1785052800
     },
     {
       "slug": "re-zero-starting-life-in-another-world-season-4",
